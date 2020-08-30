@@ -641,6 +641,7 @@
 
 ## Go 
 
+- [Mastering_Go_Second_Edition_Zh_CN](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN) - Mastering Go 第二版中文版来袭！
 - [mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
 - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [fiber](https://github.com/gofiber/fiber) - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
@@ -1197,6 +1198,7 @@
 
 ## Java 
 
+- [OnJava8-Examples](https://github.com/BruceEckel/OnJava8-Examples) - Code Examples for the book "On Java 8"
 - [shiro](https://github.com/apache/shiro) - Apache Shiro
 - [libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [stagemonitor](https://github.com/stagemonitor/stagemonitor) - an open source solution to application performance monitoring for java server applications
@@ -2169,6 +2171,8 @@
 
 ## Others 
 
+- [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.
+- [OnJava8](https://github.com/LingCoder/OnJava8) - 《On Java 8》中文版，又名《Java编程思想》 第5版
 - [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [AdguardForMac](https://github.com/AdguardTeam/AdguardForMac) - Open bug tracker for Mac version of AdGuard
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
@@ -2648,6 +2652,7 @@
 
 ## Python 
 
+- [pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Mediawiker](https://github.com/tosher/Mediawiker) - Mediawiker is a plugin for Sublime Text editor that adds possibility to use it as Wiki Editor on Mediawiki based sites like Wikipedia and many other.
 - [simiki](https://github.com/tankywoo/simiki) - Simiki is a simple wiki framework, written in Python.
@@ -3226,6 +3231,7 @@
 
 ## Swift 
 
+- [SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework  Learning and Usage Guide. 🚀
 - [RedditOS](https://github.com/Dimillian/RedditOS) - The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
 - [Publish](https://github.com/JohnSundell/Publish) - A static site generator for Swift developers
 - [openterm](https://github.com/louisdh/openterm) - OpenTerm, a sandboxed command line interface for iOS
@@ -3354,6 +3360,9 @@
 
 ## TypeScript 
 
+- [p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
+- [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
+- [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder 🖥 (WIP)
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [lit-element](https://github.com/Polymer/lit-element) - A simple base class for creating fast, lightweight web components
