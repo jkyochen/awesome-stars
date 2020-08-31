@@ -59,7 +59,6 @@
   - [R](#r)
   - [Red](#red)
   - [Rich Text Format](#rich-text-format)
-  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
@@ -119,6 +118,7 @@
 
 ## C 
 
+- [apr](https://github.com/apache/apr) - Mirror of Apache Portable Runtime
 - [ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick 7
 - [jerryscript](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things.
 - [wiredtiger](https://github.com/wiredtiger/wiredtiger) - WiredTiger's source tree
@@ -364,7 +364,7 @@
 - [multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-Web Compiler
+- [emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Image, GIF and Video enlarger/upscaler(super-resolution) achieved with Waifu2x, SRMD, RealSR,  Anime4K and ACNet.
 - [deepin-boot-maker](https://github.com/linuxdeepin/deepin-boot-maker) - mirrored from https://cr.deepin.io/#/admin/projects/deepin-boot-maker
 - [Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 SSR / Trojan / Trojan-Go / NaiveProxy | 使用 C++ / Qt5 开发 | 可拓展插件式设计 :star:
@@ -1165,7 +1165,6 @@
 - [blog](https://github.com/huangz1990/blog) - 我的个人博客。
 - [rubygems-mirror](https://github.com/ruby-china/rubygems-mirror) - https://gems.ruby-china.com
 - [gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
-- [Resume](https://github.com/DIYgod/Resume) - :cake: Simple resume
 - [zTree_v3](https://github.com/zTree/zTree_v3) - jQuery Tree Plugin
 - [mahua](https://github.com/jserme/mahua) - http://mahua.jser.me    souce code
 - [mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
@@ -1363,9 +1362,7 @@
 - [blueocean-plugin](https://github.com/jenkinsci/blueocean-plugin) - Blue Ocean is a reboot of the Jenkins CI/CD User Experience
 - [spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 - [tbc-ticket-dispenser-java](https://github.com/wubin28/tbc-ticket-dispenser-java) - Kata Ticket Dispenser for my book Taming the Bad Code
-- [hangman](https://github.com/JosephYao/hangman) - 
 - [material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
-- [KataFizzBuzz](https://github.com/wubin28/KataFizzBuzz) - Code Kata for Agile Tour Beijing 2013 in Java
 - [java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8
 - [guava](https://github.com/google/guava) - Google core libraries for Java
 
@@ -2171,6 +2168,7 @@
 
 ## Others 
 
+- [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.
 - [OnJava8](https://github.com/LingCoder/OnJava8) - 《On Java 8》中文版，又名《Java编程思想》 第5版
 - [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
@@ -2543,7 +2541,6 @@
 - [the-rails-doctrine](https://github.com/ruby-china/the-rails-doctrine) - The Rails Doctrine 简体中文翻译
 - [marp](https://github.com/yhatt/marp) - The site of classic Markdown presentation writer app
 - [markdownxiaoshujiang](https://github.com/suziwen/markdownxiaoshujiang) - markdownxiaoshujiang
-- [cyber-dojo](https://github.com/JonJagger/cyber-dojo) - NOTE: cyber-dojo development has moved to...
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [reading-list](https://github.com/ruanyf/reading-list) - Some books I read
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
@@ -2715,7 +2712,7 @@
 - [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
-- [urllib3](https://github.com/urllib3/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, sanity friendly, and more.
+- [urllib3](https://github.com/urllib3/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more.
 - [conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
 - [Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
@@ -2882,9 +2879,7 @@
 - [colorSchemeTool](https://github.com/JetBrains/colorSchemeTool) - 
 - [interpy-zh](https://github.com/eastlakeside/interpy-zh) - 📘《Python进阶》（Intermediate Python 中文版）
 - [Colorsublime-Plugin](https://github.com/Colorsublime/Colorsublime-Plugin) - Plugin for Color Sublime
-- [pydoubanfm](https://github.com/qiuxiang/pydoubanfm) - Python 实现的豆瓣FM客户端
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [XX-Net](https://github.com/mebusw/XX-Net) - 叉叉网   稳定好用的GoAgent
 - [XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 
 ## R 
@@ -2905,12 +2900,9 @@
 - [dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
 - [Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) - Open source tutorial & information collector for hackintosh installation.
 
-## Roff 
-
-- [BaiduPCS](https://github.com/GangZhuo/BaiduPCS) - 百度网盘命令行工具。The terminal utility for Baidu Network Disk.
-
 ## Ruby 
 
+- [sequel](https://github.com/jeremyevans/sequel) - Sequel: The Database Toolkit for Ruby
 - [innodb_ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby
 - [jekyll-menus](https://github.com/forestryio/jekyll-menus) - A menus (site navigation) plugin for your Jekyll website that also works with https://forestry.io (Jekyll CMS)
 - [byebug](https://github.com/deivid-rodriguez/byebug) - Debugging in Ruby 2
@@ -3000,7 +2992,6 @@
 - [ruby-server](https://github.com/standardfile/ruby-server) - [Deprecated] Use https://github.com/standardnotes/syncing-server instead
 - [nanoc](https://github.com/nanoc/nanoc) - A powerful web publishing system
 - [huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [midori.rb](https://github.com/midori-rb/midori.rb) - Lightweight, Flexible and Fast Ruby Web Framework
 - [rspec-rails](https://github.com/rspec/rspec-rails) - RSpec for Rails 5+
 - [jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [octopress](https://github.com/imathis/octopress) - Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?
@@ -3013,9 +3004,7 @@
 - [brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [awesome-rails-gem-zh_CN](https://github.com/debbbbie/awesome-rails-gem-zh_CN) - Rails 常用 Gem 列表 - Awesome Rails Gem 中文版
 - [web](https://github.com/cyber-dojo/web) - repo for the cyberdojo/web Docker image; a cyber-dojo microservice
-- [code_campo](https://github.com/chloerei/code_campo) - [Closed] Source code of http://codecampo.com
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
-- [codingstyle.cn](https://github.com/codingstyle-cn/codingstyle.cn) - :circus_tent: CodingStyle.cn website source code.
 - [homeland](https://github.com/ruby-china/homeland) - :circus_tent: Open source discussion website.
 
 ## Rust 
@@ -3093,6 +3082,7 @@
 
 ## Shell 
 
+- [cyber-dojo](https://github.com/cyber-dojo/cyber-dojo) - home repo for the cyber-dojo organization
 - [alfred-network-workflow](https://github.com/mrodalgaard/alfred-network-workflow) - Show and change your network settings
 - [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
