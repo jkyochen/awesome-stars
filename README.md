@@ -1368,6 +1368,10 @@
 
 ## JavaScript 
 
+- [Functional-Light-JS](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.
+- [promise](https://github.com/then/promise) - Bare bones Promises/A+ implementation
+- [q](https://github.com/kriskowal/q) - A promise library for JavaScript
+- [GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
 - [size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
 - [dagre](https://github.com/dagrejs/dagre) - Directed graph layout for JavaScript
 - [viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
@@ -2186,7 +2190,7 @@
 - [TAADpapers](https://github.com/thunlp/TAADpapers) - Must-read Papers on Textual Adversarial Attack and Defense
 - [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - A curated list of bitcoin services and tools for software developers
 - [awesome-bitcoin-payment-processors](https://github.com/alexk111/awesome-bitcoin-payment-processors) - 🌟 Bitcoin payment processors and stories from merchants using them.
-- [awesome-alfred-workflows](https://github.com/derimagia/awesome-alfred-workflows) - A curated list of awesome alfred workflows
+- [awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
 - [awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -2324,7 +2328,7 @@
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [awesome-c](https://github.com/uhub/awesome-c) - A curated list of awesome C frameworks, libraries and software.
 - [awesome-vagrant](https://github.com/iJackUA/awesome-vagrant) - A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
-- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration / customization made with ❤️
+- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️
 - [vscode-icons](https://github.com/microsoft/vscode-icons) - Icons for Visual Studio Code
 - [OpenCLaP](https://github.com/thunlp/OpenCLaP) - Open Chinese Language Pre-trained Model Zoo
 - [shadowsocksr-android](https://github.com/shadowsocksr-backup/shadowsocksr-android) - A ShadowsocksR client for Android
@@ -2523,7 +2527,6 @@
 - [KarabinerConfiguration](https://github.com/babyking/KarabinerConfiguration) - karabiner preference file
 - [performance-column](https://github.com/barretlee/performance-column) - 🚅 性能专栏（Performance Column）
 - [ocds-guide-to-setting-up-mac](https://github.com/macdao/ocds-guide-to-setting-up-mac) - OCD's Guide to Setting up Mac
-- [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
 - [book](https://github.com/qyuhen/book) - 学习笔记
@@ -2649,6 +2652,7 @@
 
 ## Python 
 
+- [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously send and receive files, and publish onion sites
 - [pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Mediawiker](https://github.com/tosher/Mediawiker) - Mediawiker is a plugin for Sublime Text editor that adds possibility to use it as Wiki Editor on Mediawiki based sites like Wikipedia and many other.
@@ -2867,6 +2871,7 @@
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [leetcode_python](https://github.com/bluedazzle/leetcode_python) - leetcode solution by python
 - [gotgit](https://github.com/gotgit/gotgit) - View this book online at: http://www.worldhello.net/gotgit/
+- [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [rm-protection](https://github.com/alanzchen/rm-protection) - A safe alternative for "rm".
 - [learning-to-learn](https://github.com/deepmind/learning-to-learn) - Learning to Learn in TensorFlow
 - [awesome-iot](https://github.com/phodal/awesome-iot) - Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform
@@ -3409,7 +3414,7 @@
 - [rome](https://github.com/romefrontend/rome) - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [EhSyringe](https://github.com/EhTagTranslation/EhSyringe) - E 站注射器，将中文翻译注入到 E 站体内
-- [ext-saladict](https://github.com/crimx/ext-saladict) - Feature-rich professional inline translator.
+- [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional inline translator.
 - [graphql-playground](https://github.com/prisma-labs/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [rough-charts](https://github.com/beizhedenglong/rough-charts) - 📈 A responsive, composable react charting library with a hand-drawn style.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
@@ -3503,7 +3508,7 @@
 
 - [gitly](https://github.com/vlang/gitly) - Light and fast GitHub/GitLab alternative written in V
 - [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
-- [vid](https://github.com/vlang/vid) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in &lt;1s.
+- [ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in &lt;1s.
 
 ## Vala 
 
