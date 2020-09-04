@@ -577,6 +577,7 @@
 
 ## CoffeeScript 
 
+- [overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [wiki](https://github.com/fedwiki/wiki) - Federated Wiki - node server as npm package
 - [chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines) - Chinese Copywriting Guidelines：中文文案排版指北（简体中文版）
 - [yakyak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts
@@ -1270,7 +1271,7 @@
 - [gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
 - [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
-- [aviator](https://github.com/killme2008/aviator) - A high performance scripting language hosted on the JVM.
+- [aviatorscript](https://github.com/killme2008/aviatorscript) - A high performance scripting language hosted on the JVM.
 - [miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 - [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [js-dossier](https://github.com/jleyba/js-dossier) - A JavaScript documentation generation tool.
@@ -2661,7 +2662,7 @@
 
 ## Python 
 
-- [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously send and receive files, and publish onion sites
+- [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Mediawiker](https://github.com/tosher/Mediawiker) - Mediawiker is a plugin for Sublime Text editor that adds possibility to use it as Wiki Editor on Mediawiki based sites like Wikipedia and many other.
@@ -3096,6 +3097,7 @@
 
 ## Shell 
 
+- [sdn-handbook](https://github.com/tonydeng/sdn-handbook) - SDN手册
 - [cyber-dojo](https://github.com/cyber-dojo/cyber-dojo) - home repo for the cyber-dojo organization
 - [alfred-network-workflow](https://github.com/mrodalgaard/alfred-network-workflow) - Show and change your network settings
 - [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
