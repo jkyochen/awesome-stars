@@ -1261,7 +1261,6 @@
 - [disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library
 - [config](https://github.com/lightbend/config) - configuration library for JVM languages using HOCON files
 - [gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
-- [expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 - [project-examples](https://github.com/jfrog/project-examples) - Small projects in universal build ecosystems to configure CI and Artifactory
 - [AndroidSourceViewer](https://github.com/pengwei1024/AndroidSourceViewer) - Android Source Viewer Plugin for Android Studio
@@ -1374,6 +1373,7 @@
 
 ## JavaScript 
 
+- [paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
 - [sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [nodeclub](https://github.com/cnodejs/nodeclub) - :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
@@ -2130,6 +2130,7 @@
 - [phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com
+- [expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [HapticKey](https://github.com/niw/HapticKey) - A simple utility application to trigger haptic feedback when tapping Touch Bar.
 - [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [nv](https://github.com/ttscoff/nv) - MultiMarkdown version of Notational Velocity with Markdown editing features and preview
@@ -2784,7 +2785,7 @@
 - [webpy](https://github.com/webpy/webpy) - web.py is a web framework for python that is as simple as it is powerful.
 - [streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [geektime-webprotocol](https://github.com/russelltao/geektime-webprotocol) - 
-- [TensorFlow-Course](https://github.com/machinelearningmindset/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow
+- [TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow
 - [DDNS](https://github.com/NewFuture/DDNS) - :triangular_flag_on_post: 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
 - [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [BaoTa](https://github.com/aaPanel/BaoTa) - 宝塔Linux面板 - 简单好用的服务器运维面板
@@ -2814,7 +2815,7 @@
 - [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 - [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat
-- [deep-learning-roadmap](https://github.com/machinelearningmindset/deep-learning-roadmap) - :satellite: All You Need to Know About Deep Learning - A kick-starter
+- [deep-learning-roadmap](https://github.com/instillai/deep-learning-roadmap) - :satellite: All You Need to Know About Deep Learning - A kick-starter
 - [gitbook2pdf](https://github.com/fuergaosi233/gitbook2pdf) - Grab the contents of the gitbook document and convert it to pdf
 - [rfcs](https://github.com/nervosnetwork/rfcs) - This repository contains proposals, standards and documentations related to Nervos Network.
 - [DIVE-backend](https://github.com/MacroConnections/DIVE-backend) - Codebase for DIVE backend (server, worker, and ORM)
