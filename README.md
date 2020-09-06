@@ -1963,7 +1963,7 @@
 - [min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [react-color](https://github.com/casesandberg/react-color) - :art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings window.fetch to Node.js
+- [node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings Fetch API to Node.js
 - [tman](https://github.com/thunks/tman) - T-man: Super test manager for JavaScript.
 - [diveintonode_examples](https://github.com/JacksonTian/diveintonode_examples) - 《深入浅出Node.js》的相关代码
 - [list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
@@ -3367,6 +3367,8 @@
 
 ## TypeScript 
 
+- [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
 - [p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
 - [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
@@ -3562,6 +3564,7 @@
 
 ## Vue 
 
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
