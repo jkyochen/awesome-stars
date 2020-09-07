@@ -122,7 +122,7 @@
 - [ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick 7
 - [jerryscript](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things.
 - [wiredtiger](https://github.com/wiredtiger/wiredtiger) - WiredTiger's source tree
-- [nnn](https://github.com/jarun/nnn) - n³ The missing terminal file manager for X.
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
 - [brotli](https://github.com/google/brotli) - Brotli compression format
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [openvas](https://github.com/greenbone/openvas) - Open Vulnerability Assessment Scanner - Scanner for Greenbone Vulnerability Management (GVM)
@@ -379,6 +379,7 @@
 - [fcitx5](https://github.com/fcitx/fcitx5) - maybe a new fcitx.
 - [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
 - [godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+- [1earn](https://github.com/No-Github/1earn) - 个人维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup
 - [leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
 - [ton](https://github.com/ton-blockchain/ton) - 
 - [percona-xtrabackup](https://github.com/percona/percona-xtrabackup) - Open source hot backup tool for InnoDB and XtraDB databases
@@ -1373,6 +1374,7 @@
 
 ## JavaScript 
 
+- [pomelo](https://github.com/NetEase/pomelo) - A fast,scalable,distributed game server framework for Node.js.
 - [paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
 - [sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
@@ -2315,7 +2317,6 @@
 - [awesome-gin](https://github.com/FlowerWrong/awesome-gin) - awesome for gin framework
 - [repository](https://github.com/packal/repository) - A general collection repository for Alfred2 Workflows and Themes
 - [Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy) - 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗 (长期更新)
-- [1earn](https://github.com/No-Github/1earn) - 个人维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup
 - [awesome-github](https://github.com/fffaraz/awesome-github) - A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 - [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
