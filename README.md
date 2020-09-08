@@ -61,6 +61,7 @@
   - [Rich Text Format](#rich-text-format)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Self](#self)
@@ -68,7 +69,6 @@
   - [Smarty](#smarty)
   - [Swift](#swift)
   - [SystemVerilog](#systemverilog)
-  - [TSQL](#tsql)
   - [Tcl](#tcl)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -486,7 +486,6 @@
 - [tufte-pandoc-css](https://github.com/jez/tufte-pandoc-css) - Starter files for using Pandoc Markdown with Tufte CSS
 - [404-I-remember](https://github.com/No-Github/404-I-remember) - 收集各种网站的404页面
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [xaringan](https://github.com/yihui/xaringan) - Presentation Ninja 幻灯忍者 · 写轮眼
 - [Effeckt.css](https://github.com/h5bp/Effeckt.css) - This repo is archived. Thanks!
@@ -548,7 +547,6 @@
 - [spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [hexo-theme-Anatole](https://github.com/Ben02/hexo-theme-Anatole) - A white and simple Hexo theme, originated from a Farbox theme
 - [30-days-of-design](https://github.com/hayeah/30-days-of-design) - 2015 年设计长征
-- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [hexo-theme-material](https://github.com/bolnh/hexo-theme-material) - Material Design theme for hexo.
 - [DataTables](https://github.com/DataTables/DataTables) - Tables plug-in for jQuery
 - [CaoMei](https://github.com/xiangsudian/CaoMei) - 🍓CaoMei Icon - Designed for developers and creatros http://chuangzaoshi.com/icon/
@@ -1079,6 +1077,7 @@
 - [turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [readability](https://github.com/luin/readability) - 📚 Turn any web page into a clean view
 - [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [ClashA](https://github.com/ccg2018/ClashA) - A Android GUI for Clash
 - [chiron-sans-hk](https://github.com/tamcy/chiron-sans-hk) - 昭源黑體
 - [speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
@@ -1347,6 +1346,7 @@
 - [cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access.
 - [vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
 - [h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java.
+- [jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
 - [Computronics](https://github.com/Vexatos/Computronics) - A ComputerCraft/OpenComputers addon mod.
 - [week_2](https://github.com/JakeKaad/week_2) - 
 - [spark](https://github.com/perwendel/spark) - A simple expressive web framework for java. News: Spark now has a kotlin DSL https://github.com/perwendel/spark-kotlin
@@ -1802,7 +1802,7 @@
 - [jodit](https://github.com/xdan/jodit) - Jodit - Best WYSIWYG Editor for You
 - [Trumbowyg](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor - 20kB only (8kB gzip)
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
-- [wangEditor](https://github.com/wangfupeng1988/wangEditor) - wangEditor —— 轻量级web富文本框
+- [wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor —— 轻量级web富文本框
 - [summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
 - [medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
@@ -2106,7 +2106,7 @@
 - [teleport](https://github.com/abyssoft/teleport) - Virtual KVM for OS X
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 - [chrome-cli](https://github.com/prasmussen/chrome-cli) - Control Google Chrome from the command line
-- [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac版微信的功能拓展(A plugin for Mac WeChat)
+- [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件(A plugin for Mac WeChat)
 - [nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
 - [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [trash](https://github.com/ali-rantakari/trash) - Small command-line program for OS X that moves files or folders to the trash.
@@ -2764,7 +2764,6 @@
 - [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [alfred-workflow](https://github.com/deanishe/alfred-workflow) - Full-featured library for writing Alfred 3 & 4 workflows
-- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [Tool-X](https://github.com/rajkumardusad/Tool-X) - Tool-X is a kali linux hacking Tool installer. Tool-X developed for termux and other Linux based systems. using Tool-X you can install almost 370+ hacking tools in termux app and other linux based distributions.
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [itermocil](https://github.com/TomAnthony/itermocil) - Create pre-defined window/pane layouts and run commands in iTerm
@@ -3071,6 +3070,11 @@
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
+## SCSS 
+
+- [twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
+- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
+
 ## Scala 
 
 - [scala-js](https://github.com/scala-js/scala-js) - Scala.js, the Scala to JavaScript compiler
@@ -3341,10 +3345,6 @@
 ## SystemVerilog 
 
 - [opentitan](https://github.com/lowRISC/opentitan) - OpenTitan: Open source silicon root of trust
-
-## TSQL 
-
-- [jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
 
 ## Tcl 
 
