@@ -1374,6 +1374,8 @@
 
 ## JavaScript 
 
+- [z](https://github.com/z-pattern-matching/z) - Pattern Matching for Javascript
+- [socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [pomelo](https://github.com/NetEase/pomelo) - A fast,scalable,distributed game server framework for Node.js.
 - [paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
 - [sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
