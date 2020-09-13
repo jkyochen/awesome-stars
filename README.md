@@ -1373,6 +1373,7 @@
 
 ## JavaScript 
 
+- [asynquence](https://github.com/getify/asynquence) - Asynchronous flow control (promises, generators, observables, CSP, etc)
 - [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [z](https://github.com/z-pattern-matching/z) - Pattern Matching for Javascript
 - [socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
@@ -3378,6 +3379,7 @@
 
 ## TypeScript 
 
+- [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
 - [p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
