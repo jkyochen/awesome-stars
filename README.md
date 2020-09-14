@@ -641,6 +641,9 @@
 
 ## Go 
 
+- [under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | golang.design/under-the-hood
+- [history](https://github.com/golang-design/history) - 📝 Go: A Documentary | golang.design/history
+- [gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [Mastering_Go_Second_Edition_Zh_CN](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN) - Mastering Go 第二版中文版来袭！
@@ -1200,6 +1203,7 @@
 
 ## Java 
 
+- [jdk](https://github.com/openjdk/jdk) - JDK main-line development
 - [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
 - [OnJava8-Examples](https://github.com/BruceEckel/OnJava8-Examples) - Code Examples for the book "On Java 8"
 - [shiro](https://github.com/apache/shiro) - Apache Shiro
@@ -1373,6 +1377,8 @@
 
 ## JavaScript 
 
+- [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
+- [Hack-Tools](https://github.com/LasCC/Hack-Tools) - The all-in-one Red Team extension for Web Pentester 🛠
 - [asynquence](https://github.com/getify/asynquence) - Asynchronous flow control (promises, generators, observables, CSP, etc)
 - [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [z](https://github.com/z-pattern-matching/z) - Pattern Matching for Javascript
@@ -1665,7 +1671,7 @@
 - [vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
 - [hat.sh](https://github.com/sh-dv/hat.sh) - encrypt and decrypt files in your browser. Fast, Secure client-side File Encryption and Decryption using the web crypto api
-- [picojs](https://github.com/tehnokv/picojs) - A face detection library in 200 lines of JavaScript
+- [picojs](https://github.com/nenadmarkus/picojs) - A face detection library in 200 lines of JavaScript
 - [ascii-table](https://github.com/sorensen/ascii-table) - Ascii Tables for JS
 - [pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [titanic](https://github.com/icons8/titanic) - A set of animated icons + code to insert them into the webpages
@@ -2580,6 +2586,7 @@
 
 ## PHP 
 
+- [koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Your Own URL Shortener
 - [WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to https://core.trac.wordpress.org/ instead.
 - [question2answer](https://github.com/q2a/question2answer) - Question2Answer is a free and open source platform for Q&A sites, running on PHP/MySQL.
@@ -3379,6 +3386,7 @@
 
 ## TypeScript 
 
+- [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI
 - [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
