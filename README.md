@@ -153,7 +153,6 @@
 - [json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
 - [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, MQTT, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
 - [emgo](https://github.com/ziutek/emgo) - Emgo: Bare metal Go (language for programming embedded systems)
-- [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [projectsandcastle](https://github.com/corellium/projectsandcastle) - Supporting tools for Android/Linux on the iPhone
 - [slurm](https://github.com/mattthias/slurm) - yet another network load monitor
 - [micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
@@ -501,7 +500,6 @@
 - [google-spicetify](https://github.com/khanhas/google-spicetify) - Spotify with Google style
 - [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
 - [TechFusionFM](https://github.com/TechFusionFM/TechFusionFM) - Static site for tech podcast built using Hexo.io with deployment script, XML escaper and iTunes rank tracking Telegram bot.
-- [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
 - [synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code 🌅🕶
 - [jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) - 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
@@ -641,8 +639,8 @@
 
 ## Go 
 
-- [under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | golang.design/under-the-hood
-- [history](https://github.com/golang-design/history) - 📝 Go: A Documentary | golang.design/history
+- [under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | https://golang.design/under-the-hood
+- [history](https://github.com/golang-design/history) - 📝 Go: A Documentary | https://golang.design/history
 - [gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
@@ -2072,7 +2070,7 @@
 - [typedlua](https://github.com/andremm/typedlua) - An Optional Type System for Lua
 - [opm](https://github.com/openresty/opm) - OpenResty Package Manager
 - [VeryNginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
-- [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, LuaJIT and other Lua interpreters on Windows, macOS, and Linux
+- [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT and other Lua interpreters on Windows, macOS, and Linux
 - [stellaris_cn](https://github.com/cloudwu/stellaris_cn) - Stellaris 群星 汉化 Mod
 - [dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
 - [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
@@ -2118,7 +2116,7 @@
 - [teleport](https://github.com/abyssoft/teleport) - Virtual KVM for OS X
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 - [chrome-cli](https://github.com/prasmussen/chrome-cli) - Control Google Chrome from the command line
-- [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件(A plugin for Mac WeChat)
+- [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
 - [nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
 - [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [trash](https://github.com/ali-rantakari/trash) - Small command-line program for OS X that moves files or folders to the trash.
@@ -2227,7 +2225,7 @@
 - [awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - 🐢🚀 An Awesome list of Awesome lists related to Node.js.
 - [ethereum-developer-tools-list](https://github.com/ConsenSys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum.
 - [geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
-- [Tvlist-awesome-m3u-m3u8](https://github.com/billy21/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
+- [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 - [formats](https://github.com/corkami/formats) - File formats
 - [awesome-nestjs](https://github.com/juliandavidmr/awesome-nestjs) - 😏 Curated list of NestJS
 - [a-Shell-commands](https://github.com/holzschu/a-Shell-commands) - shell commands, pre-compiled to webAssembly, ready to use in a-Shell
@@ -2743,6 +2741,7 @@
 - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
 - [urllib3](https://github.com/urllib3/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more.
 - [conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
+- [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
@@ -3087,6 +3086,7 @@
 ## SCSS 
 
 - [twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
+- [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [harttle.github.io](https://github.com/harttle/harttle.github.io) - Harttle Land 的源码和文章
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 
@@ -3398,7 +3398,7 @@
 - [lit-element](https://github.com/Polymer/lit-element) - A simple base class for creating fast, lightweight web components
 - [prisma](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
-- [snowpack](https://github.com/pikapkg/snowpack) - The faster frontend build tool. Unbundled web development ✌️
+- [snowpack](https://github.com/pikapkg/snowpack) - A new kind of frontend build tool. Fast, lightweight, unbundled. ✌️
 - [reactxp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
 - [emma-cli](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages.
 - [fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
@@ -3450,7 +3450,7 @@
 - [rome](https://github.com/romefrontend/rome) - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [EhSyringe](https://github.com/EhTagTranslation/EhSyringe) - E 站注射器，将中文翻译注入到 E 站体内
-- [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional inline translator.
+- [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional translator.
 - [graphql-playground](https://github.com/prisma-labs/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [rough-charts](https://github.com/beizhedenglong/rough-charts) - 📈 A responsive, composable react charting library with a hand-drawn style.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
