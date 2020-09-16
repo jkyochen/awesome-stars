@@ -1622,7 +1622,7 @@
 - [showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
-- [iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world
+- [iptv](https://github.com/iptv-org/iptv) - Collection of 4000+ publicly available IPTV channels from all over the world
 - [readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [bookreader](https://github.com/internetarchive/bookreader) - The Internet Archive BookReader
 - [codebuilds](https://github.com/headmelted/codebuilds) - Community builds of Visual Studio Code for Chromebooks and Raspberry Pi
@@ -3451,7 +3451,7 @@
 - [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [EhSyringe](https://github.com/EhTagTranslation/EhSyringe) - E 站注射器，将中文翻译注入到 E 站体内
 - [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional translator.
-- [graphql-playground](https://github.com/prisma-labs/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
+- [graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [rough-charts](https://github.com/beizhedenglong/rough-charts) - 📈 A responsive, composable react charting library with a hand-drawn style.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [surgio](https://github.com/geekdada/surgio) - Generating rules for Surge, Clash, Quantumult... like a PRO.
