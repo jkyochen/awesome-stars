@@ -16,6 +16,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [Classic ASP](#classic-asp)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Common Lisp](#common-lisp)
@@ -84,7 +85,6 @@
 
 ## ASP 
 
-- [fancyss](https://github.com/hq450/fancyss) - fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.
 - [koolshare.github.io](https://github.com/koolshare/koolshare.github.io) - For koolshare.cn
 
 ## Agda 
@@ -324,6 +324,7 @@
 
 ## C++ 
 
+- [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
 - [fibjs](https://github.com/fibjs/fibjs) - JavaScript on Fiber (built on Chrome's V8 JavaScript engine)
 - [skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [pushpin](https://github.com/fanout/pushpin) - Reverse proxy for realtime web services
@@ -564,6 +565,10 @@
 - [css3_Chi-biMaruko](https://github.com/lancer07/css3_Chi-biMaruko) - div+css3实现的小丸子和爷爷
 - [idoc](https://github.com/jaywcjlove/idoc) - :book: Simple document generation tool! Dependence Node.js run.
 
+## Classic ASP 
+
+- [fancyss](https://github.com/hq450/fancyss) - fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.
+
 ## Clojure 
 
 - [restQL-http](https://github.com/b2wdigital/restQL-http) - Microservice query language
@@ -640,7 +645,7 @@
 ## Go 
 
 - [under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | https://golang.design/under-the-hood
-- [history](https://github.com/golang-design/history) - 📝 Go: A Documentary | https://golang.design/history
+- [history](https://github.com/golang-design/history) - 📝  Go: A Documentary | https://golang.design/history
 - [gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
@@ -966,7 +971,7 @@
 - [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [doctl](https://github.com/digitalocean/doctl) - The official command line interface for the DigitalOcean API.
 - [v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A SIP003 plugin based on v2ray
-- [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Edge Router
 - [go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Modern Shadowsocks in Go
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
@@ -1587,7 +1592,7 @@
 - [validator](https://github.com/asm-js/validator) - A reference validator for asm.js.
 - [sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
-- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2020)
+- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (September 2020)
 - [SBO-video-extension](https://github.com/mhewedy/SBO-video-extension) - Safari Books Online Video Downloder Extension to Google Chrome
 - [TiddlyDesktop](https://github.com/Jermolene/TiddlyDesktop) - A custom desktop browser for TiddlyWiki 5 and TiddlyWiki Classic, based on nw.js
 - [remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://github.com/breakdance/breakdance for HTML-to-markdown conversion. Use https://github.com/jonschlinkert/markdown-toc to generate a table of contents.
@@ -2613,7 +2618,7 @@
 - [phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine
 - [phabricator](https://github.com/phacility/phabricator) - Open software engineering platform and fun adventure game
-- [selfoss](https://github.com/SSilence/selfoss) - selfoss: The multipurpose rss reader, live stream, mashup, aggregation web application
+- [selfoss](https://github.com/fossar/selfoss) - selfoss: The multipurpose rss reader, live stream, mashup, aggregation web application
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://www.mediawiki.org/wiki/Developer_access for contributing.
 - [Wikitten](https://github.com/devaneando/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.
@@ -3118,6 +3123,7 @@
 
 ## Shell 
 
+- [tmpmail](https://github.com/sdushantha/tmpmail) - ✉️  A temporary email right from your terminal
 - [sdn-handbook](https://github.com/tonydeng/sdn-handbook) - SDN手册
 - [cyber-dojo](https://github.com/cyber-dojo/cyber-dojo) - home repo for the cyber-dojo organization
 - [alfred-network-workflow](https://github.com/mrodalgaard/alfred-network-workflow) - Show and change your network settings
@@ -3497,7 +3503,7 @@
 - [typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [tgdr](https://github.com/thedevs-network/tgdr) - Telegram directory to discover channels, bots and groups.
 - [Musish](https://github.com/Musish/Musish) - Apple Music...ish
-- [react-use-gesture](https://github.com/react-spring/react-use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React
+- [react-use-gesture](https://github.com/pmndrs/react-use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React
 - [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs) - Free and open source streaming software built on OBS and Electron.
 - [gitgraph.js](https://github.com/nicoespeon/gitgraph.js) - 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
