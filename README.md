@@ -488,7 +488,6 @@
 - [tufte-pandoc-css](https://github.com/jez/tufte-pandoc-css) - Starter files for using Pandoc Markdown with Tufte CSS
 - [404-I-remember](https://github.com/No-Github/404-I-remember) - 收集各种网站的404页面
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [xaringan](https://github.com/yihui/xaringan) - Presentation Ninja 幻灯忍者 · 写轮眼
 - [Effeckt.css](https://github.com/h5bp/Effeckt.css) - This repo is archived. Thanks!
 - [2019-Slides](https://github.com/PyConChina/2019-Slides) - PyCon China 2019 幻灯片
@@ -552,7 +551,6 @@
 - [maupassant-hexo](https://github.com/tufu9441/maupassant-hexo) - A simple Hexo theme forked from icylogic.
 - [hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus) - :cactus: A responsive, clean and simple theme for Hexo.
 - [hexo-theme-typing](https://github.com/geekplux/hexo-theme-typing) - a pure and fresh Hexo theme. 🎹
-- [zchen9.github.io](https://github.com/zchen9/zchen9.github.io) - Yeah It's nice shot ：）
 - [sponsor-page](https://github.com/Kaiyuan/sponsor-page) - 
 - [uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
@@ -1380,6 +1378,8 @@
 
 ## JavaScript 
 
+- [front-end-handbook](https://github.com/FrontendMasters/front-end-handbook) - The resources and tools for learning about the practice of front-end development.
+- [lowdb](https://github.com/typicode/lowdb) - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
 - [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [Hack-Tools](https://github.com/LasCC/Hack-Tools) - The all-in-one Red Team extension for Web Pentester 🛠
 - [asynquence](https://github.com/getify/asynquence) - Asynchronous flow control (promises, generators, observables, CSP, etc)
@@ -2199,6 +2199,7 @@
 
 ## Others 
 
+- [feeds](https://github.com/Kapeli/feeds) - Collection of Dash docset feeds
 - [conference](https://github.com/gopherchina/conference) - 
 - [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.
@@ -2936,6 +2937,7 @@
 
 ## Ruby 
 
+- [cheatsheets](https://github.com/Kapeli/cheatsheets) - Collection of Dash cheat sheets
 - [sequel](https://github.com/jeremyevans/sequel) - Sequel: The Database Toolkit for Ruby
 - [innodb_ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby
 - [jekyll-menus](https://github.com/forestryio/jekyll-menus) - A menus (site navigation) plugin for your Jekyll website that also works with https://forestry.io (Jekyll CMS)
@@ -3091,9 +3093,11 @@
 ## SCSS 
 
 - [twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
+- [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [harttle.github.io](https://github.com/harttle/harttle.github.io) - Harttle Land 的源码和文章
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
+- [zchen9.github.io](https://github.com/zchen9/zchen9.github.io) - Yeah It's nice shot ：）
 
 ## Scala 
 
@@ -3392,7 +3396,7 @@
 
 ## TypeScript 
 
-- [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in RC)
+- [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI
 - [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
