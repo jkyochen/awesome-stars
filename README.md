@@ -1026,7 +1026,7 @@
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [gear](https://github.com/teambition/gear) - A lightweight, composable and high performance web service framework for Go.
-- [chrome-bookmarks-alfred-workflow](https://github.com/mdreizin/chrome-bookmarks-alfred-workflow) - Chrome/Canary/Chromium bookmarks search workflow for Alfred
+- [chrome-bookmarks-alfred-workflow](https://github.com/mdreizin/chrome-bookmarks-alfred-workflow) - Chrome/Canary/Chromium/Microsoft Edge bookmarks search workflow for Alfred
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [elvish](https://github.com/elves/elvish) - Friendly Interactive Shell and Expressive Programming Language
@@ -3463,7 +3463,7 @@
 - [graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [rough-charts](https://github.com/beizhedenglong/rough-charts) - 📈 A responsive, composable react charting library with a hand-drawn style.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [surgio](https://github.com/geekdada/surgio) - Generating rules for Surge, Clash, Quantumult... like a PRO.
+- [surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult... like a PRO.
 - [Markdown](https://github.com/JP1016/Markdown) - 📖Clean & Modern MarkDown Generator, 🔌Offline Support and Easy Generation of Markdown ⚡️⚛️ https://github.com/JP1016/Markdown-Electron/releases
 - [vscode-go](https://github.com/microsoft/vscode-go) - An extension for VS Code which provides support for the Go language. We have moved to https://github.com/golang/vscode-go
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry
