@@ -527,7 +527,6 @@
 - [hexo-theme-apollo](https://github.com/pinggod/hexo-theme-apollo) - 🌅 a concise hexo theme
 - [jekyll-theme-kagami](https://github.com/kamikat/jekyll-theme-kagami) - Simple and clean Jekyll theme compatible with GitHub Pages.
 - [huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
-- [documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
 - [website](https://github.com/sharecuts/website) - A public repository of shortcuts for the Shortcuts app
 - [hexo-theme-wixo](https://github.com/wzpan/hexo-theme-wixo) - A wiki theme for Hexo.
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
@@ -551,7 +550,6 @@
 - [hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus) - :cactus: A responsive, clean and simple theme for Hexo.
 - [hexo-theme-typing](https://github.com/geekplux/hexo-theme-typing) - a pure and fresh Hexo theme. 🎹
 - [sponsor-page](https://github.com/Kaiyuan/sponsor-page) - 
-- [uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo
@@ -604,6 +602,7 @@
 
 ## Dockerfile 
 
+- [docs](https://github.com/mimblewimble/docs) - Documentation for Grin and Mimblewimble
 - [laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [dockerfiles](https://github.com/fanvinga/dockerfiles) - VINGA'S Dockerfiles
 - [docker-snell](https://github.com/DeerCloud/docker-snell) - 🐳 snell - an encrypted proxy service program
@@ -695,7 +694,7 @@
 - [crypto](https://github.com/golang/crypto) - [mirror] Go supplementary cryptography libraries
 - [listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Go + VueJS.
 - [otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
-- [night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Zoom and Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
+- [night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
 - [opencensus-go](https://github.com/census-instrumentation/opencensus-go) - A stats collection and distributed tracing framework
 - [httptreemux](https://github.com/dimfeld/httptreemux) - High-speed, flexible tree-based HTTP router for Go.
 - [zipkin-go](https://github.com/openzipkin/zipkin-go) - Zipkin tracer library for go
@@ -968,7 +967,7 @@
 - [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [doctl](https://github.com/digitalocean/doctl) - The official command line interface for the DigitalOcean API.
 - [v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A SIP003 plugin based on v2ray
-- [traefik](https://github.com/traefik/traefik) - The Cloud Native Edge Router
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Modern Shadowsocks in Go
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
@@ -1166,6 +1165,7 @@
 - [hexo-theme-hollow](https://github.com/zchen9/hexo-theme-hollow) - A pure and elegant theme for Hexo.
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+- [uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [blog](https://github.com/huangz1990/blog) - 我的个人博客。
 - [rubygems-mirror](https://github.com/ruby-china/rubygems-mirror) - https://gems.ruby-china.com
@@ -1556,7 +1556,7 @@
 - [nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
 - [lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
-- [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
+- [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API
 - [react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
 - [autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
 - [browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
@@ -2262,7 +2262,6 @@
 - [awesome-kafka](https://github.com/dharmeshkakadia/awesome-kafka) - Everything about Apache Kafka
 - [awesome-kafka](https://github.com/infoslack/awesome-kafka) - A list about Apache Kafka
 - [awesome-koa](https://github.com/ellerbrock/awesome-koa) - :dancers: Awesome Koa.js Web Framework
-- [docs](https://github.com/mimblewimble/docs) - Open wiki documentation for Grin and MimbleWimble
 - [awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc) - ✍️ A curated list of CVE PoCs.
 - [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd) - :book: :articulated_lorry:  Curated list of awesome resources: books, videos, articles about using TDD(Test Driven Development)
 - [awesome-agile](https://github.com/lorabv/awesome-agile) - Awesome List of resources on Agile Software Development.
@@ -2831,7 +2830,7 @@
 - [qrcode](https://github.com/sylnsfar/qrcode) - artistic QR Code in Python （Animated GIF qr code）- Python 艺术二维码生成器 （GIF动态二维码、图片二维码）
 - [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
-- [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat
+- [zulip](https://github.com/zulip/zulip) - Zulip server and webapp - powerful open source team chat
 - [deep-learning-roadmap](https://github.com/instillai/deep-learning-roadmap) - :satellite: All You Need to Know About Deep Learning - A kick-starter
 - [gitbook2pdf](https://github.com/fuergaosi233/gitbook2pdf) - Grab the contents of the gitbook document and convert it to pdf
 - [rfcs](https://github.com/nervosnetwork/rfcs) - This repository contains proposals, standards and documentations related to Nervos Network.
@@ -3094,6 +3093,7 @@
 - [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [harttle.github.io](https://github.com/harttle/harttle.github.io) - Harttle Land 的源码和文章
+- [documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [zchen9.github.io](https://github.com/zchen9/zchen9.github.io) - Yeah It's nice shot ：）
 
