@@ -717,7 +717,7 @@
 - [trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
 - [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
 - [xo](https://github.com/xo/xo) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
-- [micro](https://github.com/micro/micro) - Micro is a Go cloud services development framework
+- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
 - [go-micro](https://github.com/micro/go-micro) - A Go standard library for microservices
 - [monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
@@ -1206,6 +1206,7 @@
 
 ## Java 
 
+- [zookeeper](https://github.com/apache/zookeeper) - Mirror of Apache Hadoop ZooKeeper
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
 - [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
 - [OnJava8-Examples](https://github.com/BruceEckel/OnJava8-Examples) - Code Examples for the book "On Java 8"
@@ -1380,6 +1381,7 @@
 
 ## JavaScript 
 
+- [github-highlight-selected](https://github.com/Nuclides/github-highlight-selected) - Chrome extension for highlighting selected word in GitHub source view like Sublime Text.
 - [front-end-handbook](https://github.com/FrontendMasters/front-end-handbook) - The resources and tools for learning about the practice of front-end development.
 - [lowdb](https://github.com/typicode/lowdb) - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
 - [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
@@ -2937,6 +2939,7 @@
 
 ## Ruby 
 
+- [puma](https://github.com/puma/puma) - A Ruby/Rack web server built for concurrency
 - [cheatsheets](https://github.com/Kapeli/cheatsheets) - Collection of Dash cheat sheets
 - [sequel](https://github.com/jeremyevans/sequel) - Sequel: The Database Toolkit for Ruby
 - [innodb_ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby
