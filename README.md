@@ -1551,7 +1551,7 @@
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 - [eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
-- [supertest](https://github.com/visionmedia/supertest) - 🕷Super-agent driven library for testing node.js HTTP servers using a fluent API.
+- [supertest](https://github.com/visionmedia/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.
 - [morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
 - [debug](https://github.com/visionmedia/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) - TimelineJS v3: A Storytelling Timeline built in JavaScript.  http://timeline.knightlab.com
@@ -2384,7 +2384,6 @@
 - [awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [geektime-nginx](https://github.com/russelltao/geektime-nginx) - 极客时间：nginx核心知识100讲配置文件与代码分享
 - [geekbanglinux](https://github.com/wilsonyin123/geekbanglinux) - Linux 实战技能100讲
-- [SSR](https://github.com/DuyaoSS/SSR) - 毒药笔记
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [shadowsocks-rss](https://github.com/shadowsocksr-backup/shadowsocks-rss) - ShadowsocksR update rss, SSR organization
 - [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) - List of awesome app ideas
