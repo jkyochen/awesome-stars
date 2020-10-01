@@ -64,6 +64,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
+  - [Sass](#sass)
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Self](#self)
@@ -535,7 +536,6 @@
 - [minimal](https://github.com/orderedlist/minimal) - A Theme for GitHub Pages
 - [one-light-syntax](https://github.com/atom/one-light-syntax) - Atom One light syntax theme
 - [hexo-theme-reading](https://github.com/Gracker/hexo-theme-reading) - Blog Theme For Hexo ：http://www.androidperformance.com/
-- [sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) - Sphinx theme for readthedocs.org
 - [Casper](https://github.com/TryGhost/Casper) - The default theme for Ghost
 - [JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden) - A collection of documentation about the most quirky parts of the JavaScript language.
 - [onetwothree](https://github.com/schollz/onetwothree) - A responsive minimalist theme for Hugo that is simple as 1, 2, 3
@@ -604,7 +604,6 @@
 
 ## Dockerfile 
 
-- [docs](https://github.com/mimblewimble/docs) - Documentation for Grin and Mimblewimble
 - [laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [dockerfiles](https://github.com/fanvinga/dockerfiles) - VINGA'S Dockerfiles
 - [docker-snell](https://github.com/DeerCloud/docker-snell) - 🐳 snell - an encrypted proxy service program
@@ -717,7 +716,7 @@
 - [trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
 - [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
 - [xo](https://github.com/xo/xo) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
-- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
+- [micro](https://github.com/micro/micro) - Micro is a development framework for the Cloud
 - [go-micro](https://github.com/micro/go-micro) - A Go standard library for microservices
 - [monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
@@ -1054,6 +1053,7 @@
 - [dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 - [geektime2pdf](https://github.com/jjeejj/geektime2pdf) - 极客时间专栏文章 转为 PDF 包含评论 音频
 - [learning-area](https://github.com/mdn/learning-area) - Github repo for the MDN Learning Area.
+- [docs](https://github.com/mimblewimble/docs) - Documentation for Grin and Mimblewimble
 - [bilibili_blacklist](https://github.com/harrynull/bilibili_blacklist) - A website to share and manage their bilibili danmaku blacklist.
 - [awesome-rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails
 - [kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
@@ -1105,7 +1105,7 @@
 - [yihui](https://github.com/rbind/yihui) - Personal website of Yihui Xie
 - [blog](https://github.com/kbroman/blog) - A blogdown-based blog
 - [hugo-ivy](https://github.com/yihui/hugo-ivy) - A Hugo theme ported from Ivy
-- [this-week-in-rust](https://github.com/emberian/this-week-in-rust) - Data for this-week-in-rust.org
+- [this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 - [Yummy-Jekyll](https://github.com/DONGChuan/Yummy-Jekyll) - Yummy Jekyll Theme
 - [flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》电子书
@@ -2682,6 +2682,7 @@
 
 ## Python 
 
+- [kindle_maker](https://github.com/jachinlin/kindle_maker) - a tool to make mobi-format file wich could be load into Kindle
 - [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -3026,7 +3027,6 @@
 - [ruby](https://github.com/ruby/ruby) - The Ruby Programming Language [mirror]
 - [puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application
 - [form_core](https://github.com/rails-engine/form_core) - A Rails engine providing ability to generate dynamic form.
-- [ruby-server](https://github.com/standardfile/ruby-server) - [Deprecated] Use https://github.com/standardnotes/syncing-server instead
 - [nanoc](https://github.com/nanoc/nanoc) - A powerful web publishing system
 - [huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [rspec-rails](https://github.com/rspec/rspec-rails) - RSpec for Rails 5+
@@ -3066,7 +3066,7 @@
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [actix-web](https://github.com/actix/actix-web) - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
@@ -3101,6 +3101,10 @@
 - [documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [zchen9.github.io](https://github.com/zchen9/zchen9.github.io) - Yeah It's nice shot ：）
+
+## Sass 
+
+- [sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) - Sphinx theme for readthedocs.org
 
 ## Scala 
 
