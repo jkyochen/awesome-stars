@@ -716,7 +716,7 @@
 - [trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
 - [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
 - [xo](https://github.com/xo/xo) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
-- [micro](https://github.com/micro/micro) - Micro is a development framework for the Cloud
+- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
 - [go-micro](https://github.com/micro/go-micro) - A Go standard library for microservices
 - [monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
@@ -2682,6 +2682,7 @@
 
 ## Python 
 
+- [geektime_dl](https://github.com/jachinlin/geektime_dl) - 把极客时间装进 Kindle，内含快手内推等福利
 - [kindle_maker](https://github.com/jachinlin/kindle_maker) - a tool to make mobi-format file wich could be load into Kindle
 - [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
