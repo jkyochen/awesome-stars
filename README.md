@@ -511,7 +511,6 @@
 - [water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [d2-daily](https://github.com/d2-projects/d2-daily) - D2 日报
 - [hugo-natrium-theme](https://github.com/mobybit/hugo-natrium-theme) - Natrium - A simple responsive Hugo theme
-- [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [me](https://github.com/xhacker/me) - Personal website.
 - [text](https://github.com/Windfarer/text) - modified text theme for ghost, optimized for Simplified Chinese text display, thanks to the original author imgarylai. demo:
@@ -669,7 +668,7 @@
 - [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [ultralist](https://github.com/ultralist/ultralist) - Simple task management for tech folks.
 - [opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go
-- [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
+- [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/凹语言)
 - [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
 - [http](https://github.com/qiniu/http) - Extension module of golang http service
 - [httptest](https://github.com/qiniu/httptest) - Qiniu httptest utilities
@@ -919,7 +918,7 @@
 - [v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [Golang_Puzzlers](https://github.com/hyper0x/Golang_Puzzlers) - An example project, for my column named "Core Golang - 36 lessons"
 - [shadowsocksR](https://github.com/sun8911879/shadowsocksR) - ShadowsocksR(SSR) for Go library
-- [glider](https://github.com/nadoo/glider) - glider is a forward proxy with multiple protocols support, and also a dns forwarding server with ipset management features(like dnsmasq).
+- [glider](https://github.com/nadoo/glider) - glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [GoSublime](https://github.com/DisposaBoy/GoSublime) - A Golang plugin collection for SublimeText 3, providing code completion and other IDE-like features.
@@ -931,7 +930,7 @@
 - [cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
-- [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`
+- [ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
 - [cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
 - [mtg](https://github.com/9seconds/mtg) - Bullshit-free MTPROTO proxy for Telegram
 - [gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for data science
@@ -1206,6 +1205,7 @@
 
 ## Java 
 
+- [geektime-mongodb-course](https://github.com/tapdata/geektime-mongodb-course) - 
 - [zookeeper](https://github.com/apache/zookeeper) - Mirror of Apache Hadoop ZooKeeper
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
 - [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
@@ -2620,7 +2620,7 @@
 - [phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine
 - [phabricator](https://github.com/phacility/phabricator) - Open software engineering platform and fun adventure game
-- [selfoss](https://github.com/fossar/selfoss) - selfoss: The multipurpose rss reader, live stream, mashup, aggregation web application
+- [selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://www.mediawiki.org/wiki/Developer_access for contributing.
 - [Wikitten](https://github.com/devaneando/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.
@@ -3098,6 +3098,7 @@
 - [twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
+- [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [harttle.github.io](https://github.com/harttle/harttle.github.io) - Harttle Land 的源码和文章
 - [documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
