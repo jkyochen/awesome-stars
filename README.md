@@ -602,6 +602,7 @@
 ## Dockerfile 
 
 - [laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
+- [busybox](https://github.com/docker-library/busybox) - Docker Official Image packaging for Busybox
 - [dockerfiles](https://github.com/fanvinga/dockerfiles) - VINGA'S Dockerfiles
 - [docker-snell](https://github.com/DeerCloud/docker-snell) - 🐳 snell - an encrypted proxy service program
 - [stackage](https://github.com/commercialhaskell/stackage) - "Stable Hackage": vetted consistent packages from Hackage
@@ -1642,6 +1643,7 @@
 - [sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 - [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [tongjian](https://github.com/guoxue-study/tongjian) - 资治通鉴易读版
+- [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - A simple, delicate, and modern theme for the static site generator Hexo.
 - [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [gaia](https://github.com/mozilla-b2g/gaia) - Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see
@@ -1668,7 +1670,7 @@
 - [apprtc](https://github.com/webrtc/apprtc) - The video chat demo app based on WebRTC. This project is currently on HOLD with minimal maintenance.
 - [git-pending](https://github.com/kamranahmedse/git-pending) - Git plugin to list TODO, FIXME, TESTME, DOCME comments in a repository
 - [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe) - A curated list of awesome coffee places in China.
-- [codewars-runner-cli](https://github.com/codewars/codewars-runner-cli) - This project is now obsolete, but issues are still being tracked here until we have a new repository set up.
+- [codewars-runner-cli](https://github.com/codewars/codewars-runner-cli) - Old CodeRunner project. Use https://github.com/codewars/runner instead.
 - [gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
 - [Material-Colors-native](https://github.com/BafS/Material-Colors-native) - Material Colors - A React Native App to Select Material Colors for macOS.
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
@@ -2681,6 +2683,7 @@
 
 ## Python 
 
+- [fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [geektime_dl](https://github.com/jachinlin/geektime_dl) - 把极客时间装进 Kindle，内含快手内推等福利
 - [kindle_maker](https://github.com/jachinlin/kindle_maker) - a tool to make mobi-format file wich could be load into Kindle
 - [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
@@ -2726,7 +2729,7 @@
 - [celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [networkx](https://github.com/networkx/networkx) - Network Analysis in Python
-- [xonsh](https://github.com/xonsh/xonsh) - Python-powered, cross-platform, Unix-gazing shell
+- [xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [alfred-fakeum](https://github.com/deanishe/alfred-fakeum) - Generate fake test data in Alfred
 - [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
@@ -2964,7 +2967,6 @@
 - [octokit.rb](https://github.com/octokit/octokit.rb) - Ruby toolkit for the GitHub API
 - [lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
-- [busybox](https://github.com/docker-library/busybox) - Docker Official Image packaging for Busybox
 - [kubeadm-vagrant](https://github.com/coolsvap/kubeadm-vagrant) - Setup Kubernetes Cluster with Kubeadm and Vagrant
 - [vagrant-hostmanager](https://github.com/devopsgroup-io/vagrant-hostmanager) - :pencil: A Vagrant plugin that manages hosts files within a multi-machine environment.
 - [vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt) - Vagrant provider for libvirt.
@@ -3195,10 +3197,9 @@
 - [tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 - [mac-dev-setup](https://github.com/nicolashery/mac-dev-setup) - A beginner's guide to setting up a development environment on macOS
 - [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
-- [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
 - [agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme) - A ZSH theme designed to disclose information contextually, with a powerline aesthetic
-- [TabNine](https://github.com/codota/TabNine) - The all-language autocompleter: https://tabnine.com/
+- [TabNine](https://github.com/codota/TabNine) - AI Smart Compose for Your Code
 - [gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [tcpdive](https://github.com/fastos/tcpdive) - A TCP performance profiling tool.
 - [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
