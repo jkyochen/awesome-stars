@@ -1283,7 +1283,7 @@
 - [js-dossier](https://github.com/jleyba/js-dossier) - A JavaScript documentation generation tool.
 - [xpay](https://github.com/Exrick/xpay) - XPay个人免签收款支付系统 完全免费 资金直接到达本人账号 支持 支付宝 微信 QQ 云闪付 无需备案 无需签约 无需挂机监控APP 无需插件 无需第三方支付SDK 无需营业执照身份证 只需收款码 搞定支付流程 现已支持移动端支付
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-- [okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for Java and Kotlin.
+- [okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
 - [JAViewer](https://github.com/SplashCodes/JAViewer) - 更优雅的驾车体验
@@ -1817,7 +1817,6 @@
 - [jodit](https://github.com/xdan/jodit) - Jodit - Best WYSIWYG Editor for You
 - [Trumbowyg](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor - 20kB only (8kB gzip)
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
-- [wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor —— 轻量级web富文本框
 - [summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
 - [medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
@@ -3534,6 +3533,7 @@
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [Imagine](https://github.com/meowtec/Imagine) - 🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.
+- [wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor —— 轻量级web富文本框
 - [ayu-colors](https://github.com/ayu-theme/ayu-colors) - The ayu color scheme as a color palette
 - [ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 - [windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
