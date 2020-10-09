@@ -436,6 +436,7 @@
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 - [AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [fluent](https://github.com/hydro-project/fluent) - A data-driven compute platform
 - [eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [fizz](https://github.com/facebookincubator/fizz) - C++14 implementation of the TLS-1.3 standard
@@ -1292,7 +1293,6 @@
 - [DataFixerUpper](https://github.com/Mojang/DataFixerUpper) - A set of utilities designed for incremental building, merging and optimization of data transformations.
 - [island](https://github.com/oasisfeng/island) - Island for Android
 - [dddsample-core](https://github.com/citerus/dddsample-core) - This is the new home of the original DDD Sample app (previously hosted at sf.net)..
-- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。
 - [firebase-android-sdk](https://github.com/firebase/firebase-android-sdk) - Firebase Android SDK
 - [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
@@ -2139,7 +2139,6 @@
 - [ShowyEdge](https://github.com/pqrs-org/ShowyEdge) - A visible indicator of the current input source for macOS.
 - [Elpass-Core](https://github.com/surge-networks/Elpass-Core) - The encryption part of Elpass source code
 - [sketchcachecleaner](https://github.com/yo-op/sketchcachecleaner) - 💻 Sketch Cache Cleaner
-- [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开
 - [webviewscreensaver](https://github.com/liquidx/webviewscreensaver) - Mac OS X Screen Saver powered by a Web View
 - [AnyBar](https://github.com/tonsky/AnyBar) - OS X menubar status indicator
 - [Writer](https://github.com/HendrikNoeller/Writer) - A screenwriting app based on the fountain language
@@ -2591,6 +2590,7 @@
 
 ## PHP 
 
+- [kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Your Own URL Shortener
 - [WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to https://core.trac.wordpress.org/ instead.
@@ -2682,6 +2682,7 @@
 
 ## Python 
 
+- [authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
 - [fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [geektime_dl](https://github.com/jachinlin/geektime_dl) - 把极客时间装进 Kindle，内含快手内推等福利
 - [kindle_maker](https://github.com/jachinlin/kindle_maker) - a tool to make mobi-format file wich could be load into Kindle
@@ -3137,6 +3138,7 @@
 
 ## Shell 
 
+- [oh-my-wechat](https://github.com/lmk123/oh-my-wechat) - 微信小助手的安装 / 更新工具。
 - [zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [zsh-proxy](https://github.com/SukkaW/zsh-proxy) - :nut_and_bolt: An oh-my-zsh plugin to configure proxy
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -3556,7 +3558,7 @@
 - [OneLang](https://github.com/onelang/OneLang) - 
 - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
-- [web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. | https://standardnotes.org
+- [web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.org
 - [rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
