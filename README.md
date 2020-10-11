@@ -2822,7 +2822,7 @@
 - [readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
 - [SSRSpeed](https://github.com/NyanChanMeow/SSRSpeed) - Shadowsocks(R), V2Ray Batch Speed Test Tool
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-- [pdd](https://github.com/jarun/pdd) - :date: Tiny CLI date, time diff calculator with timers
+- [pdd](https://github.com/jarun/pdd) - :date: Tiny date, time diff calculator with piggybacked timers
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [mtprotoproxy](https://github.com/alexbers/mtprotoproxy) - Async MTProto proxy for Telegram
@@ -3417,6 +3417,7 @@
 
 ## TypeScript 
 
+- [telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI
