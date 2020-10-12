@@ -411,7 +411,7 @@
 - [newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [HoRNDIS](https://github.com/jwise/HoRNDIS) - Android USB tethering driver for Mac OS X
 - [braft](https://github.com/baidu/braft) - An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
-- [vnote](https://github.com/tamlok/vnote) - A note-taking application that knows programmers and Markdown better.
+- [vnote](https://github.com/vnotex/vnote) - A note-taking application that knows programmers and Markdown better.
 - [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [acm-challenge-workbook](https://github.com/yogykwan/acm-challenge-workbook) - 《挑战程序设计竞赛》习题册攻略
 - [KeyDB](https://github.com/JohnSully/KeyDB) - A Multithreaded Fork of Redis
@@ -3604,7 +3604,7 @@
 - [webvim](https://github.com/vim-dist/webvim) - WebVim is a vim based distribution targeting JavaScript and Web development
 - [janus](https://github.com/carlhuda/janus) - Vim distribution
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
-- [nnn.vim](https://github.com/mcchrish/nnn.vim) - File manager in vim/neovim powered by nnn
+- [nnn.vim](https://github.com/mcchrish/nnn.vim) - File manager for vim/neovim powered by nnn
 - [deol.nvim](https://github.com/Shougo/deol.nvim) - Dark powered shell interface for NeoVim and Vim8.
 - [vimshell.vim](https://github.com/Shougo/vimshell.vim) - :shell: Powerful shell implemented by vim.
 - [vimllearn](https://github.com/lymslive/vimllearn) - A book for VimL Script language
