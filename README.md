@@ -158,7 +158,6 @@
 - [slurm](https://github.com/mattthias/slurm) - yet another network load monitor
 - [micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [pttbbs](https://github.com/ptt/pttbbs) - PTT BBS source code
-- [zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
 - [tcpcopy](https://github.com/session-replay-tools/tcpcopy) - An online request replication tool, also a tcp stream replay tool, fit for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, etc
 - [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [memcached](https://github.com/memcached/memcached) - memcached development tree
@@ -714,7 +713,7 @@
 - [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
 - [xo](https://github.com/xo/xo) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
 - [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
-- [go-micro](https://github.com/asim/go-micro) - A Go standard library for microservices
+- [go-micro](https://github.com/asim/go-micro) - A Go microservices development framework
 - [monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
@@ -1086,7 +1085,6 @@
 - [chiron-sans-hk](https://github.com/tamcy/chiron-sans-hk) - 昭源黑體
 - [speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
-- [html-style-guide](https://github.com/marcobiedermann/html-style-guide) - A style guide which helps you write better, performant, structured, scalable and maintainable HTML.
 - [Hospital](https://github.com/open-power-workgroup/Hospital) - OpenPower工作组收集汇总的医院开放数据
 - [geektime-ELK](https://github.com/onebirdrocks/geektime-ELK) - ELK Training
 - [qdaily-backup](https://github.com/weblegacydownload/qdaily-backup) - 好奇心日报备份（HTML格式）
@@ -2603,6 +2601,7 @@
 - [adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 - [Lychee-v3](https://github.com/LycheeOrg/Lychee-v3) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [Keka](https://github.com/aonez/Keka) - The macOS file archiver
+- [zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
 - [Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP
 - [starterkit](https://github.com/getkirby/starterkit) - Kirby's demo site is the easiest way to get started with Kirby.
 - [grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
@@ -3430,7 +3429,7 @@
 - [lit-element](https://github.com/Polymer/lit-element) - A simple base class for creating fast, lightweight web components
 - [prisma](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
-- [snowpack](https://github.com/pikapkg/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
+- [snowpack](https://github.com/snowpackjs/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
 - [reactxp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
 - [emma-cli](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages.
 - [fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
@@ -3496,6 +3495,7 @@
 - [common-voice](https://github.com/mozilla/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [switch-desktop](https://github.com/ahkohd/switch-desktop) - Switch between your favourite apps lightning fast.
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
+- [html-style-guide](https://github.com/marcobiedermann/html-style-guide) - A style guide which helps you write better, performant, structured, scalable and maintainable HTML.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient
 - [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (or TypeScript).
