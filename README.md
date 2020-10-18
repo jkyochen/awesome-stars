@@ -1165,7 +1165,6 @@
 - [wiki](https://github.com/geekplux/wiki) - GeekPlux's personal wiki
 - [hexo-theme-hollow](https://github.com/zchen9/hexo-theme-hollow) - A pure and elegant theme for Hexo.
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
-- [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [blog](https://github.com/huangz1990/blog) - 我的个人博客。
@@ -1924,6 +1923,7 @@
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
 - [nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 - [wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
@@ -1938,6 +1938,7 @@
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [sofi.sh](https://github.com/sofish/sofi.sh) - program of http://sofi.sh
 - [simditor](https://github.com/mycolorway/simditor) - An Easy and Fast WYSIWYG Editor
+- [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [instant.io](https://github.com/webtorrent/instant.io) - 🚀 Streaming file transfer over WebTorrent (torrents on the web)
 - [webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
@@ -3566,7 +3567,6 @@
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [growth-ionic](https://github.com/phodal/growth-ionic) - [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
