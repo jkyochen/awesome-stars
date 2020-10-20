@@ -275,7 +275,7 @@
 - [gcc](https://github.com/gcc-mirror/gcc) - 
 - [tg](https://github.com/vysheng/tg) - telegram-cli
 - [DomainMegaBot](https://github.com/Har-Kuun/DomainMegaBot) - A domain name bulk search bot with support of over 200 top-level domains.
-- [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - libev port of shadowsocks
+- [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - Bug fix only libev port of shadowsocks. Future development moved to shadowsocks-rust
 - [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
 - [go-tun2socks](https://github.com/eycorsican/go-tun2socks) - A tun2socks implementation written in Go.
@@ -1972,6 +1972,7 @@
 - [babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
+- [web](https://github.com/cyber-dojo/web) - repo for the cyberdojo/web Docker image; a cyber-dojo microservice
 - [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [functional-javascript](https://github.com/osteele/functional-javascript) - Functional is a library for functional programming in JavaScript. It defines the standard higher-order functions such as map, reduce (aka foldl), and select (aka filter). It also defines functions such as curry, rcurry, and partial for partial function application; and compose, guard, and until for function-level programming.
 - [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
@@ -2595,7 +2596,7 @@
 - [kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Your Own URL Shortener
-- [WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to https://core.trac.wordpress.org/ instead.
+- [WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.
 - [question2answer](https://github.com/q2a/question2answer) - Question2Answer is a free and open source platform for Q&A sites, running on PHP/MySQL.
 - [valet-plus](https://github.com/weprovide/valet-plus) - Blazing fast macOS PHP development environment
 - [valet](https://github.com/laravel/valet) - 
@@ -2685,6 +2686,7 @@
 
 ## Python 
 
+- [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google Accounts with emails.
 - [authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
 - [fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
@@ -3047,7 +3049,6 @@
 - [homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [awesome-rails-gem-zh_CN](https://github.com/debbbbie/awesome-rails-gem-zh_CN) - Rails 常用 Gem 列表 - Awesome Rails Gem 中文版
-- [web](https://github.com/cyber-dojo/web) - repo for the cyberdojo/web Docker image; a cyber-dojo microservice
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [homeland](https://github.com/ruby-china/homeland) - :circus_tent: Open source discussion website.
 
