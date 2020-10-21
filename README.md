@@ -373,7 +373,7 @@
 - [emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Image, GIF and Video enlarger/upscaler(super-resolution) achieved with Waifu2x, SRMD, RealSR,  Anime4K and ACNet.
 - [deepin-boot-maker](https://github.com/linuxdeepin/deepin-boot-maker) - mirrored from https://cr.deepin.io/#/admin/projects/deepin-boot-maker
-- [Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / SOCKS5 | 使用 C++ / Qt5 开发 | 可拓展插件式设计 :star:
+- [Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / SOCKS5 | 使用 C++ / Qt5 开发 | 可拓展插件式设计 :star:
 - [mcrouter](https://github.com/facebook/mcrouter) - Mcrouter is a memcached protocol router for scaling memcached deployments.
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
@@ -601,6 +601,7 @@
 ## Dockerfile 
 
 - [laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [busybox](https://github.com/docker-library/busybox) - Docker Official Image packaging for Busybox
 - [dockerfiles](https://github.com/fanvinga/dockerfiles) - VINGA'S Dockerfiles
 - [docker-snell](https://github.com/DeerCloud/docker-snell) - 🐳 snell - an encrypted proxy service program
@@ -638,6 +639,7 @@
 
 ## Go 
 
+- [v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and production-ready application development framework of golang.
 - [decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go
 - [under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | https://golang.design/under-the-hood
@@ -1206,6 +1208,7 @@
 
 ## Java 
 
+- [hackerskeyboard](https://github.com/klausw/hackerskeyboard) - Hacker's Keyboard (official)
 - [geektime-mongodb-course](https://github.com/tapdata/geektime-mongodb-course) - 
 - [zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
@@ -2753,7 +2756,6 @@
 - [ECommerceCrawlers](https://github.com/DropsDevopsOrg/ECommerceCrawlers) - 实战🐍多种网站、电商数据爬虫🕷。包含🕸：淘宝商品、微信公众号、大众点评、企查查、招聘网站、闲鱼、阿里任务、博客园、微博、百度贴吧、豆瓣电影、包图网、全景网、豆瓣音乐、某省药监局、搜狐新闻、机器学习文本采集、fofa资产采集、汽车之家、国家统计局、百度关键词收录数、蜘蛛泛目录、今日头条、豆瓣影评、携程、小米应用商店、安居客、途家民宿❤️❤️❤️。微信爬虫展示项目:
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [pyppeteer](https://github.com/miyakogi/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
-- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
 - [urllib3](https://github.com/urllib3/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more.
@@ -2863,7 +2865,7 @@
 - [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
 - [Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix reference homeserver
-- [instantbox](https://github.com/instantbox/instantbox) - Get a clean, ready-to-go Linux box in seconds.
+- [instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 - [12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
 - [JsFormat](https://github.com/jdavisclark/JsFormat) - Javascript formatting for Sublime Text 2 & 3
