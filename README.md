@@ -6,7 +6,6 @@
 ## Contents
 
   - [ASP](#asp)
-  - [Agda](#agda)
   - [AngelScript](#angelscript)
   - [AppleScript](#applescript)
   - [Assembly](#assembly)
@@ -89,10 +88,6 @@
 ## ASP 
 
 - [koolshare.github.io](https://github.com/koolshare/koolshare.github.io) - For koolshare.cn
-
-## Agda 
-
-- [plfa.github.io](https://github.com/plfa/plfa.github.io) - Introduction to programming language theory in Agda
 
 ## AngelScript 
 
@@ -328,6 +323,7 @@
 
 ## C++ 
 
+- [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
 - [fibjs](https://github.com/fibjs/fibjs) - JavaScript on Fiber (built on Chrome's V8 JavaScript engine)
 - [skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
@@ -1053,6 +1049,7 @@
 - [dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 - [geektime2pdf](https://github.com/jjeejj/geektime2pdf) - 极客时间专栏文章 转为 PDF 包含评论 音频
 - [learning-area](https://github.com/mdn/learning-area) - Github repo for the MDN Learning Area.
+- [plfa.github.io](https://github.com/plfa/plfa.github.io) - An introduction to programming language theory in Agda
 - [docs](https://github.com/mimblewimble/docs) - Documentation for Grin and Mimblewimble
 - [bilibili_blacklist](https://github.com/harrynull/bilibili_blacklist) - A website to share and manage their bilibili danmaku blacklist.
 - [awesome-rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails
@@ -2208,6 +2205,7 @@
 
 ## Others 
 
+- [ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [feeds](https://github.com/Kapeli/feeds) - Collection of Dash docset feeds
 - [conference](https://github.com/gopherchina/conference) - 
 - [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
