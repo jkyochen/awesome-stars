@@ -1381,6 +1381,8 @@
 
 ## JavaScript 
 
+- [EnlighterJS](https://github.com/EnlighterJS/EnlighterJS) - :high_brightness: an open source syntax highlighter written in pure javascript
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [github-highlight-selected](https://github.com/Nuclides/github-highlight-selected) - Chrome extension for highlighting selected word in GitHub source view like Sublime Text.
 - [front-end-handbook](https://github.com/FrontendMasters/front-end-handbook) - The resources and tools for learning about the practice of front-end development.
 - [lowdb](https://github.com/typicode/lowdb) - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
@@ -2205,6 +2207,7 @@
 
 ## Others 
 
+- [awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [feeds](https://github.com/Kapeli/feeds) - Collection of Dash docset feeds
 - [conference](https://github.com/gopherchina/conference) - 
@@ -2687,6 +2690,7 @@
 
 ## Python 
 
+- [gitlint](https://github.com/jorisroovers/gitlint) - Linting for your git commit messages
 - [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google Accounts with emails.
 - [authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
