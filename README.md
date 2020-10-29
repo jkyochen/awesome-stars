@@ -70,7 +70,6 @@
   - [Self](#self)
   - [Shell](#shell)
   - [Smarty](#smarty)
-  - [Solidity](#solidity)
   - [Stylus](#stylus)
   - [Swift](#swift)
   - [SystemVerilog](#systemverilog)
@@ -1109,6 +1108,7 @@
 - [hacker-news-pwas](https://github.com/tastejs/hacker-news-pwas) - HNPWA - Hacker News readers as Progressive Web Apps 📱
 - [vim-plugin-dev-guide](https://github.com/wsdjeg/vim-plugin-dev-guide) - Vim 插件开发指南
 - [element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
+- [EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [dockerfile](https://github.com/mritd/dockerfile) - some personally made dockerfile
 - [sb.sb](https://github.com/Showfom/sb.sb) - https://sb.sb/
 - [mikutap](https://github.com/HFIProgramming/mikutap) - A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap
@@ -3289,10 +3289,6 @@
 
 - [SSPanel-Uim](https://github.com/Anankke/SSPanel-Uim) - SSPanel V3 魔改再次修改版
 
-## Solidity 
-
-- [EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
-
 ## Stylus 
 
 - [hexo-theme-melody](https://github.com/Molunerfinn/hexo-theme-melody) - :musical_keyboard:A simple & beautiful & fast theme for Hexo.
@@ -3641,7 +3637,7 @@
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 80k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
 - [webgems](https://github.com/webgems/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [tld.party](https://github.com/SaraVieira/tld.party) - Damn, that's a lot of TLD
 - [ebbx](https://github.com/ebb-io/ebbx) - A Vue.js project that powers a certain magical website
