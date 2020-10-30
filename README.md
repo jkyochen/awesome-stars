@@ -322,6 +322,8 @@
 
 ## C++ 
 
+- [DOOM-3](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release
+- [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
 - [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
 - [fibjs](https://github.com/fibjs/fibjs) - JavaScript on Fiber (built on Chrome's V8 JavaScript engine)
@@ -1806,7 +1808,7 @@
 - [pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [t-writer.js](https://github.com/ChrisCavs/t-writer.js) - Native typewriter effect, without compromises or dependencies.
 - [stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
-- [webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack or Parcel
+- [webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack, Parcel or Snowpack
 - [jsbox_script](https://github.com/Fndroid/jsbox_script) - 个人JSBox脚本集合
 - [shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager) - A shadowsocks manager tool for multi user and traffic control.
 - [alfred-tty](https://github.com/isometry/alfred-tty) - Alfred Workflow to quickly switch between or close iTerm windows, tabs and panes based on title and tty
@@ -2379,6 +2381,7 @@
 - [going-to-production](https://github.com/mtdvio/going-to-production) - A reference checklist for topics which should be covered before going to production.
 - [essays](https://github.com/dessalines/essays) - 
 - [alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
+- [V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 - [alfred-reminders](https://github.com/surrealroad/alfred-reminders) - Manages reminders in Reminders.app
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [ios-good-practices](https://github.com/futurice/ios-good-practices) - Good ideas for iOS development, by Futurice developers.
@@ -3322,7 +3325,6 @@
 - [Clippy](https://github.com/Cosmo/Clippy) - 📎💬🎉 Clippy from Microsoft Office is back and runs on macOS! Written in Swift.
 - [ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS [and Apple Platforms].
 - [passepartout-ios](https://github.com/passepartoutvpn/passepartout-ios) - User-friendly OpenVPN client app for iOS.
-- [V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 - [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar
 - [Telegram-iOS](https://github.com/nicegram/Telegram-iOS) - Telegram-iOS
 - [Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
@@ -3407,7 +3409,7 @@
 ## TeX 
 
 - [resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
-- [cosmos](https://github.com/cosmos/cosmos) - ⚛ Internet of Blockchains
+- [cosmos](https://github.com/cosmos/cosmos) - Internet of Blockchains ⚛
 - [the-little-redis-book](https://github.com/karlseguin/the-little-redis-book) - 
 - [the-little-mongodb-book](https://github.com/karlseguin/the-little-mongodb-book) - The Little MongoDB Book
 - [Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese) - 适合应届毕业生的 LaTeX 简历模板
