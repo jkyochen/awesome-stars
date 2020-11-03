@@ -712,7 +712,7 @@
 - [trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
 - [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
 - [xo](https://github.com/xo/xo) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
-- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native app development
 - [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development.
 - [monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
@@ -2695,6 +2695,7 @@
 
 ## Python 
 
+- [awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui) - Awesome React Native UI components updated weekly
 - [gitlint](https://github.com/jorisroovers/gitlint) - Linting for your git commit messages
 - [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google Accounts with emails.
@@ -2824,7 +2825,7 @@
 - [webpy](https://github.com/webpy/webpy) - web.py is a web framework for python that is as simple as it is powerful.
 - [streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [geektime-webprotocol](https://github.com/russelltao/geektime-webprotocol) - 
-- [TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow
+- [TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) - :satellite: Simple and ready-to-use tutorials for TensorFlow
 - [DDNS](https://github.com/NewFuture/DDNS) - :triangular_flag_on_post: 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
 - [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [BaoTa](https://github.com/aaPanel/BaoTa) - 宝塔Linux面板 - 简单好用的服务器运维面板
