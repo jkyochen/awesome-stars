@@ -1789,7 +1789,7 @@
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
 - [website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
 - [webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
-- [ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - JavaScript library to detect browser, engine, OS, CPU, and device type/model from userAgent string. Supports browser & node.js environment. Also available as jQuery/Zepto plugin, Bower/Meteor package, RequireJS/AMD module, & CLI tool.
+- [ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - JavaScript library to detect browser, engine, OS, CPU, and device type/model from userAgent string. Supports browser & node.js environment.
 - [thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
 - [strml.net](https://github.com/STRML/strml.net) - STRML: Projects & Work
 - [walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
