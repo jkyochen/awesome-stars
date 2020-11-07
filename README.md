@@ -370,7 +370,7 @@
 - [emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Image, GIF and Video enlarger/upscaler(super-resolution) achieved with Waifu2x, SRMD, RealSR,  Anime4K and ACNet.
 - [deepin-boot-maker](https://github.com/linuxdeepin/deepin-boot-maker) - mirrored from https://cr.deepin.io/#/admin/projects/deepin-boot-maker
-- [Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / SOCKS5 | 使用 C++ / Qt5 开发 | 可拓展插件式设计 :star:
+- [Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt5 开发 | 可拓展插件式设计 :star:
 - [mcrouter](https://github.com/facebook/mcrouter) - Mcrouter is a memcached protocol router for scaling memcached deployments.
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
@@ -3097,7 +3097,7 @@
 - [rbspy](https://github.com/rbspy/rbspy) - Sampling profiler for Ruby
 - [crates.io](https://github.com/rust-lang/crates.io) - Source code for crates.io
 - [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. (Rust)
-- [openethereum](https://github.com/openethereum/openethereum) - The fast, light, and robust client for Ethereum-like networks.
+- [parity-ethereum](https://github.com/openethereum/parity-ethereum) - The fast, light, and robust client for Ethereum-like networks.
 - [Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
 - [rssbot](https://github.com/iovxw/rssbot) - 中文 Telegram RSS 机器人
 - [tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
