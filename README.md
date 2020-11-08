@@ -712,7 +712,7 @@
 - [trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
 - [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
 - [xo](https://github.com/xo/xo) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
-- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native app development
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native application development
 - [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development.
 - [monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
@@ -1383,6 +1383,7 @@
 
 ## JavaScript 
 
+- [alfred-currency-conversion](https://github.com/jeppestaerk/alfred-currency-conversion) - Alfred 4 Workflow - See foreign exchange rates and currency conversion
 - [browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io
 - [node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
 - [vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ Standard Tooling for Vue.js Development
@@ -1696,7 +1697,6 @@
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [quick-tabs-chrome-extension](https://github.com/babyman/quick-tabs-chrome-extension) - A quick tab list and switch plugin inspired by the intelliJ IDEA java IDE
 - [generative.fm](https://github.com/generative-music/generative.fm) - A platform for playing generative music in the browser.
-- [jazzy](https://github.com/realm/jazzy) - Soulful docs for Swift & Objective-C
 - [nyc](https://github.com/istanbuljs/nyc) - the Istanbul command line interface
 - [pingg](https://github.com/Thann/pingg) - Ping latency graphing CLI
 - [polished](https://github.com/styled-components/polished) - A lightweight toolset for writing styles in JavaScript ✨
@@ -2997,6 +2997,7 @@
 - [dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [css-only-chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend
+- [jazzy](https://github.com/realm/jazzy) - Soulful docs for Swift & Objective-C
 - [tk](https://github.com/ruby/tk) - Tk interface module using tcltklib
 - [diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
 - [ruby](https://github.com/airbnb/ruby) - Ruby Style Guide
