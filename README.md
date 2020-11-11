@@ -493,7 +493,6 @@
 - [Effeckt.css](https://github.com/h5bp/Effeckt.css) - This repo is archived. Thanks!
 - [2019-Slides](https://github.com/PyConChina/2019-Slides) - PyCon China 2019 幻灯片
 - [V2ray.Fun](https://github.com/FunctionClub/V2ray.Fun) - 正在开发的全新 V2ray.Fun
-- [wild-cherry](https://github.com/mashaal/wild-cherry) - :princess::tulip::japanese_ogre: A fairy-tale inspired theme, with tasteful use of emojis
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [foldersizeview.github.io](https://github.com/foldersizeview/foldersizeview.github.io) - 
 - [2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)
@@ -2071,6 +2070,7 @@
 
 ## Less 
 
+- [wild-cherry](https://github.com/mashaal/wild-cherry) - :princess::tulip::japanese_ogre: A fairy-tale inspired theme, with tasteful use of emojis
 - [nginx-fancyindex-flat-theme](https://github.com/alehaa/nginx-fancyindex-flat-theme) - Flat theme for nginx's fancyindex plugin
 - [mdui](https://github.com/zdhxiong/mdui) - MDUI 是一个基于 Material Design 的前端框架。
 
