@@ -1382,6 +1382,7 @@
 
 ## JavaScript 
 
+- [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [alfred-currency-conversion](https://github.com/jeppestaerk/alfred-currency-conversion) - Alfred 4 Workflow - See foreign exchange rates and currency conversion
 - [browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io
 - [node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
