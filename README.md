@@ -1959,7 +1959,6 @@
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [Unblock-Youku](https://github.com/uku/Unblock-Youku) - A Chrome extension helping users access their web services while travelling outside mainland China.
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-- [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and data visualization library for browser
 - [jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [tale](https://github.com/otale/tale) - 🦄 Best beautiful java blog, worth a try
 - [JSLite](https://github.com/JSLite/JSLite) - 与jQuery有着类似的api，让web开发更迅速，下载执行更快、量级更轻，针对现代高级浏览器的JavaScript库。
@@ -1994,7 +1993,7 @@
 - [ningjs](https://github.com/jsconfcn/ningjs) - The repository for the upcoming JavaScript Conference China 2016 aka NingJS
 - [ife-work](https://github.com/DIYgod/ife-work) - :cake: 百度Web前端技术学院
 - [closure-compiler-js](https://github.com/google/closure-compiler-js) - Package for the JS version of closure-compiler for use via NPM
-- [DPlayer](https://github.com/MoePlayer/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
+- [DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [Hotot](https://github.com/lyricat/Hotot) - A Twitter Client
 - [eme](https://github.com/egoist/eme) - Elegant Markdown Editor.
 - [flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
@@ -2005,7 +2004,7 @@
 - [react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
 - [ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
-- [APlayer](https://github.com/MoePlayer/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
+- [APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
 - [kindleBookMaker](https://github.com/barretlee/kindleBookMaker) - Kindle Book Maker with KindleGen, Make Book from RSS/single URL/directory and so on.
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
@@ -2711,7 +2710,7 @@
 - [simiki](https://github.com/tankywoo/simiki) - Simiki is a simple wiki framework, written in Python.
 - [lektor](https://github.com/lektor/lektor) - The lektor static file content management system
 - [jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
-- [d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.
+- [d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with code, math, and discussions. Available in multi-frameworks. Adopted at 140 universities from 35 countries.
 - [NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 - [restful-api-design](https://github.com/geertj/restful-api-design) - 
 - [asciidoc](https://github.com/asciidoc/asciidoc) - AsciiDoc is a text document format for writing notes, documentation, articles, books, slideshows, man pages & blogs. AsciiDoc can be translated to many formats including HTML, DocBook, PDF, EPUB, and man pages. NOTE: This implementation is written in Python 2, which EOLs in Jan 2020. AsciiDoc development is being continued under @asciidoctor.
@@ -3430,7 +3429,7 @@
 ## TypeScript 
 
 - [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync
-- [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm) - The Ethereum VM implemented in JavaScript
+- [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm) - Monorepo for the Ethereum VM TypeScript Implementation
 - [telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3
@@ -3585,6 +3584,7 @@
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
+- [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and data visualization library for browser
 - [growth-ionic](https://github.com/phodal/growth-ionic) - [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
