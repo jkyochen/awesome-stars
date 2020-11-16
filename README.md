@@ -1381,6 +1381,8 @@
 
 ## JavaScript 
 
+- [static](https://github.com/koajs/static) - Static file server middleware
+- [protocol-buffers](https://github.com/mafintosh/protocol-buffers) - Protocol Buffers for Node.js
 - [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [alfred-currency-conversion](https://github.com/jeppestaerk/alfred-currency-conversion) - Alfred 4 Workflow - See foreign exchange rates and currency conversion
 - [browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io
@@ -1657,7 +1659,7 @@
 - [instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 - [v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in your browser and NodeJS
 - [jslinux-deobfuscated](https://github.com/levskaya/jslinux-deobfuscated) - An old version of Mr. Bellard's JSLinux rewritten to be human readable, hand deobfuscated and annotated.
-- [openwebmonitor](https://github.com/skdjfla/openwebmonitor) - 万能网页监控器，监控物价、订单、出货、外汇、折扣、彩票...无所不能
+- [openwebmonitor](https://github.com/aceimnorstuvwxz/openwebmonitor) - 万能网页监控器，监控物价、订单、出货、外汇、折扣、彩票...无所不能
 - [cross_browser](https://github.com/Song-Li/cross_browser) - This is a project for a browser fingerprinting technique that can track users not only within a single browser but also across different browsers on the same machine.
 - [main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
 - [baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) - ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。
@@ -2347,7 +2349,7 @@
 - [Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy) - 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗 (长期更新)
 - [awesome-github](https://github.com/fffaraz/awesome-github) - A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 - [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
-- [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [ECMAScript-new-features-list](https://github.com/daumann/ECMAScript-new-features-list) - A comprehensive list of new ES features, including ES2015 (ES6), ES2016, ES2017, ES2018, ES2019
