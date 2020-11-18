@@ -1381,6 +1381,7 @@
 
 ## JavaScript 
 
+- [node-bindings](https://github.com/TooTallNate/node-bindings) - Helper module for loading your native module's `.node` file
 - [static](https://github.com/koajs/static) - Static file server middleware
 - [protocol-buffers](https://github.com/mafintosh/protocol-buffers) - Protocol Buffers for Node.js
 - [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
