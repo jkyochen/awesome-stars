@@ -581,7 +581,7 @@
 
 ## Common Lisp 
 
-- [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - Be productive.
+- [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the internet on your terms.
 
 ## Crystal 
 
@@ -634,6 +634,7 @@
 
 ## Go 
 
+- [go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
 - [v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and production-ready application development framework of golang.
 - [decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go
