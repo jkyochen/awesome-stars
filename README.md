@@ -334,7 +334,7 @@
 - [keepassx](https://github.com/keepassx/keepassx) - KeePassX is a cross platform port of the windows application “Keepass Password Safe”.
 - [node-webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads
 - [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse is a free analytics DBMS for big data
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [openrasp](https://github.com/baidu/openrasp) - 🔥Open source RASP solution
 - [snort3](https://github.com/snort3/snort3) - Snort++
@@ -712,7 +712,7 @@
 - [trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
 - [charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [xo](https://github.com/xo/xo) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
-- [micro](https://github.com/micro/micro) - Micro is a platform for API driven Go services development
+- [micro](https://github.com/micro/micro) - Micro is a cloud native development platform
 - [nitro](https://github.com/gonitro/nitro) - Nitro is a futuristic blazingly fast embeddable framework for distributed app development, IoT, edge and p2p.
 - [monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
@@ -1905,7 +1905,7 @@
 - [duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome.
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2020)
 - [pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
 - [hexo-theme-vexo](https://github.com/yanm1ng/hexo-theme-vexo) - 🍟  Vexo is a Hexo theme inspired by Vue's official website.
 - [h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
@@ -2074,7 +2074,6 @@
 - [MultiType](https://github.com/drakeet/MultiType) - Easier and more flexible to create multiple types for Android RecyclerView.
 - [plaid](https://github.com/android/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design.
 - [p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
-- [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 
 ## Less 
 
@@ -2527,7 +2526,7 @@
 - [one](https://github.com/alfredxing/one) - One Light Atom theme, ported to Sublime Text
 - [vscode-theme-onelight](https://github.com/akamud/vscode-theme-onelight) - VSCode Theme based on Atom's One Light theme
 - [blog](https://github.com/xufei/blog) - my personal blog
-- [SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult / Shadowrocket / Surfboard / clash(X) 实用规则。
+- [SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [awesome-education](https://github.com/wowlusitong/awesome-education) - 学生福利-收集支持教育优惠的软件与服务
@@ -2586,6 +2585,7 @@
 - [Study-Group](https://github.com/seabornlee/Study-Group) - 让生活更有意思，让生命更有意义
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
+- [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 - [ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
 - [Documents](https://github.com/ethanfu/Documents) - 主要包括自己的一些经验总结
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -3596,7 +3596,7 @@
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
-- [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and data visualization library for browser
+- [incubator-echarts](https://github.com/apache/incubator-echarts) - Apache ECharts (incubating) is a powerful, interactive charting and data visualization library for browser
 - [growth-ionic](https://github.com/phodal/growth-ionic) - [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
