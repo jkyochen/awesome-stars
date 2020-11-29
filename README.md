@@ -409,7 +409,6 @@
 - [newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [HoRNDIS](https://github.com/jwise/HoRNDIS) - Android USB tethering driver for Mac OS X
 - [braft](https://github.com/baidu/braft) - An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
-- [vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 - [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [acm-challenge-workbook](https://github.com/yogykwan/acm-challenge-workbook) - 《挑战程序设计竞赛》习题册攻略
 - [KeyDB](https://github.com/JohnSully/KeyDB) - A Multithreaded Fork of Redis
@@ -2137,6 +2136,7 @@
 
 ## Objective-C 
 
+- [Sloth](https://github.com/sveinbjornt/Sloth) - Native Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [teleport](https://github.com/abyssoft/teleport) - Virtual KVM for OS X
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
@@ -2439,6 +2439,7 @@
 - [awesome-design](https://github.com/gztchan/awesome-design) - 🌟Curated design resources
 - [command-line-tools](https://github.com/learn-anything/command-line-tools) - Awesome Command Line Utilities
 - [gitnote](https://github.com/zhaopengme/gitnote) - A modern note taking app based on GIT that does not require a local GIT environment.
+- [vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
@@ -3552,7 +3553,7 @@
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [noty](https://github.com/fabiospampinato/noty) - Autosaving sticky note with support for multiple notes without needing multiple windows.
 - [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
-- [misskey](https://github.com/syuilo/misskey) - 🌎 A federated blogging platform 🚀
+- [misskey](https://github.com/syuilo/misskey) - 🌎 A interplanetary blogging platform 🚀
 - [theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
