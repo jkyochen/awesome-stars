@@ -409,6 +409,7 @@
 - [newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [HoRNDIS](https://github.com/jwise/HoRNDIS) - Android USB tethering driver for Mac OS X
 - [braft](https://github.com/baidu/braft) - An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
+- [vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 - [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [acm-challenge-workbook](https://github.com/yogykwan/acm-challenge-workbook) - 《挑战程序设计竞赛》习题册攻略
 - [KeyDB](https://github.com/JohnSully/KeyDB) - A Multithreaded Fork of Redis
@@ -632,6 +633,10 @@
 
 ## Go 
 
+- [KubeOperator](https://github.com/KubeOperator/KubeOperator) - KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。
+- [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
+- [metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Cluster-wide aggregator of resource usage data.
+- [node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.
 - [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
@@ -711,7 +716,7 @@
 - [trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
 - [charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [xo](https://github.com/xo/xo) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
-- [micro](https://github.com/micro/micro) - Micro is a cloud native development platform
+- [micro](https://github.com/micro/micro) - Micro is a platform for API driven development
 - [nitro](https://github.com/gonitro/nitro) - Nitro is a futuristic blazingly fast embeddable framework for distributed app development, IoT, edge and p2p.
 - [monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
@@ -2100,6 +2105,7 @@
 
 ## Makefile 
 
+- [kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring
 - [smi-spec](https://github.com/servicemeshinterface/smi-spec) - Service Mesh Interface
 - [businesscard-linux](https://github.com/thirtythreeforty/businesscard-linux) - A Buildroot distribution small enough to run on my business card
 - [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -2439,7 +2445,6 @@
 - [awesome-design](https://github.com/gztchan/awesome-design) - 🌟Curated design resources
 - [command-line-tools](https://github.com/learn-anything/command-line-tools) - Awesome Command Line Utilities
 - [gitnote](https://github.com/zhaopengme/gitnote) - A modern note taking app based on GIT that does not require a local GIT environment.
-- [vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
@@ -2704,6 +2709,7 @@
 
 ## Python 
 
+- [instagram-scraper](https://github.com/arc298/instagram-scraper) - Scrapes an instagram user's photos and videos
 - [awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui) - Awesome React Native UI components updated weekly
 - [gitlint](https://github.com/jorisroovers/gitlint) - Linting for your git commit messages
 - [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
@@ -3439,6 +3445,8 @@
 
 ## TypeScript 
 
+- [clarity](https://github.com/vmware/clarity) - UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences
+- [kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [memfs](https://github.com/streamich/memfs) - In-memory filesystem with Node's API
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
