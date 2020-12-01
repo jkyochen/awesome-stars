@@ -310,7 +310,7 @@
 - [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - If you want to keep a secret, you must also hide it from yourself.
 - [server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [v2ray-panel-master](https://github.com/v2ray/v2ray-panel-master) - Deprecated
-- [SteamCleaner](https://github.com/Codeusa/SteamCleaner) - :us: A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon :us:
+- [SteamCleaner](https://github.com/AndrewMD5/SteamCleaner) - :us: A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon :us:
 - [ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [SSRR-Windows](https://github.com/Anankke/SSRR-Windows) - 希望你知道这意味着什么。
 - [TumblThree](https://github.com/johanneszab/TumblThree) - A Tumblr Blog Backup Application
@@ -1388,6 +1388,7 @@
 
 ## JavaScript 
 
+- [portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [nodejs-mobile](https://github.com/JaneaSystems/nodejs-mobile) - Full-fledged Node.js on Android and iOS
 - [node-clinic](https://github.com/clinicjs/node-clinic) - Clinic.js diagnoses your Node.js performance issues
