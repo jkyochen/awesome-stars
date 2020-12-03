@@ -1389,6 +1389,7 @@
 
 ## JavaScript 
 
+- [kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.18 安装手册，(k8s install) 在线答疑，持续更新。
 - [portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [nodejs-mobile](https://github.com/JaneaSystems/nodejs-mobile) - Full-fledged Node.js on Android and iOS
@@ -1840,7 +1841,7 @@
 - [summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
 - [medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
-- [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL and REST
+- [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
 - [spacegray](https://github.com/kkga/spacegray) - A Hyperminimal UI Theme for Sublime Text
 - [You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [blog](https://github.com/jxnblk/blog) - Personal blog on design & development
