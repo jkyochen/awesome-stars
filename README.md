@@ -633,6 +633,8 @@
 
 ## Go 
 
+- [kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+- [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [KubeOperator](https://github.com/KubeOperator/KubeOperator) - KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
@@ -1799,7 +1801,7 @@
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [mdx-go](https://github.com/jxnblk/mdx-go) - :zap: Lightning fast MDX-based dev server for progressive documentation
-- [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [material-ui](https://github.com/mui-org/material-ui) - React components for faster and simpler web development. Build your own design system, or start with Material Design.
 - [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
 - [website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
@@ -1831,7 +1833,7 @@
 - [shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager) - A shadowsocks manager tool for multi user and traffic control.
 - [alfred-tty](https://github.com/isometry/alfred-tty) - Alfred Workflow to quickly switch between or close iTerm windows, tabs and panes based on title and tty
 - [beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
-- [chrome-app-samples](https://github.com/GoogleChrome/chrome-app-samples) - Chrome Apps
+- [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Apps
 - [universe](https://github.com/harttle/universe) - small universe governed by gravity
 - [ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app
 - [eth-netstats](https://github.com/cubedro/eth-netstats) - Ethereum Network Stats
