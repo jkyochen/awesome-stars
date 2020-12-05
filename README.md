@@ -1097,7 +1097,6 @@
 - [geektime-ELK](https://github.com/onebirdrocks/geektime-ELK) - ELK Training
 - [qdaily-backup](https://github.com/weblegacydownload/qdaily-backup) - 好奇心日报备份（HTML格式）
 - [geektime-ELK](https://github.com/geektime-geekbang/geektime-ELK) - ELK Training
-- [nce-live](https://github.com/ncehk2019/nce-live) - 
 - [railsgirls.github.io](https://github.com/railsgirls/railsgirls.github.io) - Rails Girls Guides
 - [china-indie-podcasts](https://github.com/typlog/china-indie-podcasts) - 发现与推荐高质量的中文独立播客
 - [es6-features](https://github.com/rse/es6-features) - ECMAScript 6: Feature Overview & Comparison
@@ -1552,7 +1551,6 @@
 - [sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js
 - [serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
-- [feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
 - [node-restify](https://github.com/restify/node-restify) - The future of Node.js REST development
 - [fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
@@ -1833,7 +1831,7 @@
 - [shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager) - A shadowsocks manager tool for multi user and traffic control.
 - [alfred-tty](https://github.com/isometry/alfred-tty) - Alfred Workflow to quickly switch between or close iTerm windows, tabs and panes based on title and tty
 - [beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
-- [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Apps
+- [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [universe](https://github.com/harttle/universe) - small universe governed by gravity
 - [ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app
 - [eth-netstats](https://github.com/cubedro/eth-netstats) - Ethereum Network Stats
@@ -2757,6 +2755,7 @@
 - [lightning-rfc](https://github.com/lightningnetwork/lightning-rfc) - Lightning Network Specifications
 - [bips](https://github.com/bitcoin/bips) - Bitcoin Improvement Proposals
 - [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
+- [a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
 - [twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
@@ -3510,6 +3509,7 @@
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+- [feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
 - [helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [wechaty](https://github.com/wechaty/wechaty) - Conversational SDK for Chatbot Makers
@@ -3637,7 +3637,6 @@
 
 - [til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [vim](https://github.com/dracula/vim) - 🧛🏻‍♂️ Dark theme for Vim
-- [a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
 - [gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [vim-pathogen](https://github.com/tpope/vim-pathogen) - pathogen.vim: manage your runtimepath
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
