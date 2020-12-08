@@ -595,7 +595,6 @@
 ## Dockerfile 
 
 - [laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
-- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [busybox](https://github.com/docker-library/busybox) - Docker Official Image packaging for Busybox
 - [dockerfiles](https://github.com/fanvinga/dockerfiles) - VINGA'S Dockerfiles
 - [docker-snell](https://github.com/DeerCloud/docker-snell) - 🐳 snell - an encrypted proxy service program
@@ -722,7 +721,7 @@
 - [charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [xo](https://github.com/xo/xo) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
 - [micro](https://github.com/micro/micro) - Micro is a platform for API driven development
-- [nitro](https://github.com/gonitro/nitro) - Nitro is a futuristic blazingly fast embeddable framework for distributed app development, IoT, edge and p2p.
+- [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for microservices development
 - [monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
@@ -1393,6 +1392,7 @@
 
 ## JavaScript 
 
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
 - [cerebro](https://github.com/lmenezes/cerebro) - 
 - [kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.18 安装手册，(k8s install) 在线答疑，持续更新。
 - [portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
@@ -2067,7 +2067,6 @@
 
 ## Kotlin 
 
-- [KeePassDX](https://github.com/Kunzisoft/KeePassDX) - :iphone: KeePass implementation for android with material design and deluxe features
 - [paperphone](https://github.com/specialprojects-experiments/paperphone) - Paper phone experimental android app
 - [kitsunebi-android](https://github.com/eycorsican/kitsunebi-android) - A fully-featured V2Ray client for Android.
 - [ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
@@ -2787,6 +2786,7 @@
 - [ECommerceCrawlers](https://github.com/DropsDevopsOrg/ECommerceCrawlers) - 实战🐍多种网站、电商数据爬虫🕷。包含🕸：淘宝商品、微信公众号、大众点评、企查查、招聘网站、闲鱼、阿里任务、博客园、微博、百度贴吧、豆瓣电影、包图网、全景网、豆瓣音乐、某省药监局、搜狐新闻、机器学习文本采集、fofa资产采集、汽车之家、国家统计局、百度关键词收录数、蜘蛛泛目录、今日头条、豆瓣影评、携程、小米应用商店、安居客、途家民宿❤️❤️❤️。微信爬虫展示项目:
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [pyppeteer](https://github.com/miyakogi/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
 - [urllib3](https://github.com/urllib3/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more.
@@ -3104,7 +3104,7 @@
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [fmt-rfcs](https://github.com/rust-dev-tools/fmt-rfcs) - RFCs for Rust formatting guidelines and changes to Rustfmt
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
-- [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [diem](https://github.com/libra/diem) - Diem’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
