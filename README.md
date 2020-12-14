@@ -264,7 +264,7 @@
 - [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
 - [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
 - [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
-- [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of git://source.ffmpeg.org/ffmpeg.git
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
 - [darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [shadowsocks-libev](https://github.com/madeye/shadowsocks-libev) - libev port of shadowsocks
@@ -635,6 +635,7 @@
 
 ## Go 
 
+- [okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
 - [GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 最小巧、最准确、最全面、最实用的中国大陆 GeoIP2 数据库及 IP 地址段
 - [linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
@@ -724,7 +725,7 @@
 - [trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
 - [charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [xo](https://github.com/xo/xo) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
-- [micro](https://github.com/micro/micro) - Micro is a platform to build, run and manage microservices
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
 - [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for microservices development
 - [monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
@@ -854,7 +855,7 @@
 - [protobuf](https://github.com/gogo/protobuf) - Protocol Buffers for Go with Gadgets
 - [cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
-- [kratos](https://github.com/go-kratos/kratos) - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+- [kratos](https://github.com/go-kratos/kratos) - Kratos是一套轻量级的Go微服务框架，包含大量微服务相关框架及工具。
 - [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [yaml](https://github.com/ghodss/yaml) - A better way to marshal and unmarshal YAML in Golang
 - [go-toml](https://github.com/pelletier/go-toml) - Go library for the TOML language
@@ -935,7 +936,7 @@
 - [go](https://github.com/golang/go) - The Go programming language
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
-- [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
+- [beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
@@ -2428,7 +2429,7 @@
 - [wire](https://github.com/wireapp/wire) - :wavy_dash: Overview of the open source code for Wire
 - [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of plugins, prompts, and resources for Fish. 🐚
+- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of plugins, prompts, and resources for Fish. 🤘
 - [awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
 - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -2939,7 +2940,6 @@
 - [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
 - [ss.conf-for-surge](https://github.com/R0uter/ss.conf-for-surge) - Generate ss.conf for Surge
-- [Inconsolata](https://github.com/googlefonts/Inconsolata) - Development repo of Inconsolata Fonts by Raph Levien
 - [FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN) - 中文 iOS/Mac 开发博客列表
 - [musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
@@ -3137,6 +3137,7 @@
 - [book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [alfred-pinboard-rs](https://github.com/spamwax/alfred-pinboard-rs) - Alfred Workflow for Pinboard (Rust)
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [Inconsolata](https://github.com/googlefonts/Inconsolata) - Development repo of Inconsolata Fonts by Raph Levien
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
@@ -3185,6 +3186,7 @@
 
 ## Shell 
 
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [oh-my-wechat](https://github.com/lmk123/oh-my-wechat) - 微信小助手的安装 / 更新工具。
 - [zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [zsh-proxy](https://github.com/SukkaW/zsh-proxy) - :nut_and_bolt: An oh-my-zsh plugin to configure proxy
@@ -3549,7 +3551,7 @@
 - [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [common-voice](https://github.com/mozilla/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [switch-desktop](https://github.com/ahkohd/switch-desktop) - Switch between your favourite apps lightning fast.
-- [html-style-guide](https://github.com/marcobiedermann/html-style-guide) - A style guide which helps you write better, performant, structured, scalable and maintainable HTML.
+- [html-style-guide](https://github.com/marcobiedermann/html-style-guide) - 😎 A style guide that helps you write better, performant, structured, scalable, and maintainable HTML.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient
 - [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
