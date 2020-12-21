@@ -326,7 +326,7 @@
 
 ## C++ 
 
-- [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
+- [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [DOOM-3](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release
 - [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
 - [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
@@ -728,7 +728,7 @@
 - [charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [xo](https://github.com/xo/xo) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
 - [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
-- [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for microservices development
+- [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 - [monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
@@ -1202,6 +1202,7 @@
 
 ## Haskell 
 
+- [stack](https://github.com/commercialhaskell/stack) - The Haskell Tool Stack
 - [penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
 - [wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
 - [gitit](https://github.com/jgm/gitit) - A wiki using HAppS, pandoc, and git
@@ -1223,6 +1224,8 @@
 
 ## Java 
 
+- [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
+- [ribbon](https://github.com/Netflix/ribbon) - Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support.
 - [zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 - [hackerskeyboard](https://github.com/klausw/hackerskeyboard) - Hacker's Keyboard (official)
 - [geektime-mongodb-course](https://github.com/tapdata/geektime-mongodb-course) - 
@@ -3234,7 +3237,7 @@
 - [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
 - [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
-- [fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish—the friendly interactive shell.
+- [fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
 - [FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot
 - [OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
