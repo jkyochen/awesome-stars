@@ -117,6 +117,7 @@
 
 ## C 
 
+- [njs](https://github.com/nginx/njs) - An official read-only mirror of http://hg.nginx.org/njs/ which is updated hourly.
 - [ACVM](https://github.com/KhaosT/ACVM) - 
 - [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
@@ -2435,7 +2436,7 @@
 - [wire](https://github.com/wireapp/wire) - :wavy_dash: Overview of the open source code for Wire
 - [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins, and more for Fish. 🤘
+- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins, and other resources for Fish. 🤘
 - [awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
 - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -3656,6 +3657,7 @@
 
 ## Vim script 
 
+- [nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
 - [til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [vim](https://github.com/dracula/vim) - 🧛🏻‍♂️ Dark theme for Vim
 - [gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
