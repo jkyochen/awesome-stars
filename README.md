@@ -154,7 +154,7 @@
 - [chinadns-ng](https://github.com/zfl9/chinadns-ng) - chinadns next generation, refactoring with epoll and ipset
 - [vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vi[m]-like environment for managing objects within file systems, extended with some useful ideas from mutt.
 - [json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
-- [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, MQTT, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
+- [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [emgo](https://github.com/ziutek/emgo) - Emgo: Bare metal Go (language for programming embedded systems)
 - [projectsandcastle](https://github.com/corellium/projectsandcastle) - Supporting tools for Android/Linux on the iPhone
 - [slurm](https://github.com/mattthias/slurm) - yet another network load monitor
@@ -315,7 +315,7 @@
 - [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - If you want to keep a secret, you must also hide it from yourself.
 - [server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [v2ray-panel-master](https://github.com/v2ray/v2ray-panel-master) - Deprecated
-- [SteamCleaner](https://github.com/AndrewMD5/SteamCleaner) - :us: A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon :us:
+- [SteamCleaner](https://github.com/Codeusa/SteamCleaner) - :us: A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon :us:
 - [ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [SSRR-Windows](https://github.com/Anankke/SSRR-Windows) - 希望你知道这意味着什么。
 - [TumblThree](https://github.com/johanneszab/TumblThree) - A Tumblr Blog Backup Application
@@ -440,7 +440,6 @@
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 - [AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
-- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [fluent](https://github.com/hydro-project/fluent) - A data-driven compute platform
 - [eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [fizz](https://github.com/facebookincubator/fizz) - C++14 implementation of the TLS-1.3 standard
@@ -1317,6 +1316,7 @@
 - [DataFixerUpper](https://github.com/Mojang/DataFixerUpper) - A set of utilities designed for incremental building, merging and optimization of data transformations.
 - [island](https://github.com/oasisfeng/island) - Island for Android
 - [dddsample-core](https://github.com/citerus/dddsample-core) - This is the new home of the original DDD Sample app (previously hosted at sf.net)..
+- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。
 - [firebase-android-sdk](https://github.com/firebase/firebase-android-sdk) - Firebase Android SDK
 - [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
@@ -3541,7 +3541,7 @@
 - [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 - [chapter](https://github.com/freeCodeCamp/chapter) - A self-hosted event management tool for nonprofits
 - [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [stimulus](https://github.com/stimulusjs/stimulus) - A modest JavaScript framework for the HTML you already have
+- [stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
 - [turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
