@@ -1098,7 +1098,7 @@
 - [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [ClashA](https://github.com/ccg2018/ClashA) - A Android GUI for Clash
-- [chiron-sans-hk](https://github.com/tamcy/chiron-sans-hk) - 昭源黑體
+- [chiron-sans-hk](https://github.com/chiron-fonts/chiron-sans-hk) - 昭源黑體
 - [speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [Hospital](https://github.com/open-power-workgroup/Hospital) - OpenPower工作组收集汇总的医院开放数据
@@ -1404,6 +1404,7 @@
 
 ## JavaScript 
 
+- [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron
 - [electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 - [sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
@@ -2246,6 +2247,7 @@
 
 ## Others 
 
+- [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [feeds](https://github.com/Kapeli/feeds) - Collection of Dash docset feeds
@@ -3473,6 +3475,7 @@
 
 ## TypeScript 
 
+- [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [clarity](https://github.com/vmware/clarity) - UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences
 - [kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
