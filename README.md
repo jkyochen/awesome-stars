@@ -327,6 +327,7 @@
 
 ## C++ 
 
+- [dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [DOOM-3](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release
 - [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
@@ -2440,7 +2441,7 @@
 - [wire](https://github.com/wireapp/wire) - :wavy_dash: Overview of the open source code for Wire
 - [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins, and resources for Fish. 🐚
+- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins, & resources for Fish. 🐚
 - [awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
 - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -2452,7 +2453,7 @@
 - [docker-compose-mtproxy](https://github.com/iShift/docker-compose-mtproxy) - docker-compose file for telegram mtproto proxy autoupdate
 - [css](https://github.com/airbnb/css) - A mostly reasonable approach to CSS and Sass.
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-- [yu-writer.site](https://github.com/ivarptr/yu-writer.site) - 
+- [yu-writer.site](https://github.com/hemashushu/yu-writer.site) - 
 - [opensource](https://github.com/programthink/opensource) - 【编程随想】收藏的开源项目清单
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [keyboard-maestro-gallery](https://github.com/BlackwinMin/keyboard-maestro-gallery) - Original macOS Keyboard Maestro actions by Minja.
@@ -2734,6 +2735,10 @@
 
 ## Python 
 
+- [pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
+- [virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
+- [ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
+- [word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [instagram-scraper](https://github.com/arc298/instagram-scraper) - Scrapes an instagram user's photos and videos
 - [awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui) - Awesome React Native UI components updated weekly
 - [gitlint](https://github.com/jorisroovers/gitlint) - Linting for your git commit messages
