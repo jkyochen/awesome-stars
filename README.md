@@ -545,7 +545,6 @@
 - [hexo-theme-material](https://github.com/viosey/hexo-theme-material) - Material Design theme for hexo.
 - [DataTables](https://github.com/DataTables/DataTables) - Tables plug-in for jQuery
 - [CaoMei](https://github.com/xiangsudian/CaoMei) - 🍓CaoMei Icon - Designed for developers and creatros http://chuangzaoshi.com/icon/
-- [maupassant-hexo](https://github.com/tufu9441/maupassant-hexo) - A simple Hexo theme forked from icylogic.
 - [hexo-theme-typing](https://github.com/geekplux/hexo-theme-typing) - a pure and fresh Hexo theme. 🎹
 - [sponsor-page](https://github.com/Kaiyuan/sponsor-page) - 
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
@@ -1184,6 +1183,7 @@
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
+- [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [blog](https://github.com/huangz1990/blog) - 我的个人博客。
 - [rubygems-mirror](https://github.com/ruby-china/rubygems-mirror) - https://gems.ruby-china.com
 - [gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
@@ -1542,7 +1542,7 @@
 - [generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators
 - [plugins](https://github.com/serverless/plugins) - Serverless Plugins – Extend the Serverless Framework with these community driven plugins –
-- [formidable](https://github.com/node-formidable/formidable) - A node.js module for parsing form data, especially file uploads.
+- [formidable](https://github.com/node-formidable/formidable) - The most used, flexible, fast and streaming parser for multipart form data. Supports uploading to serverless environments, AWS S3, Azure, GCP or the filesystem. Used in production.
 - [crxviewer](https://github.com/Rob--W/crxviewer) - Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
 - [browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [node-iconv](https://github.com/bnoordhuis/node-iconv) - node.js iconv bindings - text recoding for fun and profit!
@@ -3112,7 +3112,7 @@
 
 ## Rust 
 
-- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
+- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [deltachat-core-rust](https://github.com/deltachat/deltachat-core-rust) - Delta Chat Rust Core library, used by Android/iOS/desktop apps and bindings
 - [polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation
 - [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
@@ -3171,6 +3171,7 @@
 - [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [harttle.github.io](https://github.com/harttle/harttle.github.io) - Harttle Land 的源码和文章
 - [documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
+- [maupassant-hexo](https://github.com/tufu9441/maupassant-hexo) - A simple Hexo theme forked from icylogic.
 - [zchen9.github.io](https://github.com/zchen9/zchen9.github.io) - Yeah It's nice shot ：）
 
 ## Sass 
@@ -3643,7 +3644,6 @@
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [incubator-echarts](https://github.com/apache/incubator-echarts) - Apache ECharts (incubating) is a powerful, interactive charting and data visualization library for browser
 - [growth-ionic](https://github.com/phodal/growth-ionic) - [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
