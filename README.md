@@ -1292,7 +1292,6 @@
 - [disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library
 - [config](https://github.com/lightbend/config) - configuration library for JVM languages using HOCON files
 - [gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
-- [expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 - [project-examples](https://github.com/jfrog/project-examples) - Small projects in universal build ecosystems to configure CI and Artifactory
 - [AndroidSourceViewer](https://github.com/pengwei1024/AndroidSourceViewer) - Android Source Viewer Plugin for Android Studio
@@ -1651,7 +1650,7 @@
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。  https://taro.zone/
 - [geektime-electron](https://github.com/dengyaolong/geektime-electron) - 极客时间视频课程《Electron开发实战》
-- [Awesome-Unicode](https://github.com/Wisdom/Awesome-Unicode) - :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.
+- [Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode) - :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.
 - [Fuck-Youtube](https://github.com/AlessandroFC15/Fuck-Youtube) - :video_camera: A browser extension that allows the user to watch YouTube videos that are blocked.
 - [inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
 - [react-native-web](https://github.com/necolas/react-native-web) - React Native for Web
@@ -2199,6 +2198,7 @@
 - [phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com
+- [expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [HapticKey](https://github.com/niw/HapticKey) - A simple utility application to trigger haptic feedback when tapping Touch Bar.
 - [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [nv](https://github.com/ttscoff/nv) - MultiMarkdown version of Notational Velocity with Markdown editing features and preview
@@ -3147,7 +3147,7 @@
 - [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. (Rust)
 - [parity-ethereum](https://github.com/openethereum/parity-ethereum) - The fast, light, and robust client for Ethereum-like networks.
 - [Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
-- [rssbot](https://github.com/iovxw/rssbot) - A lightweight Telegram RSS bot for notifications only. 用于消息通知的轻量级 Telegram RSS 机器人
+- [rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS bot for notifications only. 用于消息通知的轻量级 Telegram RSS 机器人
 - [tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [rust-url](https://github.com/servo/rust-url) - URL parser for Rust
@@ -3706,7 +3706,7 @@
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k+ developers. https://hoppscotch.io
 - [webgems](https://github.com/webgems/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [tld.party](https://github.com/SaraVieira/tld.party) - Damn, that's a lot of TLD
 - [ebbx](https://github.com/ebb-io/ebbx) - A Vue.js project that powers a certain magical website
