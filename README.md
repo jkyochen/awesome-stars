@@ -213,7 +213,7 @@
 - [tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [streem](https://github.com/matz/streem) - prototype of stream based programming language
-- [freebsd](https://github.com/freebsd/freebsd) - FreeBSD src tree (read-only mirror)
+- [freebsd-src](https://github.com/freebsd/freebsd-src) - FreeBSD src tree (read-only mirror)
 - [glibc](https://github.com/bminor/glibc) - Unofficial mirror of sourceware glibc repository. Updated daily.
 - [go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -2115,7 +2115,7 @@
 - [nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [http_study](https://github.com/chronolaw/http_study) - follow me to study http
 - [awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
-- [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits  (带学习功能的快速路径切换工具)
+- [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [typedlua](https://github.com/andremm/typedlua) - An Optional Type System for Lua
