@@ -2739,6 +2739,7 @@
 
 ## Python 
 
+- [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
 - [virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
 - [ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
@@ -3509,7 +3510,7 @@
 - [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm) - Monorepo for the Ethereum VM TypeScript Implementation
 - [telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
-- [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3
+- [vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI
 - [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
@@ -3530,7 +3531,7 @@
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
 - [got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
-- [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast.
+- [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
 - [routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
 - [awesome-nest-boilerplate](https://github.com/NarHakobyan/awesome-nest-boilerplate) - Awesome NestJS Boilerplate 😍, Typescript 💪, Postgres 🎉, TypeORM 🥳
@@ -3562,7 +3563,7 @@
 - [feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
 - [helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
-- [wechaty](https://github.com/wechaty/wechaty) - Conversational SDK for Chatbot Makers
+- [wechaty](https://github.com/wechaty/wechaty) - RPA SDK for Chatbot Makers
 - [postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 - [expo-cli](https://github.com/expo/expo-cli) - Tools for creating, running, and deploying universal Expo and React Native apps
