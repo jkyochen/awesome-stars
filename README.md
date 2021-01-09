@@ -840,7 +840,7 @@
 - [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。
 - [kcptun](https://github.com/shadowsocks/kcptun) - an extremely simple & fast udp tunnel based on kcp protocol
-- [overture](https://github.com/shawn1m/overture) - A customized DNS forwarder written in Go
+- [overture](https://github.com/shawn1m/overture) - A customized DNS relay server written in Go.
 - [overture](https://github.com/shadowsocks/overture) - A DNS server/dispatcher written in Go.
 - [book-src](https://github.com/advanced-go-book-src/book-src) - 《Go 语言高级编程》随书源码
 - [nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
@@ -858,7 +858,7 @@
 - [protobuf](https://github.com/gogo/protobuf) - Protocol Buffers for Go with Gadgets
 - [cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
-- [kratos](https://github.com/go-kratos/kratos) - Kratos是一套轻量级的Go微服务框架，包含大量微服务相关框架及工具。
+- [kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
 - [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [yaml](https://github.com/ghodss/yaml) - A better way to marshal and unmarshal YAML in Golang
 - [go-toml](https://github.com/pelletier/go-toml) - Go library for the TOML language
@@ -886,7 +886,7 @@
 - [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
 - [awgo](https://github.com/deanishe/awgo) - Go library for Alfred 3 + 4 workflows
-- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [alfred-sublime-text](https://github.com/deanishe/alfred-sublime-text) - Filter and open your Sublime Text (2 and 3) project files from Alfred.
 - [concurrency-in-go-src](https://github.com/kat-co/concurrency-in-go-src) - Full sourcecode for the book, "Concurrency in Go" published by O'Reilly.
