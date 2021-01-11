@@ -118,6 +118,7 @@
 
 ## C 
 
+- [apue.3e](https://github.com/brandongooch/apue.3e) - Advanced Programming in the UNIX Environment - Third Edition
 - [unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [njs](https://github.com/nginx/njs) - An official read-only mirror of http://hg.nginx.org/njs/ which is updated hourly.
 - [ACVM](https://github.com/KhaosT/ACVM) - 
@@ -230,7 +231,7 @@
 - [tcpdump](https://github.com/the-tcpdump-group/tcpdump) - the TCPdump network dissector
 - [stress-ng](https://github.com/ColinIanKing/stress-ng) - This is a mirror of the upstream project at https://kernel.ubuntu.com/git/cking/stress-ng.git/   -   stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces.
 - [sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux
-- [kcp](https://github.com/skywind3000/kcp) - KCP - A Fast and Reliable ARQ Protocol (快速可靠传输协议)
+- [kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
 - [misc](https://github.com/wuzhouhui/misc) - 学习与工作中收集的一些资料
 - [sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [ServerStatus](https://github.com/91yun/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示：
@@ -1409,6 +1410,7 @@
 
 ## JavaScript 
 
+- [noscript](https://github.com/hackademix/noscript) - The popular NoScript Security Suite browser extension.
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron
 - [electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 - [sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
@@ -1650,7 +1652,7 @@
 - [remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://github.com/breakdance/breakdance for HTML-to-markdown conversion. Use https://github.com/jonschlinkert/markdown-toc to generate a table of contents.
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
-- [wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Docs at https://github.com/wekan/wekan-doc/wiki . Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
+- [wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [geektime-electron](https://github.com/dengyaolong/geektime-electron) - 极客时间视频课程《Electron开发实战》
@@ -3585,7 +3587,7 @@
 - [surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult... like a PRO.
 - [Markdown](https://github.com/JP1016/Markdown) - 📖Clean & Modern MarkDown Generator, 🔌Offline Support and Easy Generation of Markdown ⚡️⚛️ https://github.com/JP1016/Markdown-Electron/releases
 - [vscode-go](https://github.com/microsoft/vscode-go) - An extension for VS Code which provides support for the Go language. We have moved to https://github.com/golang/vscode-go
-- [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry
+- [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private proxy registry build in Node.js
 - [music-web-player](https://github.com/naveedgol/music-web-player) - Web player for Apple Music
 - [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
