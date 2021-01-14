@@ -125,6 +125,7 @@
 - [ACVM](https://github.com/KhaosT/ACVM) - 
 - [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [WebBench](https://github.com/EZLippi/WebBench) - Webbench是Radim Kolar在1997年写的一个在linux下使用的非常简单的网站压测工具。它使用fork()模拟多个客户端同时访问我们设定的URL，测试网站在压力下工作的性能，最多可以模拟3万个并发连接去测试网站的负载能力。官网地址:http://home.tiscali.cz/~cz210552/webbench.html
 - [i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
 - [apr](https://github.com/apache/apr) - Mirror of Apache Portable Runtime
@@ -330,6 +331,7 @@
 
 ## C++ 
 
+- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
 - [dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
@@ -768,7 +770,7 @@
 - [negroni](https://github.com/urfave/negroni) - Idiomatic HTTP Middleware for Golang
 - [go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) - Go HTTP request router and web framework benchmark
 - [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
-- [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint.
+- [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [atomic](https://github.com/uber-go/atomic) - Wrapper types for sync/atomic which enforce atomic access
@@ -1227,6 +1229,7 @@
 
 ## Java 
 
+- [nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 - [rocketmq](https://github.com/apache/rocketmq) - Mirror of Apache RocketMQ
 - [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
@@ -1414,7 +1417,6 @@
 - [electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 - [sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
 - [cerebro](https://github.com/lmenezes/cerebro) - 
@@ -3450,7 +3452,7 @@
 - [clashX](https://github.com/yichengchen/clashX) - 
 - [WWDC](https://github.com/insidegui/WWDC) - The unofficial WWDC app for macOS
 - [Specht](https://github.com/zhuhaow/Specht) - A rule-based proxy app built with Network Extension for macOS
-- [wallpapper](https://github.com/mczachurski/wallpapper) - Console application for creating dynamic wallpapers for macOS Mojave
+- [wallpapper](https://github.com/mczachurski/wallpapper) - Console application for creating dynamic wallpapers for macOS Mojave and newer
 - [vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift web framework.
 - [FloatPlayer](https://github.com/codeclown/FloatPlayer) - FloatPlayer is a simple Mac app that plays a floating YouTube-video on your screen.
 - [lottie-ios](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
@@ -3615,7 +3617,6 @@
 - [polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
 - [pyright](https://github.com/microsoft/pyright) - Static type checker for Python
-- [veonim](https://github.com/veonim/veonim) - 
 - [devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
