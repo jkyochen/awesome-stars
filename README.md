@@ -312,7 +312,6 @@
 - [Netch](https://github.com/NetchX/Netch) - Game network accelerator. Support Socks5, Shadowsocks, ShadowsocksR, Trojan, VMess, VLess proxies. UDP NAT FullCone
 - [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - Ship of Theseus
 - [SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [commandlinefu.cn](https://github.com/tg123/commandlinefu.cn) - 中文版commandlinefu
 - [pmcenter](https://github.com/Elepover/pmcenter) - A Telegram bot helping you process private messages.
 - [shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) - 
@@ -414,6 +413,7 @@
 - [SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
 - [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained.
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
 - [cerl](https://github.com/qiniu/cerl) - CERL2.0 - Erlang Model for C++
