@@ -1631,7 +1631,7 @@
 - [live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [railroad-diagrams](https://github.com/tabatkins/railroad-diagrams) - :steam_locomotive: A small JS+SVG library for drawing railroad syntax diagrams, like on JSON.org. Now with a Python port!
-- [Lepton](https://github.com/hackjutsu/Lepton) - 💻    Democratizing Snippet Management (macOS/Win/Linux)
+- [Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [JSpider](https://github.com/EnjoyScraping/JSpider) - JSpider会每周更新至少一个网站的JS解密方式，欢迎 Star，交流微信：13298307816
 - [nativejson-benchmark](https://github.com/miloyip/nativejson-benchmark) - C/C++ JSON parser/generator benchmark
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -1660,10 +1660,9 @@
 - [Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode) - :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.
 - [Fuck-Youtube](https://github.com/AlessandroFC15/Fuck-Youtube) - :video_camera: A browser extension that allows the user to watch YouTube videos that are blocked.
 - [inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
-- [react-native-web](https://github.com/necolas/react-native-web) - React Native for Web
+- [react-native-web](https://github.com/necolas/react-native-web) - React Native Components and APIs for the Web
 - [unlock-music](https://github.com/ix64/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 - [next-plugins](https://github.com/vercel/next-plugins) - Official Next.js plugins
-- [confs.tech](https://github.com/tech-conferences/confs.tech) - List of tech conferences: JavaScript / Design - CSS - UX / Ruby - iOS - Android - PHP - Data - Devops
 - [WanaKana](https://github.com/WaniKani/WanaKana) - Javascript library for detecting and transliterating Hiragana &lt;--&gt; Katakana &lt;--&gt; Romaji
 - [foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
@@ -1805,7 +1804,6 @@
 - [ethstats-client](https://github.com/goerli/ethstats-client) - Ethereum Network Intelligence API a.k.a. "ethstats"
 - [ethstats-server](https://github.com/goerli/ethstats-server) - Ethereum network status dashboard for PoW and PoA networks
 - [gitter-cli](https://github.com/RodrigoEspinosa/gitter-cli) - An extremely simple Gitter client for your terminal
-- [api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 - [async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [juxtapose](https://github.com/NUKnightLab/juxtapose) - JuxtaposeJS is a JavaScript library for making before/after image sliders
 - [prettyjson](https://github.com/rafeca/prettyjson) - Package for formatting JSON data in a coloured YAML-style, perfect for CLI output
@@ -2394,7 +2392,7 @@
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [awesome-gin](https://github.com/FlowerWrong/awesome-gin) - awesome for gin framework
 - [repository](https://github.com/packal/repository) - A general collection repository for Alfred2 Workflows and Themes
-- [Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy) - 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗 (长期更新)
+- [Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy) - 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗
 - [awesome-github](https://github.com/fffaraz/awesome-github) - A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 - [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
@@ -3452,7 +3450,7 @@
 - [clashX](https://github.com/yichengchen/clashX) - 
 - [WWDC](https://github.com/insidegui/WWDC) - The unofficial WWDC app for macOS
 - [Specht](https://github.com/zhuhaow/Specht) - A rule-based proxy app built with Network Extension for macOS
-- [wallpapper](https://github.com/mczachurski/wallpapper) - Console application for creating dynamic wallpapers for macOS Mojave and newer
+- [wallpapper](https://github.com/mczachurski/wallpapper) - :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
 - [vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift web framework.
 - [FloatPlayer](https://github.com/codeclown/FloatPlayer) - FloatPlayer is a simple Mac app that plays a floating YouTube-video on your screen.
 - [lottie-ios](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
@@ -3589,6 +3587,7 @@
 - [EhSyringe](https://github.com/EhTagTranslation/EhSyringe) - E 站注射器，将中文翻译注入到 E 站体内
 - [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
+- [confs.tech](https://github.com/tech-conferences/confs.tech) - List of tech conferences: JavaScript / Design - CSS - UX / Ruby - iOS - Android - PHP - Data - Devops
 - [rough-charts](https://github.com/beizhedenglong/rough-charts) - 📈 A responsive, composable react charting library with a hand-drawn style.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult... like a PRO.
@@ -3633,6 +3632,7 @@
 - [typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [tgdr](https://github.com/thedevs-network/tgdr) - Telegram directory to discover channels, bots and groups.
 - [Musish](https://github.com/Musish/Musish) - Apple Music...ish
+- [api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 - [react-use-gesture](https://github.com/pmndrs/react-use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React
 - [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs) - Free and open source streaming software built on OBS and Electron.
 - [gitgraph.js](https://github.com/nicoespeon/gitgraph.js) - 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser
