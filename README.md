@@ -2182,7 +2182,6 @@
 - [chrome-cli](https://github.com/prasmussen/chrome-cli) - Control Google Chrome from the command line
 - [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
 - [nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
-- [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [trash](https://github.com/ali-rantakari/trash) - Small command-line program for OS X that moves files or folders to the trash.
 - [Netiquette](https://github.com/objective-see/Netiquette) - Network Monitor
 - [DoNotDisturb](https://github.com/objective-see/DoNotDisturb) - Detect Evil Maid Attacks
@@ -3389,6 +3388,7 @@
 - [ShadowsocksX-NG-R8](https://github.com/paradiseduo/ShadowsocksX-NG-R8) - ShadowsocksX-NG-R for MacOS, ShadowsocksR
 - [glance](https://github.com/samuelmeuli/glance) - 🔎 All-in-one Quick Look plugin
 - [playbook-ios](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically taking snapshots of them.
+- [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - TinyPNG client for Mac
 - [apollo-ios](https://github.com/apollographql/apollo-ios) - 📱 A strongly-typed, caching GraphQL client for iOS, written in Swift
 - [hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
