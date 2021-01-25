@@ -1411,6 +1411,9 @@
 
 ## JavaScript 
 
+- [screeps](https://github.com/screeps/screeps) - A standalone server for programming game Screeps
+- [p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
+- [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [uni-app](https://github.com/dcloudio/uni-app) - uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架
 - [noscript](https://github.com/hackademix/noscript) - The popular NoScript Security Suite browser extension.
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron
