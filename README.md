@@ -217,6 +217,7 @@
 - [Undecimus](https://github.com/pwn20wndstuff/Undecimus) - unc0ver jailbreak for iOS 11.0 - 12.4
 - [tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [Telegram-iOS](https://github.com/nicegram/Telegram-iOS) - Telegram-iOS
 - [streem](https://github.com/matz/streem) - prototype of stream based programming language
 - [freebsd-src](https://github.com/freebsd/freebsd-src) - FreeBSD src tree (read-only mirror)
 - [glibc](https://github.com/bminor/glibc) - Unofficial mirror of sourceware glibc repository. Updated daily.
@@ -267,6 +268,7 @@
 - [mintty](https://github.com/mintty/mintty) - The Cygwin Terminal – terminal emulator for Cygwin, MSYS, and WSL
 - [sqlite](https://github.com/mackyle/sqlite) - Unofficial git mirror of SQLite sources (see link for build instructions)
 - [minivmac4ios](https://github.com/zydeco/minivmac4ios) - Mini vMac for iOS
+- [Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
@@ -3415,7 +3417,6 @@
 - [ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS [and Apple Platforms].
 - [passepartout-apple](https://github.com/passepartoutvpn/passepartout-apple) - User-friendly OpenVPN client app for iOS and macOS.
 - [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar
-- [Telegram-iOS](https://github.com/nicegram/Telegram-iOS) - Telegram-iOS
 - [Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
@@ -3448,7 +3449,6 @@
 - [Menu](https://github.com/TwoLivesLeft/Menu) - The iOS Menu
 - [Swift-Daily-Tips](https://github.com/emreozdil/Swift-Daily-Tips) - :octocat: Daily Tips from Swift World
 - [Shifty](https://github.com/thompsonate/Shifty) - ☀️ A macOS menu bar app that gives you more control over Night Shift.
-- [Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
 - [firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
 - [Mos](https://github.com/Caldis/Mos) - 一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on MacOS
