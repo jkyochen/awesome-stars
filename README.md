@@ -1047,7 +1047,7 @@
 - [chrome-bookmarks-alfred-workflow](https://github.com/mdreizin/chrome-bookmarks-alfred-workflow) - Chrome/Canary/Chromium/Microsoft Edge bookmarks search workflow for Alfred
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [elvish](https://github.com/elves/elvish) - Friendly Interactive Shell and Expressive Programming Language
+- [elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 
 ## Groovy 
@@ -1413,6 +1413,8 @@
 
 ## JavaScript 
 
+- [icestudio](https://github.com/FPGAwars/icestudio) - :snowflake: Visual editor for open FPGA boards
+- [commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [plop](https://github.com/plopjs/plop) - Consistency Made Simple
 - [Mock](https://github.com/nuysoft/Mock) - A simulation data generator
 - [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
@@ -2775,7 +2777,7 @@
 - [simiki](https://github.com/tankywoo/simiki) - Simiki is a simple wiki framework, written in Python.
 - [lektor](https://github.com/lektor/lektor) - The lektor static file content management system
 - [jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
-- [d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with code, math, and discussions. Available in multi-frameworks. Adopted at 175 universities.
+- [d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 175 universities.
 - [restful-api-design](https://github.com/geertj/restful-api-design) - 
 - [asciidoc](https://github.com/asciidoc/asciidoc) - AsciiDoc is a text document format for writing notes, documentation, articles, books, slideshows, man pages & blogs. AsciiDoc can be translated to many formats including HTML, DocBook, PDF, EPUB, and man pages. NOTE: This implementation is written in Python 2, which EOLs in Jan 2020. AsciiDoc development is being continued under @asciidoctor.
 - [seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib
@@ -2913,7 +2915,7 @@
 - [SublimeHaskell](https://github.com/SublimeHaskell/SublimeHaskell) - A Sublime Text 3 plugin for Haskell. Features cabal building, error and warning highlighting, smart completion and ghc-mod integration.
 - [BossSensor](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
 - [instagram-terminal-news-feed](https://github.com/instagrambot/instagram-terminal-news-feed) - Instagram in terminal :alien::alien::fire::fire:
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [awesome-blogCN-feeds](https://github.com/RSS-Renaissance/awesome-blogCN-feeds) - 优质的「独立中文博客」订阅列表
 - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - The code linting framework for Sublime Text 3
 - [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - 💡 Full-featured code intelligence and smart autocomplete for Sublime Text
@@ -3603,7 +3605,7 @@
 - [music-web-player](https://github.com/naveedgol/music-web-player) - Web player for Apple Music
 - [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
-- [common-voice](https://github.com/mozilla/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
+- [common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [switch-desktop](https://github.com/ahkohd/switch-desktop) - Keyboard-driven commands to navigate your apps faster.
 - [html-style-guide](https://github.com/marcobiedermann/html-style-guide) - 😎 A style guide that helps you write better, performant, structured, scalable, and maintainable HTML.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
