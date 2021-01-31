@@ -335,6 +335,7 @@
 
 ## C++ 
 
+- [gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
 - [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
 - [dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
@@ -1538,7 +1539,6 @@
 - [protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps
 - [password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
 - [karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
-- [ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
 - [protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
@@ -3140,6 +3140,7 @@
 
 ## Rust 
 
+- [spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [nushell](https://github.com/nushell/nushell) - A new type of shell
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [deltachat-core-rust](https://github.com/deltachat/deltachat-core-rust) - Delta Chat Rust Core library, used by Android/iOS/desktop apps and bindings
@@ -3246,7 +3247,7 @@
 - [zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [zsh-proxy](https://github.com/SukkaW/zsh-proxy) - :nut_and_bolt: An oh-my-zsh plugin to configure proxy
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-- [tmpmail](https://github.com/sdushantha/tmpmail) - 📬 A temporary email right from your terminal written in POSIX sh
+- [tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
 - [sdn-handbook](https://github.com/tonydeng/sdn-handbook) - SDN手册
 - [cyber-dojo](https://github.com/cyber-dojo/cyber-dojo) - home repo for the cyber-dojo organization
 - [alfred-network-workflow](https://github.com/mrodalgaard/alfred-network-workflow) - Show and change your network settings
@@ -3515,6 +3516,7 @@
 
 ## TypeScript 
 
+- [ioredis](https://github.com/luin/ioredis) - 🚀 A robust, performance-focused and full-featured Redis client for Node.js.
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [clarity](https://github.com/vmware/clarity) - UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences
@@ -3563,6 +3565,7 @@
 - [components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 - [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.
+- [ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [ts-import-plugin](https://github.com/Brooooooklyn/ts-import-plugin) - babel-import-plugin TypeScript Implement
 - [tslib](https://github.com/microsoft/tslib) - Runtime library for TypeScript helpers.
@@ -3668,7 +3671,7 @@
 - [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [Dart-Code](https://github.com/Dart-Code/Dart-Code) - Dart and Flutter support for VS Code
-- [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
+- [nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [OneLang](https://github.com/onelang/OneLang) - 
 - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
