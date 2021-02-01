@@ -182,7 +182,6 @@
 - [upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [fakechroot](https://github.com/dex4er/fakechroot) - gives a fake chroot environment
-- [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [zinit](https://github.com/zdharma/zinit) - Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
 - [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 - [proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
@@ -398,6 +397,7 @@
 - [mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
 - [fcitx5](https://github.com/fcitx/fcitx5) - maybe a new fcitx.
 - [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
+- [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [1earn](https://github.com/No-Github/1earn) - 个人维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup
 - [leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
@@ -1414,6 +1414,8 @@
 
 ## JavaScript 
 
+- [director](https://github.com/flatiron/director) - a tiny and isomorphic URL router for JavaScript
+- [vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 - [icestudio](https://github.com/FPGAwars/icestudio) - :snowflake: Visual editor for open FPGA boards
 - [commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [plop](https://github.com/plopjs/plop) - Consistency Made Simple
@@ -2101,6 +2103,7 @@
 
 ## Kotlin 
 
+- [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 - [paperphone](https://github.com/specialprojects-experiments/paperphone) - Paper phone experimental android app
 - [kitsunebi-android](https://github.com/eycorsican/kitsunebi-android) - A fully-featured V2Ray client for Android.
 - [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
