@@ -2759,6 +2759,7 @@
 
 ## Python 
 
+- [sh](https://github.com/amoffat/sh) - Python process launching
 - [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
 - [virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
@@ -3629,7 +3630,7 @@
 - [editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
-- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
