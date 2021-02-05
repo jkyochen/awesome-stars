@@ -3373,7 +3373,7 @@
 - [java-code-styles](https://github.com/square/java-code-styles) - IntelliJ IDEA code style settings for Square's Java and Android projects.
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow) - 搜索、打开MWeb 内部文档和外部 Markdown 文档
-- [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
+- [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2 on Ubuntu, Debian and CentOS
 - [scarletsky.github.io](https://github.com/scarletsky/scarletsky.github.io) - 
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
