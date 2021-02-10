@@ -689,7 +689,7 @@
 - [ultralist](https://github.com/ultralist/ultralist) - Simple task management for tech folks.
 - [opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go
 - [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/凹语言)
-- [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
+- [dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [http](https://github.com/qiniu/http) - Extension module of golang http service
 - [httptest](https://github.com/qiniu/httptest) - Qiniu httptest utilities
 - [pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
@@ -698,9 +698,9 @@
 - [gocoin](https://github.com/piotrnar/gocoin) - Full bitcoin solution written in Go (golang)
 - [awesome-blockchain](https://github.com/yjjnls/awesome-blockchain) - ⚡️Curated list of resources for the development and applications of blockchain.
 - [termui](https://github.com/gizak/termui) - Golang terminal dashboard
-- [ent](https://github.com/facebook/ent) - An entity framework for Go
+- [ent](https://github.com/ent/ent) - An entity framework for Go
 - [nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
-- [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
+- [argo-workflows](https://github.com/argoproj/argo-workflows) - Argo Workflows: Get stuff done with Kubernetes.
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [editorconfig-core-go](https://github.com/editorconfig/editorconfig-core-go) - EditorConfig Core written in Go
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -2235,6 +2235,7 @@
 - [shuttle](https://github.com/fitztrev/shuttle) - A simple shortcut menu for macOS
 - [squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
 - [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - MBProgressHUD + Customizations
+- [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [EggShell](https://github.com/neoneggplant/EggShell) - iOS/macOS/Linux Remote Administration Tool
 - [fakeThunder](https://github.com/MartianZ/fakeThunder) - fakeThunder is an unofficial Thunder(aka Xunlei) client for OS X.
 - [Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
@@ -3455,7 +3456,6 @@
 - [simplenote-macos](https://github.com/Automattic/simplenote-macos) - Simplenote for macOS
 - [liquid-swipe](https://github.com/Cuberto/liquid-swipe) - 
 - [Menu](https://github.com/TwoLivesLeft/Menu) - The iOS Menu
-- [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [Swift-Daily-Tips](https://github.com/emreozdil/Swift-Daily-Tips) - :octocat: Daily Tips from Swift World
 - [Shifty](https://github.com/thompsonate/Shifty) - ☀️ A macOS menu bar app that gives you more control over Night Shift.
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
