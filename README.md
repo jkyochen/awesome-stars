@@ -325,6 +325,7 @@
 - [SteamCleaner](https://github.com/Codeusa/SteamCleaner) - :us: A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon :us:
 - [ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [SSRR-Windows](https://github.com/Anankke/SSRR-Windows) - 希望你知道这意味着什么。
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [TumblThree](https://github.com/johanneszab/TumblThree) - A Tumblr Blog Backup Application
 - [VFSForGit](https://github.com/microsoft/VFSForGit) - Virtual File System for Git: Enable Git at Enterprise Scale
 - [dopamine-windows](https://github.com/digimezzo/dopamine-windows) - Audio player which tries to make organizing and listening to music as simple and pretty as possible.
@@ -453,7 +454,6 @@
 - [eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [fizz](https://github.com/facebookincubator/fizz) - C++14 implementation of the TLS-1.3 standard
 - [cld](https://github.com/jtoy/cld) - compact language detection in ruby
-- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [WikiSort](https://github.com/BonzaiThePenguin/WikiSort) - Fast and stable sort algorithm that uses O(1) memory. Public domain.
 - [peloton](https://github.com/cmu-db/peloton) - The Self-Driving Database Management System
@@ -3522,6 +3522,8 @@
 
 ## TypeScript 
 
+- [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+- [csslayout](https://github.com/phuoc-ng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
 - [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [ioredis](https://github.com/luin/ioredis) - 🚀 A robust, performance-focused and full-featured Redis client for Node.js.
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
@@ -3616,7 +3618,7 @@
 - [music-web-player](https://github.com/naveedgol/music-web-player) - Web player for Apple Music
 - [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
-- [common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
+- [common-voice](https://github.com/common-voice/common-voice) - [Please note: the Common Voice team is offline until March 15] Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [switch-desktop](https://github.com/ahkohd/switch-desktop) - Keyboard-driven commands to navigate your apps faster.
 - [html-style-guide](https://github.com/marcobiedermann/html-style-guide) - 😎 A style guide that helps you write better, performant, structured, scalable, and maintainable HTML.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
