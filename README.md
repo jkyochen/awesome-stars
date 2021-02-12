@@ -325,7 +325,6 @@
 - [SteamCleaner](https://github.com/Codeusa/SteamCleaner) - :us: A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon :us:
 - [ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [SSRR-Windows](https://github.com/Anankke/SSRR-Windows) - 希望你知道这意味着什么。
-- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [TumblThree](https://github.com/johanneszab/TumblThree) - A Tumblr Blog Backup Application
 - [VFSForGit](https://github.com/microsoft/VFSForGit) - Virtual File System for Git: Enable Git at Enterprise Scale
 - [dopamine-windows](https://github.com/digimezzo/dopamine-windows) - Audio player which tries to make organizing and listening to music as simple and pretty as possible.
@@ -385,7 +384,7 @@
 - [multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
-- [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Image, GIF and Video enlarger/upscaler(super-resolution) achieved with Waifu2x, SRMD, RealSR,  Anime4K and ACNet.
+- [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Image, GIF and Video enlarger(Super Resolution) and Video frame interpolation. Achieved with Waifu2x, SRMD, RealSR,  Anime4K, RIFE, CAIN and ACNet.
 - [deepin-boot-maker](https://github.com/linuxdeepin/deepin-boot-maker) - mirrored from https://cr.deepin.io/#/admin/projects/deepin-boot-maker
 - [Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
 - [mcrouter](https://github.com/facebook/mcrouter) - Mcrouter is a memcached protocol router for scaling memcached deployments.
@@ -454,6 +453,7 @@
 - [eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [fizz](https://github.com/facebookincubator/fizz) - C++14 implementation of the TLS-1.3 standard
 - [cld](https://github.com/jtoy/cld) - compact language detection in ruby
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [WikiSort](https://github.com/BonzaiThePenguin/WikiSort) - Fast and stable sort algorithm that uses O(1) memory. Public domain.
 - [peloton](https://github.com/cmu-db/peloton) - The Self-Driving Database Management System
@@ -761,7 +761,7 @@
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [falcon-plus](https://github.com/open-falcon/falcon-plus) - An open-source and enterprise-level monitoring system.
 - [goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
-- [geph2](https://github.com/geph-official/geph2) - Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.
+- [geph2](https://github.com/geph-official/geph2) - (ARCHIVED) Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.
 - [codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
 - [HFish](https://github.com/hacklcx/HFish) - 🍯 A Most Convenient Honeypot Platform.  🐝🐝🐝 🐝🐝
 - [clash](https://github.com/WhoJave/clash) - A rule-based tunnel in Go.
@@ -1674,7 +1674,6 @@
 - [react-native-web](https://github.com/necolas/react-native-web) - React Native Components and APIs for the Web
 - [unlock-music](https://github.com/ix64/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 - [next-plugins](https://github.com/vercel/next-plugins) - Official Next.js plugins
-- [confs.tech](https://github.com/tech-conferences/confs.tech) - List of tech conferences: JavaScript / Design - CSS - UX / Ruby - iOS - Android - PHP - Data - Devops
 - [WanaKana](https://github.com/WaniKani/WanaKana) - Javascript library for detecting and transliterating Hiragana &lt;--&gt; Katakana &lt;--&gt; Romaji
 - [foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
@@ -2783,7 +2782,7 @@
 - [jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
 - [d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 175 universities.
 - [restful-api-design](https://github.com/geertj/restful-api-design) - 
-- [asciidoc](https://github.com/asciidoc/asciidoc) - AsciiDoc is a text document format for writing notes, documentation, articles, books, slideshows, man pages & blogs. AsciiDoc can be translated to many formats including HTML, DocBook, PDF, EPUB, and man pages. NOTE: This implementation is written in Python 2, which EOLs in Jan 2020. AsciiDoc development is being continued under @asciidoctor.
+- [asciidoc-py2](https://github.com/asciidoc-py/asciidoc-py2) - Deprecated python2 implementation of AsciiDoc.py. See asciidoc-py/asciidoc-py for current work.
 - [seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib
 - [matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [OpenAttack](https://github.com/thunlp/OpenAttack) - An Open-Source Package for Textual Adversarial Attack.
@@ -3609,6 +3608,7 @@
 - [EhSyringe](https://github.com/EhTagTranslation/EhSyringe) - E 站注射器，将中文翻译注入到 E 站体内
 - [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
+- [confs.tech](https://github.com/tech-conferences/confs.tech) - List of tech conferences: JavaScript / Design - CSS - UX / Ruby - iOS - Android - PHP - Data - Devops
 - [rough-charts](https://github.com/beizhedenglong/rough-charts) - 📈 A responsive, composable react charting library with a hand-drawn style.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult... like a PRO.
