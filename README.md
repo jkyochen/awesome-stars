@@ -3434,7 +3434,7 @@
 - [TouchBarSpaceFight](https://github.com/insidegui/TouchBarSpaceFight) - A simple, fun game for the MacBook Pro's Touch Bar
 - [pac-bar](https://github.com/henryefranks/pac-bar) - Pac-Man for the MacBook Pro Touch Bar
 - [TouchBarDino](https://github.com/yuhuili/TouchBarDino) - Chrome dinosaur game on Touch Bar
-- [Pock](https://github.com/pigigaldi/Pock) - Display macOS Dock in Touch Bar
+- [pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS
 - [Motivation](https://github.com/soffes/Motivation) - Mac screen saver that terrifyingly shows your age
 - [seaglass](https://github.com/neilalexander/seaglass) - A truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support
@@ -3621,7 +3621,7 @@
 - [common-voice](https://github.com/common-voice/common-voice) - [Please note: the Common Voice team is offline until March 15: https://discourse.mozilla.org/t/update-on-common-voice-mozilla-foundation/74526/] Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [switch-desktop](https://github.com/ahkohd/switch-desktop) - Keyboard-driven commands to navigate your apps faster.
 - [html-style-guide](https://github.com/marcobiedermann/html-style-guide) - 😎 A style guide that helps you write better, performant, structured, scalable, and maintainable HTML.
-- [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
+- [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient
 - [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
@@ -3692,7 +3692,6 @@
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [growth-ionic](https://github.com/phodal/growth-ionic) - [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
-- [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
 - [deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 
