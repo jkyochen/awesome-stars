@@ -126,7 +126,6 @@
 - [ACVM](https://github.com/KhaosT/ACVM) - 
 - [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [WebBench](https://github.com/EZLippi/WebBench) - Webbench是Radim Kolar在1997年写的一个在linux下使用的非常简单的网站压测工具。它使用fork()模拟多个客户端同时访问我们设定的URL，测试网站在压力下工作的性能，最多可以模拟3万个并发连接去测试网站的负载能力。官网地址:http://home.tiscali.cz/~cz210552/webbench.html
 - [i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
 - [apr](https://github.com/apache/apr) - Mirror of Apache Portable Runtime
@@ -1003,7 +1002,7 @@
 - [illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS Connection: Every byte explained
 - [ncmdump](https://github.com/yoki123/ncmdump) - netease cloud music copyright protection file dump(golang版本网易云音乐ncm文件格式转换)
 - [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed object store and file system to store and serve billions of files fast! Object store has O(1) disk seek, transparent cloud integration. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
+- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed object store and file system to store and serve billions of files fast! Object store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
 - [ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
 - [alfred-learn-anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Alfred workflow to search Learn Anything
 - [small-workflows](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use
@@ -1362,7 +1361,7 @@
 - [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
-- [linkedin-utils](https://github.com/linkedin/linkedin-utils) - Base utilities shared by all linkedin open source projects
+- [linkedin-utils](https://github.com/LinkedInAttic/linkedin-utils) - Base utilities shared by all linkedin open source projects
 - [jcommon](https://github.com/jfree/jcommon) - JCommon class library (used by JFreeChart 1.0.x)
 - [commons](https://github.com/twitter-archive/commons) - Twitter common libraries for python and the JVM (deprecated)
 - [Koloboke](https://github.com/leventov/Koloboke) - Java Collections till the last breadcrumb of memory and performance
@@ -1373,7 +1372,6 @@
 - [hangman](https://github.com/nerds-odd-e/hangman) - Hangman by GOOS
 - [httpcomponents-client](https://github.com/apache/httpcomponents-client) - Mirror of Apache HttpClient
 - [dropwizard](https://github.com/dropwizard/dropwizard) - A damn simple library for building production-ready RESTful web services.
-- [fastjson](https://github.com/alibaba/fastjson) - A fast JSON parser/generator for Java.
 - [quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM
 - [Jax-RS-Performance-Comparison](https://github.com/smallnest/Jax-RS-Performance-Comparison) - :zap: Performance Comparison of Jax-RS implementations and embedded containers
 - [twilio-java](https://github.com/twilio/twilio-java) - A Java library for communicating with the Twilio REST API and generating TwiML.
@@ -1412,6 +1410,7 @@
 
 ## JavaScript 
 
+- [alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [director](https://github.com/flatiron/director) - a tiny and isomorphic URL router for JavaScript
 - [vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 - [icestudio](https://github.com/FPGAwars/icestudio) - :snowflake: Visual editor for open FPGA boards
@@ -1428,6 +1427,7 @@
 - [electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 - [sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
 - [cerebro](https://github.com/lmenezes/cerebro) - 
@@ -2742,7 +2742,7 @@
 
 ## PowerShell 
 
-- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theming engine for Powershell
+- [oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
 - [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
 - [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
@@ -3031,6 +3031,7 @@
 
 ## Ruby 
 
+- [yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for "Yay!"
 - [homebrew-brew](https://github.com/mongodb/homebrew-brew) - The Official MongoDB Software Homebrew Tap
 - [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
 - [homebrew-command-not-found](https://github.com/Homebrew/homebrew-command-not-found) - 🔍 Ubuntu’s command-not-found equivalent for Homebrew on macOS
@@ -3384,7 +3385,7 @@
 - [haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [one-key-ikev2-vpn](https://github.com/quericy/one-key-ikev2-vpn) - A bash script base on Centos or Ubuntu help you to create IKEV2/L2TP vpn.
 - [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## Smarty 
 
