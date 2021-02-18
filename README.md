@@ -71,6 +71,7 @@
   - [Self](#self)
   - [Shell](#shell)
   - [Smarty](#smarty)
+  - [Solidity](#solidity)
   - [Stylus](#stylus)
   - [Swift](#swift)
   - [SystemVerilog](#systemverilog)
@@ -202,7 +203,6 @@
 - [ponyc](https://github.com/ponylang/ponyc) - :horse: Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 - [KiTTY](https://github.com/cyd01/KiTTY) - :computer: KiTTY, a free telnet/ssh client for Windows
 - [cmark-gfm](https://github.com/github/cmark-gfm) - GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C
-- [daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
 - [conmon](https://github.com/containers/conmon) - An OCI container runtime monitor.
 - [Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [SmartisanOS_Kernel_Source](https://github.com/SmartisanTech/SmartisanOS_Kernel_Source) - SmartisanOS kernel opensource contain T1Kernel, T2Kernel, U1Kernel(JianGuo), M1Kernel(M1 and M1L), U2ProKernel(JianGuo Pro)
@@ -403,6 +403,7 @@
 - [ton](https://github.com/ton-blockchain/ton) - 
 - [percona-xtrabackup](https://github.com/percona/percona-xtrabackup) - Open source hot backup tool for InnoDB and XtraDB databases
 - [stcp](https://github.com/slankdev/stcp) - A High Performance Network Stack using DPDK.
+- [daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
 - [xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
 - [re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
@@ -1130,7 +1131,6 @@
 - [hacker-news-pwas](https://github.com/tastejs/hacker-news-pwas) - HNPWA - Hacker News readers as Progressive Web Apps 📱
 - [vim-plugin-dev-guide](https://github.com/wsdjeg/vim-plugin-dev-guide) - Vim 插件开发指南
 - [element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
-- [EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [dockerfile](https://github.com/mritd/dockerfile) - some personally made dockerfile
 - [sb.sb](https://github.com/Showfom/sb.sb) - https://sb.sb/
 - [mikutap](https://github.com/HFIProgramming/mikutap) - A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap
@@ -2185,6 +2185,8 @@
 
 ## Objective-C 
 
+- [moedict-webkit](https://github.com/g0v/moedict-webkit) - 萌典網站
+- [SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature.
 - [MacPass](https://github.com/MacPass/MacPass) - A native OS X KeePass client
 - [Sloth](https://github.com/sveinbjornt/Sloth) - Native Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
@@ -2660,6 +2662,7 @@
 
 ## PHP 
 
+- [sage](https://github.com/roots/sage) - WordPress starter theme with a modern development workflow
 - [kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Your Own URL Shortener
@@ -3144,6 +3147,7 @@
 
 ## Rust 
 
+- [dog](https://github.com/ogham/dog) - Command-line DNS client
 - [spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [nushell](https://github.com/nushell/nushell) - A new type of shell
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -3247,6 +3251,7 @@
 
 ## Shell 
 
+- [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [oh-my-wechat](https://github.com/lmk123/oh-my-wechat) - 微信小助手的安装 / 更新工具。
@@ -3391,6 +3396,10 @@
 
 - [SSPanel-Uim](https://github.com/Anankke/SSPanel-Uim) - SSPanel V3 魔改再次修改版
 
+## Solidity 
+
+- [EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
+
 ## Stylus 
 
 - [hexo-theme-melody](https://github.com/Molunerfinn/hexo-theme-melody) - :musical_keyboard:A simple & beautiful & fast theme for Hexo.
@@ -3522,6 +3531,7 @@
 
 ## TypeScript 
 
+- [nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - 🚀 A Google Chrome / Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
 - [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [csslayout](https://github.com/phuoc-ng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
 - [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
@@ -3750,7 +3760,7 @@
 - [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [ZY-Player](https://github.com/cuiocean/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
-- [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
+- [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
 - [webgems](https://github.com/webgems/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
