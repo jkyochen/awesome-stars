@@ -44,6 +44,7 @@
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
+  - [Mercury](#mercury)
   - [MoonScript](#moonscript)
   - [Nim](#nim)
   - [Nix](#nix)
@@ -2164,6 +2165,10 @@
 
 - [swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
+## Mercury 
+
+- [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
+
 ## MoonScript 
 
 - [howl](https://github.com/howl-editor/howl) - The Howl Editor
@@ -2201,7 +2206,6 @@
 - [DoNotDisturb](https://github.com/objective-see/DoNotDisturb) - Detect Evil Maid Attacks
 - [ReiKey](https://github.com/objective-see/ReiKey) - Malware and other applications may install persistent keyboard "event taps" to intercept your keystrokes. ReiKey can scan, detect, and monitor for such taps!
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
-- [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 - [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS
 - [sdlpal](https://github.com/sdlpal/sdlpal) - SDL-based reimplementation of the classic Chinese-language RPG "Xiān jiàn Qí Xiá Zhuàn" (also known as PAL).
 - [ShowyEdge](https://github.com/pqrs-org/ShowyEdge) - A visible indicator of the current input source for macOS.
