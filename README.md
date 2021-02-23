@@ -709,7 +709,7 @@
 - [termui](https://github.com/gizak/termui) - Golang terminal dashboard
 - [ent](https://github.com/ent/ent) - An entity framework for Go
 - [nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
-- [argo-workflows](https://github.com/argoproj/argo-workflows) - Argo Workflows: Get stuff done with Kubernetes.
+- [argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [editorconfig-core-go](https://github.com/editorconfig/editorconfig-core-go) - EditorConfig Core written in Go
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -2280,7 +2280,7 @@
 
 ## Others 
 
-- [Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 他妈的我终于能用谷歌搜中文了
+- [Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [specification](https://github.com/opentracing/specification) - A place to document (and discuss) the OpenTracing specification
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
@@ -3111,7 +3111,7 @@
 - [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch) - Ansible playbook for Elasticsearch
 - [cookbook-elasticsearch](https://github.com/elastic/cookbook-elasticsearch) - Chef cookbook for Elasticsearch
 - [puppet-elasticsearch](https://github.com/elastic/puppet-elasticsearch) - Elasticsearch Puppet module
-- [feedbin](https://github.com/feedbin/feedbin) - Follow your passions with RSS, email newsletters, and Twitter.
+- [feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
 - [iStats](https://github.com/Chris911/iStats) - Ruby gem for your mac stats
 - [tdlib-ruby](https://github.com/southbridgeio/tdlib-ruby) - Ruby bindings and client for TDLib
 - [git_stats](https://github.com/tomgi/git_stats) - GitStats is a git repository statistics generator.
@@ -3486,7 +3486,7 @@
 - [Shifty](https://github.com/thompsonate/Shifty) - ☀️ A macOS menu bar app that gives you more control over Night Shift.
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
 - [firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
-- [Mos](https://github.com/Caldis/Mos) - 一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on MacOS
+- [Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [Aerial](https://github.com/glouel/Aerial) - Apple TV Aerial Screensaver for Mac
 - [TuringCalendar](https://github.com/zhihaozhang/TuringCalendar) - 图灵日历 for mac
 - [clashX](https://github.com/yichengchen/clashX) - 
