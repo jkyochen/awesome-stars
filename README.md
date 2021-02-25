@@ -2399,7 +2399,7 @@
 - [awesome-codepoints](https://github.com/Codepoints/awesome-codepoints) - Awesome Code Points
 - [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
-- [from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2020年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
+- [from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
 - [TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [awesome-cloudflare-workers](https://github.com/tomByrer/awesome-cloudflare-workers) - 😎 Awesome Cloudflare Workers
 - [grav-skeleton-resume-site](https://github.com/getgrav/grav-skeleton-resume-site) - Resume Skeleton for Grav
@@ -3548,7 +3548,7 @@
 
 ## TypeScript 
 
-- [dogehouse](https://github.com/benawad/dogehouse) - The home for voice conversations.
+- [dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - 🚀 A Google Chrome / Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
 - [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [csslayout](https://github.com/phuoc-ng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
