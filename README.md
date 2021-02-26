@@ -129,6 +129,7 @@
 - [ACVM](https://github.com/KhaosT/ACVM) - 
 - [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [WebBench](https://github.com/EZLippi/WebBench) - Webbench是Radim Kolar在1997年写的一个在linux下使用的非常简单的网站压测工具。它使用fork()模拟多个客户端同时访问我们设定的URL，测试网站在压力下工作的性能，最多可以模拟3万个并发连接去测试网站的负载能力。官网地址:http://home.tiscali.cz/~cz210552/webbench.html
 - [i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
 - [apr](https://github.com/apache/apr) - Mirror of Apache Portable Runtime
@@ -1214,7 +1215,7 @@
 - [wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
 - [gitit](https://github.com/jgm/gitit) - A wiki using HAppS, pandoc, and git
 - [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
-- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [radicle-alpha](https://github.com/radicle-dev/radicle-alpha) - A peer-to-peer stack for code collaboration
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [chips](https://github.com/xtendo-org/chips) - A fast, lightweight, and concurrent plugin manager for the fish shell, written in Haskell
@@ -1430,7 +1431,6 @@
 - [electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 - [sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
 - [cerebro](https://github.com/lmenezes/cerebro) - 
@@ -1509,7 +1509,7 @@
 - [trust-zh-TW](https://github.com/audreyt/trust-zh-TW) - 合作博弈論的互動講解手冊 An interactive guide to the game theory of cooperation
 - [trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [polis](https://github.com/pol-is/polis) - :milky_way: Open Source AI for large scale open ended feedback
+- [polis](https://github.com/compdemocracy/polis) - :milky_way: Open Source AI for large scale open ended feedback
 - [yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 - [eventemitter3](https://github.com/primus/eventemitter3) - EventEmitter3 - Because there's also a number 2. And we're faster.
 - [vue-devtools](https://github.com/vuejs/vue-devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
@@ -1849,7 +1849,7 @@
 - [strml.net](https://github.com/STRML/strml.net) - STRML: Projects & Work
 - [walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
-- [learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization to challenge and educate!
+- [learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [prompt](https://github.com/flatiron/prompt) - a beautiful command-line prompt for node.js
 - [nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
 - [devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
@@ -2196,7 +2196,7 @@
 - [moedict-webkit](https://github.com/g0v/moedict-webkit) - 萌典網站
 - [SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature.
 - [MacPass](https://github.com/MacPass/MacPass) - A native OS X KeePass client
-- [Sloth](https://github.com/sveinbjornt/Sloth) - Native Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
+- [Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 - [teleport](https://github.com/johndbritton/teleport) - Virtual KVM for OS X
@@ -2276,6 +2276,7 @@
 
 ## Others 
 
+- [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [web-dev-feeds](https://github.com/simevidas/web-dev-feeds) - A collection of over 900 RSS feeds for web developers, updated monthly
 - [Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
@@ -2449,7 +2450,7 @@
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [ruby-style-guide](https://github.com/rubocop-hq/ruby-style-guide) - A community-driven Ruby coding style guide
+- [ruby-style-guide](https://github.com/rubocop/ruby-style-guide) - A community-driven Ruby coding style guide
 - [going-to-production](https://github.com/mtdvio/going-to-production) - A reference checklist for topics which should be covered before going to production.
 - [alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
 - [V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
