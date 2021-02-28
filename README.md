@@ -2274,6 +2274,8 @@
 
 ## Others 
 
+- [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
+- [awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [web-dev-feeds](https://github.com/simevidas/web-dev-feeds) - A collection of over 900 RSS feeds for web developers, updated monthly
 - [Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
@@ -3162,6 +3164,8 @@
 
 ## Rust 
 
+- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
+- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [dog](https://github.com/ogham/dog) - Command-line DNS client
 - [spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
@@ -3423,6 +3427,7 @@
 
 ## Swift 
 
+- [Swapman](https://github.com/waylybaye/Swapman) - swapfile monitor for macOS Big Sur
 - [SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework  Learning and Usage Guide. 🚀
 - [RedditOS](https://github.com/Dimillian/RedditOS) - The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
 - [Publish](https://github.com/JohnSundell/Publish) - A static site generator for Swift developers
@@ -3757,7 +3762,7 @@
 - [webvim](https://github.com/vim-dist/webvim) - WebVim is a vim based distribution targeting JavaScript and Web development
 - [janus](https://github.com/carlhuda/janus) - Vim distribution
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
-- [nnn.vim](https://github.com/mcchrish/nnn.vim) - File manager for vim/neovim powered by nnn
+- [nnn.vim](https://github.com/mcchrish/nnn.vim) - File manager for vim/neovim powered by n³
 - [deol.nvim](https://github.com/Shougo/deol.nvim) - Dark powered shell interface for NeoVim and Vim8.
 - [vimshell.vim](https://github.com/Shougo/vimshell.vim) - :shell: Powerful shell implemented by vim.
 - [vimllearn](https://github.com/lymslive/vimllearn) - A book for VimL Script language
