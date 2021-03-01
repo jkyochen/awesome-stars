@@ -122,6 +122,8 @@
 
 ## C 
 
+- [lk](https://github.com/littlekernel/lk) - LK embedded kernel
+- [mruby](https://github.com/mruby/mruby) - Lightweight Ruby
 - [pygame](https://github.com/pygame/pygame) - pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
 - [apue.3e](https://github.com/brandongooch/apue.3e) - Advanced Programming in the UNIX Environment - Third Edition
 - [unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
@@ -646,6 +648,8 @@
 
 ## Go 
 
+- [kit](https://github.com/go-kit/kit) - A standard library for microservices.
+- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
@@ -1413,6 +1417,7 @@
 
 ## JavaScript 
 
+- [prosemirror-view](https://github.com/ProseMirror/prosemirror-view) - ProseMirror's view component
 - [alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [director](https://github.com/flatiron/director) - a tiny and isomorphic URL router for JavaScript
 - [vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
@@ -2934,7 +2939,7 @@
 - [SublimeHaskell](https://github.com/SublimeHaskell/SublimeHaskell) - A Sublime Text 3 plugin for Haskell. Features cabal building, error and warning highlighting, smart completion and ghc-mod integration.
 - [BossSensor](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
 - [instagram-terminal-news-feed](https://github.com/instagrambot/instagram-terminal-news-feed) - Instagram in terminal :alien::alien::fire::fire:
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [awesome-blogCN-feeds](https://github.com/RSS-Renaissance/awesome-blogCN-feeds) - 优质的「独立中文博客」订阅列表
 - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - The code linting framework for Sublime Text 3
 - [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - 💡 Full-featured code intelligence and smart autocomplete for Sublime Text
@@ -3051,6 +3056,7 @@
 
 ## Ruby 
 
+- [cuba](https://github.com/soveran/cuba) - Rum based microframework for web development.
 - [yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for "Yay!"
 - [homebrew-brew](https://github.com/mongodb/homebrew-brew) - The Official MongoDB Software Homebrew Tap
 - [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
@@ -3270,9 +3276,10 @@
 
 ## Shell 
 
+- [tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
-- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [oh-my-wechat](https://github.com/lmk123/oh-my-wechat) - 微信小助手的安装 / 更新工具。
 - [zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
