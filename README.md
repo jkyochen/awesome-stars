@@ -49,6 +49,7 @@
   - [Mustache](#mustache)
   - [Nim](#nim)
   - [Nix](#nix)
+  - [Nunjucks](#nunjucks)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Objective-C++](#objective-c++)
@@ -1013,7 +1014,7 @@
 - [illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS Connection: Every byte explained
 - [ncmdump](https://github.com/yoki123/ncmdump) - netease cloud music copyright protection file dump(golang版本网易云音乐ncm文件格式转换)
 - [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed object store and file system to store and serve billions of files fast! Object store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
+- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed blob store and file system to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
 - [ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
 - [alfred-learn-anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Alfred workflow to search Learn Anything
 - [small-workflows](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use
@@ -1135,6 +1136,7 @@
 - [this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 - [Yummy-Jekyll](https://github.com/DONGChuan/Yummy-Jekyll) - Yummy Jekyll Theme
+- [docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》电子书
 - [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
@@ -1159,7 +1161,6 @@
 - [rails-guides](https://github.com/ruby-china/rails-guides) - Chinese translation of Rails Guides
 - [jxnblk.github.io](https://github.com/jxnblk/jxnblk.github.io) - 
 - [TinyEditor](https://github.com/umpox/TinyEditor) - A functional HTML/CSS/JS editor in less than 400 bytes
-- [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [nekomeowww.github.io](https://github.com/nekomeowww/nekomeowww.github.io) - 是 Neko 的博客
 - [documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll) - A Jekyll-based theme designed for documentation and help systems. See the link for detailed instructions on setting up and configuring everything.
 - [textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
@@ -1510,7 +1511,7 @@
 - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
 - [listen1_desktop](https://github.com/listen1/listen1_desktop) - one for all free music in china (Windows, Mac, Linux desktop)
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [svgo](https://github.com/svg/svgo) - :tiger: Node.js tool for optimizing SVG files
+- [svgo](https://github.com/svg/svgo) - :gear: Node.js tool for optimizing SVG files
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [trust-zh-TW](https://github.com/audreyt/trust-zh-TW) - 合作博弈論的互動講解手冊 An interactive guide to the game theory of cooperation
 - [trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
@@ -1532,7 +1533,6 @@
 - [jsbi](https://github.com/GoogleChromeLabs/jsbi) - JSBI is a pure-JavaScript implementation of the official ECMAScript BigInt proposal.
 - [EventEmitter](https://github.com/Olical/EventEmitter) - Evented JavaScript for the browser
 - [task.js](https://github.com/icodeforlove/task.js) - :zap: Simplified interface for getting CPU intensive code to run on all cores (node.js, and web)
-- [MassBrowser](https://github.com/SPIN-UMass/MassBrowser) - Volunteer-based censorship circumvention tool
 - [code-katas](https://github.com/CodingGarden/code-katas) - The code for the katas I solve live on stream.
 - [karma-chrome-launcher](https://github.com/karma-runner/karma-chrome-launcher) - A Karma plugin. Launcher for Chrome and Chrome Canary.
 - [rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
@@ -1794,7 +1794,6 @@
 - [iodide](https://github.com/iodide-project/iodide) - Literate scientific computing and communication for the web
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [holakit](https://github.com/teamhola/holakit) - A set of pluggable & easy-to-extend CSS components.
-- [docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [rest.js](https://github.com/octokit/rest.js) - GitHub REST API client for JavaScript
 - [zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
@@ -1958,7 +1957,7 @@
 - [duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome.
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2021)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2021)
 - [pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
 - [hexo-theme-vexo](https://github.com/yanm1ng/hexo-theme-vexo) - 🍟  Vexo is a Hexo theme inspired by Vue's official website.
 - [h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
@@ -1985,7 +1984,7 @@
 - [vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [haroopad](https://github.com/rhiokim/haroopad) - Haroopad - The Next Document processor based on Markdown
 - [tag-it](https://github.com/aehlke/tag-it) - A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.
-- [highlight.js](https://github.com/highlightjs/highlight.js) - Javascript syntax highlighter
+- [highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection.
 - [dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
 - [distpicker](https://github.com/fengyuanchen/distpicker) - ⚠️ [Deprecated] No longer maintained. A simple jQuery plugin for picking provinces, cities and districts of China. (中国 / 省市区 / 三级联动 / 地址选择器)
 - [AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
@@ -2192,6 +2191,10 @@
 
 - [nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 - [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+
+## Nunjucks 
+
+- [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
 ## OCaml 
 
@@ -2717,7 +2720,7 @@
 - [phabricator](https://github.com/phacility/phabricator) - Open software engineering platform and fun adventure game
 - [selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
-- [mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://www.mediawiki.org/wiki/Developer_access for contributing.
+- [mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
 - [Wikitten](https://github.com/devaneando/Wikitten) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on.
 - [server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [Alfred-Workflows](https://github.com/hzlzh/Alfred-Workflows) - Make your Alfred more powerful. (include Workflows, Extensions and Themes)
