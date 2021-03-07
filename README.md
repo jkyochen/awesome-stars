@@ -341,6 +341,8 @@
 
 ## C++ 
 
+- [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
+- [rpi-imager](https://github.com/raspberrypi/rpi-imager) - 
 - [cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
 - [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
@@ -1238,6 +1240,7 @@
 
 ## Java 
 
+- [Shelter](https://github.com/PeterCxy/Shelter) - (Mirror) Isolate your Big Brother Apps
 - [spring-retry](https://github.com/spring-projects/spring-retry) - 
 - [cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 - [rocketmq](https://github.com/apache/rocketmq) - Mirror of Apache RocketMQ
@@ -1420,6 +1423,7 @@
 
 ## JavaScript 
 
+- [flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 - [prosemirror-view](https://github.com/ProseMirror/prosemirror-view) - ProseMirror's view component
 - [alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [director](https://github.com/flatiron/director) - a tiny and isomorphic URL router for JavaScript
@@ -3287,6 +3291,7 @@
 
 ## Shell 
 
+- [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images
 - [tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
@@ -3571,6 +3576,7 @@
 
 ## TypeScript 
 
+- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
 - [dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - 🚀 A Google Chrome / Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
 - [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
