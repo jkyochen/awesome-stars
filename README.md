@@ -415,6 +415,7 @@
 - [percona-xtrabackup](https://github.com/percona/percona-xtrabackup) - Open source hot backup tool for InnoDB and XtraDB databases
 - [stcp](https://github.com/slankdev/stcp) - A High Performance Network Stack using DPDK.
 - [daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
+- [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
 - [re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
@@ -2116,7 +2117,6 @@
 - [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 - [paperphone](https://github.com/specialprojects-experiments/paperphone) - Paper phone experimental android app
 - [kitsunebi-android](https://github.com/eycorsican/kitsunebi-android) - A fully-featured V2Ray client for Android.
-- [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
 - [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 - [vertx-lang-kotlin](https://github.com/vert-x3/vertx-lang-kotlin) - Vert.x for Kotlin
