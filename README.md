@@ -248,7 +248,6 @@
 - [rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [wlroots](https://github.com/swaywm/wlroots) - A modular Wayland compositor library
 - [src](https://github.com/openbsd/src) - Public git conversion mirror of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
-- [socat](https://github.com/craSH/socat) - socat - Multipurpose relay (cloned from git://repo.or.cz/socat.git) - I am not the project owner, please submit bugs to socat@dest-unreach.org
 - [db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 - [keepalived](https://github.com/acassen/keepalived) - Keepalived
 - [waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan
@@ -2295,6 +2294,7 @@
 
 ## Others 
 
+- [nginx-tuning](https://github.com/denji/nginx-tuning) - NGINX tuning for best performance
 - [awesome-gbdev](https://github.com/gbdev/awesome-gbdev) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -3062,7 +3062,7 @@
 
 ## Rich Text Format 
 
-- [ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations and features like collaborative editing.
+- [ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
 - [Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) - Open source tutorial & information collector for hackintosh installation.
 
