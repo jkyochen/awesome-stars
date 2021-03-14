@@ -126,6 +126,9 @@
 
 ## C 
 
+- [arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
+- [ext4fuse](https://github.com/gerard/ext4fuse) - EXT4 implementation for FUSE
+- [fuse-ext2](https://github.com/alperakcan/fuse-ext2) - Fuse-ext2 is a multi OS FUSE module to mount ext2, ext3 and ext4 file system devices and/or images with read write support.
 - [lk](https://github.com/littlekernel/lk) - LK embedded kernel
 - [mruby](https://github.com/mruby/mruby) - Lightweight Ruby
 - [pygame](https://github.com/pygame/pygame) - pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
@@ -414,7 +417,6 @@
 - [percona-xtrabackup](https://github.com/percona/percona-xtrabackup) - Open source hot backup tool for InnoDB and XtraDB databases
 - [stcp](https://github.com/slankdev/stcp) - A High Performance Network Stack using DPDK.
 - [daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
-- [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
 - [re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
@@ -653,6 +655,7 @@
 
 ## Go 
 
+- [go-fastdfs](https://github.com/sjqzhang/go-fastdfs) - go-fastdfs 是一个简单的分布式文件系统(私有云存储)，具有无中心、高性能，高可靠，免维护等优点，支持断点续传，分块上传，小文件合并，自动同步，自动修复。Go-fastdfs is a simple distributed file system (private cloud storage), with no center, high performance, high reliability, maintenance free and other advantages, support breakpoint continuation, block upload, small file merge, automatic synchronization, automatic repair.(similar fastdfs).
 - [gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -1202,7 +1205,6 @@
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
-- [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [blog](https://github.com/huangz1990/blog) - 我的个人博客。
 - [rubygems-mirror](https://github.com/ruby-china/rubygems-mirror) - https://gems.ruby-china.com
 - [gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
@@ -1500,7 +1502,7 @@
 - [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the Webdriver API
 - [eventproxy](https://github.com/JacksonTian/eventproxy) - An implementation of task/event based asynchronous pattern.
-- [Node.js-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition) - Node.Js Design Patterns Third Edition, published by Packt
+- [Node.js-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition) - Node.js Design Patterns Third Edition, published by Packt
 - [ganache-cli](https://github.com/trufflesuite/ganache-cli) - Fast Ethereum RPC client for testing and development
 - [semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [lev](https://github.com/heapwolf/lev) - The complete REPL & CLI for managing LevelDB instances.
@@ -2046,7 +2048,6 @@
 - [web](https://github.com/cyber-dojo/web) - repo for the cyberdojo/web Docker image; a cyber-dojo microservice
 - [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [functional-javascript](https://github.com/osteele/functional-javascript) - Functional is a library for functional programming in JavaScript. It defines the standard higher-order functions such as map, reduce (aka foldl), and select (aka filter). It also defines functions such as curry, rcurry, and partial for partial function application; and compose, guard, and until for function-level programming.
-- [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
@@ -2118,6 +2119,7 @@
 - [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 - [paperphone](https://github.com/specialprojects-experiments/paperphone) - Paper phone experimental android app
 - [kitsunebi-android](https://github.com/eycorsican/kitsunebi-android) - A fully-featured V2Ray client for Android.
+- [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
 - [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 - [vertx-lang-kotlin](https://github.com/vert-x3/vertx-lang-kotlin) - Vert.x for Kotlin
@@ -2161,6 +2163,7 @@
 
 ## Makefile 
 
+- [LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) - Just enough OS for KODI
 - [ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring
 - [smi-spec](https://github.com/servicemeshinterface/smi-spec) - Service Mesh Interface
@@ -2451,6 +2454,7 @@
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [ShadowsocksBio](https://github.com/KeiKinn/ShadowsocksBio) - 记录一下Shadowsocks的前世今生，以及一个简单的教程总结
 - [vTemplate](https://github.com/KiriKira/vTemplate) - v2ray的模板们
+- [osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [ShadowsocksX-NG-R](https://github.com/leadscloud/ShadowsocksX-NG-R) - Next Generation of ShadowsocksX
 - [SSTap-beta-setup](https://github.com/mayunbaba2/SSTap-beta-setup) - 添加规则请看
@@ -3346,7 +3350,6 @@
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
 - [alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
-- [osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 - [jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
 - [docker-alpine](https://github.com/gliderlabs/docker-alpine) - Alpine Linux Docker image. Win at minimalism!
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
@@ -3752,9 +3755,11 @@
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [growth-ionic](https://github.com/phodal/growth-ionic) - [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
 - [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
+- [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 
 ## Uno 
