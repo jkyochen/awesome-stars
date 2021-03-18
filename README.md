@@ -658,6 +658,9 @@
 
 ## Go 
 
+- [autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
+- [minikube](https://github.com/AliyunContainerService/minikube) - 普大喜奔，官方Minikube提供了完整对国内用户支持，建议参考 https://yq.aliyun.com/articles/221687 或 https://github.com/AliyunContainerService/minikube/wiki 最新支持minikube v1.17.1
+- [brigade](https://github.com/brigadecore/brigade) - Event-driven scripting for Kubernetes
 - [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [k3sup](https://github.com/alexellis/k3sup) - bootstrap Kubernetes with k3s over SSH &lt; 1 min 🚀
@@ -1251,7 +1254,7 @@
 
 ## Java 
 
-- [Shelter](https://github.com/PeterCxy/Shelter) - (Mirror) Isolate your Big Brother Apps
+- [Shelter](https://github.com/PeterCxy/Shelter) - This repository is a mirror of https://cgit.typeblog.net/Shelter/
 - [spring-retry](https://github.com/spring-projects/spring-retry) - 
 - [cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 - [rocketmq](https://github.com/apache/rocketmq) - Mirror of Apache RocketMQ
@@ -3822,6 +3825,7 @@
 
 ## Vue 
 
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [ZY-Player](https://github.com/cuiocean/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
