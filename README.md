@@ -126,6 +126,7 @@
 
 ## C 
 
+- [robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
 - [ext4fuse](https://github.com/gerard/ext4fuse) - EXT4 implementation for FUSE
 - [fuse-ext2](https://github.com/alperakcan/fuse-ext2) - Fuse-ext2 is a multi OS FUSE module to mount ext2, ext3 and ext4 file system devices and/or images with read write support.
@@ -226,7 +227,6 @@
 - [Undecimus](https://github.com/pwn20wndstuff/Undecimus) - unc0ver jailbreak for iOS 11.0 - 12.4
 - [tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [Telegram-iOS](https://github.com/nicegram/Telegram-iOS) - Telegram-iOS
 - [streem](https://github.com/matz/streem) - prototype of stream based programming language
 - [freebsd-src](https://github.com/freebsd/freebsd-src) - FreeBSD src tree (read-only mirror)
 - [glibc](https://github.com/bminor/glibc) - Unofficial mirror of sourceware glibc repository. Updated daily.
@@ -2235,6 +2235,7 @@
 - [chrome-cli](https://github.com/prasmussen/chrome-cli) - Control Google Chrome from the command line
 - [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
 - [nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
+- [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [trash](https://github.com/ali-rantakari/trash) - Small command-line program for OS X that moves files or folders to the trash.
 - [Netiquette](https://github.com/objective-see/Netiquette) - Network Monitor
 - [DoNotDisturb](https://github.com/objective-see/DoNotDisturb) - Detect Evil Maid Attacks
@@ -3307,6 +3308,7 @@
 
 ## Shell 
 
+- [NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
 - [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [k8s-install](https://github.com/Jrohy/k8s-install) - auto install latest k8s (kubeadm install)
 - [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images
@@ -3477,7 +3479,6 @@
 - [ShadowsocksX-NG-R8](https://github.com/paradiseduo/ShadowsocksX-NG-R8) - ShadowsocksX-NG-R for MacOS, ShadowsocksR
 - [glance](https://github.com/samuelmeuli/glance) - 🔎 All-in-one Quick Look plugin
 - [playbook-ios](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically taking snapshots of them.
-- [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - TinyPNG client for Mac
 - [apollo-ios](https://github.com/apollographql/apollo-ios) - 📱 A strongly-typed, caching GraphQL client for iOS, written in Swift
 - [hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
@@ -3497,6 +3498,7 @@
 - [ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS [and Apple Platforms].
 - [passepartout-apple](https://github.com/passepartoutvpn/passepartout-apple) - User-friendly OpenVPN client app for iOS and macOS.
 - [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar
+- [Telegram-iOS](https://github.com/nicegram/Telegram-iOS) - Telegram-iOS
 - [Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
@@ -3594,6 +3596,7 @@
 
 ## TypeScript 
 
+- [nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
 - [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
 - [dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - 🚀 A Google Chrome / Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
