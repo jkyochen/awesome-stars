@@ -343,6 +343,7 @@
 
 ## C++ 
 
+- [qtum](https://github.com/qtumproject/qtum) - Qtum Core Wallet
 - [timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior - Commandline Time Reporting
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [rpi-imager](https://github.com/raspberrypi/rpi-imager) - 
@@ -1869,7 +1870,7 @@
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
 - [website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
 - [webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
-- [ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - JavaScript library to detect browser, engine, OS, CPU, and device type/model from userAgent string. Supports browser & node.js environment.
+- [ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - JavaScript library to detect Browser, Engine, OS, CPU, and Device type/model from userAgent data. Supports browser & node.js environment.
 - [thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
 - [strml.net](https://github.com/STRML/strml.net) - STRML: Projects & Work
 - [walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
@@ -3201,6 +3202,7 @@
 
 ## Rust 
 
+- [cita](https://github.com/citahub/cita) - A high performance blockchain kernel for enterprise users.
 - [ckb-vm](https://github.com/nervosnetwork/ckb-vm) - CKB's vm, based on open source RISC-V ISA
 - [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
@@ -3249,7 +3251,6 @@
 - [rust-url](https://github.com/servo/rust-url) - URL parser for Rust
 - [rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
 - [book](https://github.com/rust-lang/book) - The Rust Programming Language
-- [alfred-pinboard-rs](https://github.com/spamwax/alfred-pinboard-rs) - Alfred Workflow for Pinboard (Rust)
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [Inconsolata](https://github.com/googlefonts/Inconsolata) - Development repo of Inconsolata Fonts by Raph Levien
