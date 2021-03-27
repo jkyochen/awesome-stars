@@ -158,7 +158,7 @@
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [lxc/lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
 - [msys2/msys2-runtime](https://github.com/msys2/msys2-runtime) - Our friendly fork of Cygwin 💖 https://cygwin.org
-- [cesanta/mongoose](https://github.com/cesanta/mongoose) - Mongoose Embedded Web Server Library - a multi-protocol embedded networking library with TCP/UDP, HTTP, WebSocket,  MQTT built-in protocols, async DNS resolver, and non-blocking API.
+- [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded Web Server
 - [alibaba/GCanvas](https://github.com/alibaba/GCanvas) - A lightweight cross-platform graphics rendering engine. (超轻量的跨平台图形引擎) https://alibaba.github.io/GCanvas
 - [TaraHoleInIt/minivmac-3ds](https://github.com/TaraHoleInIt/minivmac-3ds) - Port of Mini vMac to the Nintendo 3DS
 - [chaos-lang/chaos](https://github.com/chaos-lang/chaos) - The Chaos Programming Language
@@ -550,7 +550,6 @@
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [telephone/LookingGlass](https://github.com/telephone/LookingGlass) - A user-friendly PHP Looking Glass
 - [SukkaW/hexo-theme-suka](https://github.com/SukkaW/hexo-theme-suka) - 🎨Modern, powerful and simple theme for Hexo.
-- [pinggod/hexo-theme-apollo](https://github.com/pinggod/hexo-theme-apollo) - 🌅 a concise hexo theme
 - [kamikat/jekyll-theme-kagami](https://github.com/kamikat/jekyll-theme-kagami) - Simple and clean Jekyll theme compatible with GitHub Pages.
 - [sharecuts/website](https://github.com/sharecuts/website) - A public repository of shortcuts for the Shortcuts app
 - [wzpan/hexo-theme-wixo](https://github.com/wzpan/hexo-theme-wixo) - A wiki theme for Hexo.
@@ -1204,6 +1203,7 @@
 - [w3c/clreq](https://github.com/w3c/clreq) - Requirements for Chinese Text Layout
 - [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [una/una.github.io](https://github.com/una/una.github.io) - Redesign of my blog to match my new portfolio :) and migrate off of Tumblr
+- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [sckott/cowsay](https://github.com/sckott/cowsay) - cowsay w/ more animals, in R
 - [zhe/hugo-theme-slim](https://github.com/zhe/hugo-theme-slim) - Hugo theme—Slim
 - [rohanchandra/type-theme](https://github.com/rohanchandra/type-theme) - A free and open-source Jekyll theme with responsive design. Great for blogs and easy to customize.
@@ -2224,7 +2224,6 @@
 
 - [ocaml/ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
 - [ocaml/dune](https://github.com/ocaml/dune) - A composable build system for OCaml.
-- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 
 ## Objective-C 
 
@@ -3278,6 +3277,7 @@
 - [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) - 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [harttle/harttle.github.io](https://github.com/harttle/harttle.github.io) - Harttle Land 的源码和文章
+- [pinggod/hexo-theme-apollo](https://github.com/pinggod/hexo-theme-apollo) - 🌅 a concise hexo theme
 - [tootsuite/documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [tufu9441/maupassant-hexo](https://github.com/tufu9441/maupassant-hexo) - A simple Hexo theme forked from icylogic.
