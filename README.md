@@ -2312,6 +2312,10 @@
 
 ## Others 
 
+- [gentlemansolo/JavRocket](https://github.com/gentlemansolo/JavRocket) - JavRocket is a beautiful and elegant APP
+- [xialeiliu/Awesome-Incremental-Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning) - Awesome Incremental Learning
+- [blanboom/awesome-home-networking-cn](https://github.com/blanboom/awesome-home-networking-cn) - 家庭网络知识整理
+- [magnologan/awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security) - A curated list for Awesome Kubernetes Security resources
 - [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 - [antirez/RESP3](https://github.com/antirez/RESP3) - RESP protocol V3 repository. Contains the specification, and other related resource
 - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
@@ -2815,6 +2819,8 @@
 
 ## Python 
 
+- [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [niosus/EasyClangComplete](https://github.com/niosus/EasyClangComplete) - :boom: Robust C/C++ code completion for Sublime Text 3
 - [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
 - [JustMachiavelli/javsdt](https://github.com/JustMachiavelli/javsdt) - 影片信息整理工具，抓取元数据nfo，自定义重命名文件(夹)，下载fanart裁剪poster，为emby、kodi、极影派铺路。
 - [derrod/legendary](https://github.com/derrod/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
