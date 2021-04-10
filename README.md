@@ -994,7 +994,7 @@
 - [inlets/inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
 - [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
 - [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
-- [9seconds/mtg](https://github.com/9seconds/mtg) - Bullshit-free MTPROTO proxy for Telegram
+- [9seconds/mtg](https://github.com/9seconds/mtg) - Highly opionated MTPROTO proxy for Telegram
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for data science
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
@@ -1460,6 +1460,7 @@
 
 ## JavaScript 
 
+- [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
 - [rolodato/dotenv-safe](https://github.com/rolodato/dotenv-safe) - Load environment variables from .env and ensure they are all present
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -1723,6 +1724,7 @@
 - [inkle/inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - React Native Components and APIs for the Web
 - [ix64/unlock-music](https://github.com/ix64/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
+- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [vercel/next-plugins](https://github.com/vercel/next-plugins) - Official Next.js plugins
 - [WaniKani/WanaKana](https://github.com/WaniKani/WanaKana) - Javascript library for detecting and transliterating Hiragana &lt;--&gt; Katakana &lt;--&gt; Romaji
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
@@ -3148,7 +3150,6 @@
 - [tuwukee/jwt_sessions](https://github.com/tuwukee/jwt_sessions) - XSS/CSRF safe JWT auth designed for SPA
 - [bkeepers/dotenv](https://github.com/bkeepers/dotenv) - A Ruby gem to load environment variables from `.env`.
 - [mhartl/sample_app_6th_ed](https://github.com/mhartl/sample_app_6th_ed) - The main sample app for the Ruby on Rails Tutorial, 6th Edition
-- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [sinatra/sinatra](https://github.com/sinatra/sinatra) - Classy web-development dressed in a DSL (official / canonical repo)
 - [octokit/octokit.rb](https://github.com/octokit/octokit.rb) - Ruby toolkit for the GitHub API
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
@@ -3875,7 +3876,7 @@
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [webgems/webgems](https://github.com/webgems/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [SaraVieira/tld.party](https://github.com/SaraVieira/tld.party) - Damn, that's a lot of TLD
 - [sunzongzheng/music](https://github.com/sunzongzheng/music) - electron跨平台音乐播放器；可搜网易云、QQ音乐、虾米音乐；支持QQ、微博、Github登录，云歌单; 支持一键导入音乐平台歌单
