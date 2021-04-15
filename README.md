@@ -521,7 +521,6 @@
 - [mdo/wtf-html-css](https://github.com/mdo/wtf-html-css) - Common reasons your HTML and CSS may be fucked.
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
-- [pages-themes/primer](https://github.com/pages-themes/primer) - Primer is a Jekyll theme for GitHub Pages
 - [wowthemesnet/mundana-theme-jekyll](https://github.com/wowthemesnet/mundana-theme-jekyll) - Mundana is a free Jekyll theme, Medium styled.
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [jez/tufte-pandoc-css](https://github.com/jez/tufte-pandoc-css) - Starter files for using Pandoc Markdown with Tufte CSS
@@ -1598,7 +1597,7 @@
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
-- [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme) - GitHub's VS Code theme
+- [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme) - GitHub's VS Code themes
 - [bcoin-org/bcoin](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers
 - [bitpay/bitcore](https://github.com/bitpay/bitcore) - A full stack for bitcoin and blockchain-based applications
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
@@ -3125,6 +3124,7 @@
 
 ## Ruby 
 
+- [travisjeffery/timecop](https://github.com/travisjeffery/timecop) - A gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.
 - [pivotal-legacy/projectmonitor](https://github.com/pivotal-legacy/projectmonitor) - Big Visible Chart CI aggregator
 - [technicalpickles/homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind.
 - [soveran/cuba](https://github.com/soveran/cuba) - Rum based microframework for web development.
@@ -3243,7 +3243,6 @@
 - [citahub/cita](https://github.com/citahub/cita) - A high performance blockchain kernel for enterprise users.
 - [nervosnetwork/ckb-vm](https://github.com/nervosnetwork/ckb-vm) - CKB's vm, based on open source RISC-V ISA
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
@@ -3305,6 +3304,7 @@
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [andrewbanchich/forty-jekyll-theme](https://github.com/andrewbanchich/forty-jekyll-theme) - A Jekyll version of the "Forty" theme by HTML5 UP.
 - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
+- [pages-themes/primer](https://github.com/pages-themes/primer) - Primer is a Jekyll theme for GitHub Pages
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [dessalines/essays](https://github.com/dessalines/essays) - 
@@ -3895,6 +3895,7 @@
 
 ## WebAssembly 
 
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - Definitely not a TypeScript to WebAssembly compiler 🚀
 - [chai2010/awesome-wasm-zh](https://github.com/chai2010/awesome-wasm-zh) - WebAssembly(wasm)资源精选
 
