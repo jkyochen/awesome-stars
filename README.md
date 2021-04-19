@@ -1203,7 +1203,6 @@
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [fuckcqcs/fuckcqcs](https://github.com/fuckcqcs/fuckcqcs) - 14小时
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
-- [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [PureWriter/writer.drakeet.com](https://github.com/PureWriter/writer.drakeet.com) - 
 - [kjur/jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES JSON Web Signature/Token in pure JavaScript.
@@ -1315,7 +1314,7 @@
 - [weibocom/motan](https://github.com/weibocom/motan) - A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services.
 - [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout) - 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm
-- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [android/user-interface-samples](https://github.com/android/user-interface-samples) - Multiple samples showing the best practices in the user interface on Android.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [vipshop/vjtools](https://github.com/vipshop/vjtools) - The vip.com's java coding standard, libraries and tools
@@ -1838,7 +1837,7 @@
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [teamhola/holakit](https://github.com/teamhola/holakit) - A set of pluggable & easy-to-extend CSS components.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [octokit/rest.js](https://github.com/octokit/rest.js) - GitHub REST API client for JavaScript
+- [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
@@ -1885,7 +1884,6 @@
 - [johnpoint/anti-360browser.js](https://github.com/johnpoint/anti-360browser.js) - 
 - [sideway/joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
 - [metowolf/BilibiliHelper](https://github.com/metowolf/BilibiliHelper) - :taco: B 站自动领瓜子、直播挂机脚本，!!! 非 B 站后台源码 !!!
-- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [jxnblk/mdx-go](https://github.com/jxnblk/mdx-go) - :zap: Lightning fast MDX-based dev server for progressive documentation
 - [mui-org/material-ui](https://github.com/mui-org/material-ui) - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.
@@ -1976,7 +1974,7 @@
 - [helloxz/zdir](https://github.com/helloxz/zdir) - 使用PHP开发的目录索引系统
 - [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - :computer: 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
-- [alanzhangzm/Photon](https://github.com/alanzhangzm/Photon) - A lightweight multi-threaded downloader based on aria2.
+- [zmzhang8/Photon](https://github.com/zmzhang8/Photon) - A lightweight multi-threaded downloader based on aria2.
 - [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
 - [sym233/core-values-encoder](https://github.com/sym233/core-values-encoder) - Translating text to core values and back
 - [ianstormtaylor/permit](https://github.com/ianstormtaylor/permit) - An unopinionated authentication library for building Node.js APIs.
@@ -3483,6 +3481,7 @@
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [FunctionClub/ZBench](https://github.com/FunctionClub/ZBench) - 又一个Linux VPS测评脚本
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [HyperledgerCN/hyperledgerDocs](https://github.com/HyperledgerCN/hyperledgerDocs) - Hyperledger文档
 - [nicopace/tmate-docker](https://github.com/nicopace/tmate-docker) - Tmate.io docker server
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
@@ -3787,6 +3786,7 @@
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [pmndrs/react-use-gesture](https://github.com/pmndrs/react-use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React
 - [stream-labs/streamlabs-obs](https://github.com/stream-labs/streamlabs-obs) - Free and open source streaming software built on OBS and Electron.
+- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [nicoespeon/gitgraph.js](https://github.com/nicoespeon/gitgraph.js) - 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser
 - [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
