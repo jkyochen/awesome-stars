@@ -1287,6 +1287,7 @@
 
 ## Java 
 
+- [phodal/migration](https://github.com/phodal/migration) - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
 - [projectlombok/lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language.
 - [jacoco/jacoco](https://github.com/jacoco/jacoco) - :microscope: Java Code Coverage Library
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
@@ -2356,6 +2357,7 @@
 
 ## Others 
 
+- [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
 - [ClashDotNetFramework/ClashDotNetFramework](https://github.com/ClashDotNetFramework/ClashDotNetFramework) - A .NET 5 based GUI Proxy For Windows
 - [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
@@ -3041,7 +3043,7 @@
 - [RSS-Renaissance/awesome-blogCN-feeds](https://github.com/RSS-Renaissance/awesome-blogCN-feeds) - 优质的「独立中文博客」订阅列表
 - [SublimeLinter/SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - The code linting framework for Sublime Text 3
 - [SublimeCodeIntel/SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - 💡 Full-featured code intelligence and smart autocomplete for Sublime Text
-- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目（5 周年）
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目
 - [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QR-Code generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [ubuntu/microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
@@ -3268,6 +3270,7 @@
 
 ## Rust 
 
+- [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow.
 - [citahub/cita](https://github.com/citahub/cita) - A high performance blockchain kernel for enterprise users.
@@ -3278,7 +3281,7 @@
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [dani-garcia/bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust
 - [deltachat/deltachat-core-rust](https://github.com/deltachat/deltachat-core-rust) - Delta Chat Rust Core library, used by Android/iOS/desktop apps and bindings
 - [paritytech/polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
