@@ -343,7 +343,7 @@
 - [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) - 
 - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
-- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - If you want to keep a secret, you must also hide it from yourself.
+- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - Moved to https://github.com/Shadowsocks-NET/Shadowsocks.NET
 - [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [v2ray/v2ray-panel-master](https://github.com/v2ray/v2ray-panel-master) - Deprecated
 - [Codeusa/SteamCleaner](https://github.com/Codeusa/SteamCleaner) - :us: A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon :us:
@@ -573,7 +573,6 @@
 - [kamikat/jekyll-theme-kagami](https://github.com/kamikat/jekyll-theme-kagami) - Simple and clean Jekyll theme compatible with GitHub Pages.
 - [sharecuts/website](https://github.com/sharecuts/website) - A public repository of shortcuts for the Shortcuts app
 - [wzpan/hexo-theme-wixo](https://github.com/wzpan/hexo-theme-wixo) - A wiki theme for Hexo.
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [orderedlist/minimal](https://github.com/orderedlist/minimal) - A Theme for GitHub Pages
 - [atom/one-light-syntax](https://github.com/atom/one-light-syntax) - Atom One light syntax theme
 - [Gracker/hexo-theme-reading](https://github.com/Gracker/hexo-theme-reading) - Blog Theme For Hexo ：http://www.androidperformance.com/
@@ -1472,6 +1471,7 @@
 
 ## JavaScript 
 
+- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for humans
 - [MikeMcl/big.js](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
 - [MikeMcl/decimal.js](https://github.com/MikeMcl/decimal.js) - An arbitrary-precision Decimal type for JavaScript
 - [hapijs/hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
@@ -1989,6 +1989,7 @@
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [styled-system/styled-system](https://github.com/styled-system/styled-system) - ⬢ Style props for rapid UI development
 - [kannonboy/sketch-gifme-plugin](https://github.com/kannonboy/sketch-gifme-plugin) - Embed gifs and videos in your Sketch files!
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [syt123450/giojs](https://github.com/syt123450/giojs) - 🌏  A Declarative 3D Globe Data Visualization Library built with Three.js
 - [cyanzhong/xTeko](https://github.com/cyanzhong/xTeko) - JSBox demos
 - [cedricblondeau/world-cup-2018-cli-dashboard](https://github.com/cedricblondeau/world-cup-2018-cli-dashboard) - ⚽🏆A World Cup 2018 CLI dashboard – Watch matches in your terminal
@@ -2194,7 +2195,7 @@
 - [drakeet/MultiType](https://github.com/drakeet/MultiType) - Easier and more flexible to create multiple types for Android RecyclerView.
 - [nickbutcher/plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design.
 - [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
-- [JetBrains/gradle-intellij-plugin](https://github.com/JetBrains/gradle-intellij-plugin) - Plugin for building plugins for IntelliJ IDEs
+- [JetBrains/gradle-intellij-plugin](https://github.com/JetBrains/gradle-intellij-plugin) - Gradle plugin for building plugins for IntelliJ-based IDEs
 
 ## Less 
 
@@ -3281,7 +3282,7 @@
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [deltachat/deltachat-core-rust](https://github.com/deltachat/deltachat-core-rust) - Delta Chat Rust Core library, used by Android/iOS/desktop apps and bindings
 - [paritytech/polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
@@ -3707,7 +3708,7 @@
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [oct16/TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder & Player 🖥 (WIP)
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [lit/lit-element](https://github.com/lit/lit-element) - A simple base class for creating fast, lightweight web components
+- [lit/lit-element](https://github.com/lit/lit-element) - LEGACY REPO. This repository is for maintenance of the legacy LitElement library. The LitElement base class is now part of the Lit library, which is developed in the lit monorepo.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
