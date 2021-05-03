@@ -683,6 +683,8 @@
 
 ## Go 
 
+- [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
+- [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [RichardKnop/machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
@@ -1471,6 +1473,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/camelcase-keys](https://github.com/sindresorhus/camelcase-keys) - Convert object keys to camel case
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for humans
 - [MikeMcl/big.js](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
 - [MikeMcl/decimal.js](https://github.com/MikeMcl/decimal.js) - An arbitrary-precision Decimal type for JavaScript
@@ -2565,7 +2568,7 @@
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [AmazingApps/Amazing-Windows-Apps](https://github.com/AmazingApps/Amazing-Windows-Apps) - 📗Introduce you amazing Windows apps🕶READ ONLINE 👉
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
-- [codewars/codewars.com](https://github.com/codewars/codewars.com) - Issue tracker and wiki for Codewars
+- [codewars/codewars.com](https://github.com/codewars/codewars.com) - Issue tracker for Codewars
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [russelltao/geektime-nginx](https://github.com/russelltao/geektime-nginx) - 极客时间：nginx核心知识100讲配置文件与代码分享
 - [wilsonyin123/geekbanglinux](https://github.com/wilsonyin123/geekbanglinux) - Linux 实战技能100讲
@@ -2873,6 +2876,7 @@
 
 ## Python 
 
+- [IronLanguages/ironpython3](https://github.com/IronLanguages/ironpython3) - Implementation of Python 3.x for .NET Framework that is built on top of the Dynamic Language Runtime.
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe
 - [ParallelSSH/parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH client library.
@@ -3384,6 +3388,8 @@
 
 ## Shell 
 
+- [simnalamburt/shellder](https://github.com/simnalamburt/shellder) - :shell: Featured zsh/fish shell theme
+- [jethrokuan/z](https://github.com/jethrokuan/z) - Pure-fish z directory jumping
 - [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
 - [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [Jrohy/k8s-install](https://github.com/Jrohy/k8s-install) - auto install latest k8s (kubeadm install)
@@ -3673,6 +3679,7 @@
 
 ## TypeScript 
 
+- [pixijs/pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
