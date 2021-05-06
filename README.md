@@ -132,6 +132,7 @@
 
 ## C 
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [RedisTimeSeries/RedisTimeSeries](https://github.com/RedisTimeSeries/RedisTimeSeries) - Time Series data structure for Redis
 - [google/wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
@@ -1154,6 +1155,7 @@
 - [taoqf/node-html-parser](https://github.com/taoqf/node-html-parser) - A very fast HTML parser, generating a simplified DOM, with basic element query support.
 - [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [kangax/compat-table](https://github.com/kangax/compat-table) - ECMAScript 5/6/7 compatibility tables
+- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [diveintomark/diveintohtml5](https://github.com/diveintomark/diveintohtml5) - Dive Into HTML5 online book
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [incompl/csslayoutsite](https://github.com/incompl/csslayoutsite) - source for learnlayout.com
@@ -1319,7 +1321,7 @@
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [tntim96/JSCover](https://github.com/tntim96/JSCover) - JSCover is a JavaScript Code Coverage Tool that measures line, branch and function coverage
-- [ctripcorp/apollo](https://github.com/ctripcorp/apollo) - Apollo is a reliable configuration management system. It can centrally manage the configurations of different applications and different clusters. It is suitable for microservice configuration management scenarios.
+- [ctripcorp/apollo](https://github.com/ctripcorp/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 - [confluentinc/ksql](https://github.com/confluentinc/ksql) - The event streaming database purpose-built for stream processing applications
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
 - [Netflix/eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
@@ -1477,6 +1479,7 @@
 
 ## JavaScript 
 
+- [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [nkrode/RedisLive](https://github.com/nkrode/RedisLive) - Visualize your redis instances, analyze query patterns and spikes.
 - [sindresorhus/camelcase-keys](https://github.com/sindresorhus/camelcase-keys) - Convert object keys to camel case
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for humans
@@ -1701,7 +1704,6 @@
 - [expressjs/morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
 - [visionmedia/debug](https://github.com/visionmedia/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [NUKnightLab/TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) - TimelineJS v3: A Storytelling Timeline built in JavaScript.  http://timeline.knightlab.com
-- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [xfslove/alfred-google-translate](https://github.com/xfslove/alfred-google-translate) - Alfred 3 workflow - translate with google api💵🚫
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
@@ -2367,6 +2369,8 @@
 
 ## Others 
 
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。
+- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
 - [ClashDotNetFramework/ClashDotNetFramework](https://github.com/ClashDotNetFramework/ClashDotNetFramework) - A .NET 5 based Clash GUI Proxy For Windows
 - [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
@@ -2881,6 +2885,7 @@
 
 ## Python 
 
+- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
 - [facebookarchive/redis-faina](https://github.com/facebookarchive/redis-faina) - A query analyzer that parses Redis' MONITOR command for counter/timing stats about query patterns
 - [IronLanguages/ironpython3](https://github.com/IronLanguages/ironpython3) - Implementation of Python 3.x for .NET Framework that is built on top of the Dynamic Language Runtime.
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
@@ -3005,6 +3010,7 @@
 - [sublimelsp/LSP](https://github.com/sublimelsp/LSP) - Client implementation of the Language Server Protocol for Sublime Text
 - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
 - [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu) - open-source jailbreaking tool for many iOS devices
+- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
@@ -3453,7 +3459,6 @@
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
 - [gliderlabs/docker-alpine](https://github.com/gliderlabs/docker-alpine) - Alpine Linux Docker image. Win at minimalism!
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
