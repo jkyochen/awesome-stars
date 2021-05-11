@@ -187,6 +187,7 @@
 - [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [ziutek/emgo](https://github.com/ziutek/emgo) - Emgo: Bare metal Go (language for programming embedded systems)
+- [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [corellium/projectsandcastle](https://github.com/corellium/projectsandcastle) - Supporting tools for Android/Linux on the iPhone
 - [mattthias/slurm](https://github.com/mattthias/slurm) - yet another network load monitor
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
@@ -344,7 +345,7 @@
 - [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) - 
 - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
-- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - Moved to https://github.com/Shadowsocks-NET/Shadowsocks.NET
+- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [v2ray/v2ray-panel-master](https://github.com/v2ray/v2ray-panel-master) - Deprecated
 - [Codeusa/SteamCleaner](https://github.com/Codeusa/SteamCleaner) - :us: A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon :us:
@@ -419,7 +420,6 @@
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-- [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, SRMD, RealSR,  Anime4K, RIFE, CAIN, DAIN and ACNet.
 - [linuxdeepin/deepin-boot-maker](https://github.com/linuxdeepin/deepin-boot-maker) - mirrored from https://cr.deepin.io/#/admin/projects/deepin-boot-maker
 - [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
@@ -1480,6 +1480,8 @@
 
 ## JavaScript 
 
+- [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app
+- [easy-mock/easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
@@ -1509,7 +1511,6 @@
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
 - [nuysoft/Mock](https://github.com/nuysoft/Mock) - A simulation data generator
-- [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
 - [screeps/screeps](https://github.com/screeps/screeps) - A standalone server for programming game Screeps
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
@@ -1782,7 +1783,6 @@
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [internetarchive/bookreader](https://github.com/internetarchive/bookreader) - The Internet Archive BookReader
 - [headmelted/codebuilds](https://github.com/headmelted/codebuilds) - Community builds of Visual Studio Code for Chromebooks and Raspberry Pi
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [supnate/react-geek-time](https://github.com/supnate/react-geek-time) - 极客时间《React 从入门到精通》视频课程示例代码。
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [GoogleChromeLabs/picture-in-picture-chrome-extension](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension) - 
@@ -3808,6 +3808,7 @@
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private proxy registry build in Node.js
 - [naveedgol/music-web-player](https://github.com/naveedgol/music-web-player) - Web player for Apple Music
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [ahkohd/switch-desktop](https://github.com/ahkohd/switch-desktop) - ⚡️ Keyboard-driven commands to navigate your apps faster
@@ -3942,7 +3943,6 @@
 
 ## Vue 
 
-- [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [chaitin/xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [cuiocean/ZY-Player](https://github.com/cuiocean/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
