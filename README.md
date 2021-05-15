@@ -1179,7 +1179,7 @@
 - [luin/readability](https://github.com/luin/readability) - 📚 Turn any web page into a clean view
 - [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [ccg2018/ClashA](https://github.com/ccg2018/ClashA) - A Android GUI for Clash
-- [chiron-fonts/chiron-sans-hk](https://github.com/chiron-fonts/chiron-sans-hk) - 昭源黑體
+- [chiron-fonts/chiron-sans-hk](https://github.com/chiron-fonts/chiron-sans-hk) - ［昭源黑體］現代筆形風格，平衡標準字形和印刷體慣用筆形的免費開源黑體字型
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
@@ -2193,6 +2193,7 @@
 
 - [arrow-kt/arrow](https://github.com/arrow-kt/arrow) - Λrrow - Functional companion to Kotlin's Standard Library
 - [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
+- [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [specialprojects-experiments/paperphone](https://github.com/specialprojects-experiments/paperphone) - Paper phone experimental android app
 - [eycorsican/kitsunebi-android](https://github.com/eycorsican/kitsunebi-android) - A fully-featured V2Ray client for Android.
 - [pinterest/ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
@@ -2405,7 +2406,6 @@
 - [opentracing/specification](https://github.com/opentracing/specification) - A place to document (and discuss) the OpenTracing specification
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
-- [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [Kapeli/feeds](https://github.com/Kapeli/feeds) - Collection of Dash docset feeds
 - [gopherchina/conference](https://github.com/gopherchina/conference) - 
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
@@ -2891,6 +2891,7 @@
 
 ## Python 
 
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Python with the scientific stack, compiled to WebAssembly.
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
 - [facebookarchive/redis-faina](https://github.com/facebookarchive/redis-faina) - A query analyzer that parses Redis' MONITOR command for counter/timing stats about query patterns
 - [IronLanguages/ironpython3](https://github.com/IronLanguages/ironpython3) - Implementation of Python 3.x for .NET Framework that is built on top of the Dynamic Language Runtime.
@@ -3700,6 +3701,7 @@
 
 ## TypeScript 
 
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Public Beta 🎉)
 - [Uniswap/uniswap-v3-core](https://github.com/Uniswap/uniswap-v3-core) - 🦄 🦄 🦄 Core smart contracts of Uniswap v3
 - [pixijs/pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
