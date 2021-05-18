@@ -1156,7 +1156,6 @@
 - [plfa/plfa.github.io](https://github.com/plfa/plfa.github.io) - An introduction to programming language theory in Agda
 - [mimblewimble/docs](https://github.com/mimblewimble/docs) - Documentation for Grin and Mimblewimble
 - [harrynull/bilibili_blacklist](https://github.com/harrynull/bilibili_blacklist) - A website to share and manage their bilibili danmaku blacklist.
-- [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails
 - [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
 - [taoqf/node-html-parser](https://github.com/taoqf/node-html-parser) - A very fast HTML parser, generating a simplified DOM, with basic element query support.
 - [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
@@ -2478,6 +2477,7 @@
 - [lorabv/awesome-agile](https://github.com/lorabv/awesome-agile) - Awesome List of resources on Agile Software Development.
 - [HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot) - 🤖 A curated list of awesome Internet of Things projects and resources.
 - [phodal/awesome-iot-projects](https://github.com/phodal/awesome-iot-projects) - Awesome IoT Projects. A collaborative list of great resources about IoT Demos
+- [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails
 - [amio/awesome-micro](https://github.com/amio/awesome-micro) - A collection of awesome things regarding zeit's micro.
 - [vercel/awesome-zeit](https://github.com/vercel/awesome-zeit) - The best resources related to ZEIT
 - [huggingface/awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentation materials from Hugging Face's internal science day
