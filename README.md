@@ -1169,6 +1169,7 @@
 - [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [kangax/compat-table](https://github.com/kangax/compat-table) - ECMAScript 5/6/7 compatibility tables
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
+- [alexeygrigorev/data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [diveintomark/diveintohtml5](https://github.com/diveintomark/diveintohtml5) - Dive Into HTML5 online book
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [incompl/csslayoutsite](https://github.com/incompl/csslayoutsite) - source for learnlayout.com
@@ -1493,6 +1494,7 @@
 
 ## JavaScript 
 
+- [power-assert-js/power-assert](https://github.com/power-assert-js/power-assert) - Power Assert in JavaScript. Provides descriptive assertion messages through standard assert interface. No API is the best API.
 - [youzan/open-sdk-node](https://github.com/youzan/open-sdk-node) - 有赞云网关 SDK for Node
 - [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
@@ -2367,7 +2369,6 @@
 - [gngrwzrd/dribbble-screen-saver](https://github.com/gngrwzrd/dribbble-screen-saver) - Dribbble Screen Saver
 - [jeromelebel/MongoHub-Mac](https://github.com/jeromelebel/MongoHub-Mac) - Mac Native Mongodb Client
 - [waylybaye/XcodeCleaner](https://github.com/waylybaye/XcodeCleaner) - Cleaner for Xcode.app built with react-native-macos
-- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
 - [mortenjust/PocketCastsOSX](https://github.com/mortenjust/PocketCastsOSX) - An unoffical OSX wrapper for Pocketcasts
 - [JunyuKuang/Location-Cleaner](https://github.com/JunyuKuang/Location-Cleaner) - An iOS app to clear location tags from all of your photos and videos in iOS Photo Library.
 - [kevinzhow/PNChart](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan for iOS
@@ -3226,7 +3227,6 @@
 - [rack/rack](https://github.com/rack/rack) - A modular Ruby web server interface.
 - [mina-deploy/mina](https://github.com/mina-deploy/mina) - Blazing fast application deployment tool.
 - [ruby-concurrency/concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby) - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
-- [alexeygrigorev/data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [github/rubocop-github](https://github.com/github/rubocop-github) - Code style checking for GitHub's Ruby projects
 - [jekyll/jekyll-compose](https://github.com/jekyll/jekyll-compose) - :memo: Streamline your writing in Jekyll with these commands.
 - [tuwukee/jwt_sessions](https://github.com/tuwukee/jwt_sessions) - XSS/CSRF safe JWT auth designed for SPA
@@ -3379,6 +3379,7 @@
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [googlefonts/Inconsolata](https://github.com/googlefonts/Inconsolata) - Development repo of Inconsolata Fonts by Raph Levien
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
 
 ## SCSS 
 
