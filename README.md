@@ -693,6 +693,8 @@
 
 ## Go 
 
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow
+- [makeworld-the-better-one/amfora](https://github.com/makeworld-the-better-one/amfora) - A fancy terminal browser for the Gemini protocol.
 - [Finb/bark-server](https://github.com/Finb/bark-server) - Backend of Bark
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
 - [open-lambda/open-lambda](https://github.com/open-lambda/open-lambda) - An open source serverless computing platform
@@ -1144,6 +1146,7 @@
 
 ## HTML 
 
+- [Veykril/tlborm](https://github.com/Veykril/tlborm) - The Little Book of Rust Macros(Updated)
 - [plaintextaccounting/plaintextaccounting.github.io](https://github.com/plaintextaccounting/plaintextaccounting.github.io) - The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co.
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 - [shichao-an/notes](https://github.com/shichao-an/notes) - Shichao's Notes
@@ -1494,6 +1497,10 @@
 
 ## JavaScript 
 
+- [sezna/nps](https://github.com/sezna/nps) - NPM Package Scripts -- All the benefits of npm scripts without the cost of a bloated package.json and limits of json
+- [75lb/command-line-args](https://github.com/75lb/command-line-args) - A mature, feature-complete library to parse command-line options.
+- [jprichardson/node-jsonfile](https://github.com/jprichardson/node-jsonfile) - Easily read/write JSON files.
+- [ilearnio/module-alias](https://github.com/ilearnio/module-alias) - Register aliases of directories and custom module paths in Node
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [power-assert-js/power-assert](https://github.com/power-assert-js/power-assert) - Power Assert in JavaScript. Provides descriptive assertion messages through standard assert interface. No API is the best API.
 - [youzan/open-sdk-node](https://github.com/youzan/open-sdk-node) - 有赞云网关 SDK for Node
@@ -1768,7 +1775,7 @@
 - [asm-js/validator](https://github.com/asm-js/validator) - A reference validator for asm.js.
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (May 2021)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2021)
 - [mhewedy/SBO-video-extension](https://github.com/mhewedy/SBO-video-extension) - Safari Books Online Video Downloder Extension to Google Chrome
 - [Jermolene/TiddlyDesktop](https://github.com/Jermolene/TiddlyDesktop) - A custom desktop browser for TiddlyWiki 5 and TiddlyWiki Classic, based on nw.js
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://github.com/breakdance/breakdance for HTML-to-markdown conversion. Use https://github.com/jonschlinkert/markdown-toc to generate a table of contents.
@@ -2053,7 +2060,7 @@
 - [duckduckgo/duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2021)
 - [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
 - [yanm1ng/hexo-theme-vexo](https://github.com/yanm1ng/hexo-theme-vexo) - 🍟  Vexo is a Hexo theme inspired by Vue's official website.
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
@@ -2390,6 +2397,7 @@
 
 ## Others 
 
+- [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
 - [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios which look like desktop graphical user interfaces
@@ -2817,6 +2825,7 @@
 
 ## PHP 
 
+- [laravel/laravel](https://github.com/laravel/laravel) - A PHP framework for web artisans.
 - [roots/sage](https://github.com/roots/sage) - WordPress starter theme with a modern development workflow
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
@@ -3319,6 +3328,7 @@
 
 ## Rust 
 
+- [DanielKeep/tlborm](https://github.com/DanielKeep/tlborm) - The Little Book of Rust Macros
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 - [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
@@ -3733,6 +3743,11 @@
 
 ## TypeScript 
 
+- [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
+- [typestack/typedi](https://github.com/typestack/typedi) - Simple yet powerful dependency injection tool for JavaScript and TypeScript.
+- [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
+- [seanpmaxwell/express-generator-typescript](https://github.com/seanpmaxwell/express-generator-typescript) - Create a new express app similar to express-generator but with TypeScript
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [dabit3/full-stack-ethereum](https://github.com/dabit3/full-stack-ethereum) - Building full stack apps with Solidity, Ethers.js, Hardhat, and The Graph
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
