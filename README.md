@@ -1506,7 +1506,6 @@
 - [youzan/open-sdk-node](https://github.com/youzan/open-sdk-node) - 有赞云网关 SDK for Node
 - [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - Bringing full-stack to the Jamstack.
 - [austintgriffith/scaffold-eth](https://github.com/austintgriffith/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [newrelic/node-newrelic](https://github.com/newrelic/node-newrelic) - New Relic Node.js agent code base. Developers are welcome to create pull requests here, please see our contributing guidelines. For New Relic technical support, please go to http://support.newrelic.com.
 - [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon and the new Apple M1 Macs
@@ -3749,6 +3748,7 @@
 - [seanpmaxwell/express-generator-typescript](https://github.com/seanpmaxwell/express-generator-typescript) - Create a new express app similar to express-generator but with TypeScript
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - Bringing full-stack to the Jamstack.
 - [dabit3/full-stack-ethereum](https://github.com/dabit3/full-stack-ethereum) - Building full stack apps with Solidity, Ethers.js, Hardhat, and The Graph
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [nomiclabs/hardhat](https://github.com/nomiclabs/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
