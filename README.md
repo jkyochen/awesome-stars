@@ -124,6 +124,7 @@
 
 ## Batchfile 
 
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [tindy2013/stairspeedtest](https://github.com/tindy2013/stairspeedtest) - A small script that can test the stairs' download speed, packet loss and latency. Supports single ss/ssr/v2ray links and their subscribe links.
 - [FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) - 支持更多游戏规则，让SSTap成为真正的“网游加速器”
@@ -2019,7 +2020,7 @@
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [airbnb/hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views
 - [msmbps/msmbps](https://github.com/msmbps/msmbps) - Source code of msmbps
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
@@ -2679,7 +2680,7 @@
 - [git-game/git-game](https://github.com/git-game/git-game) - terminal game to test git skills
 - [izhouping/KPA](https://github.com/izhouping/KPA) - 知识付费套利（Knowledge payment arbitrage）
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
-- [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Projects
+- [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [hexojs/awesome-hexo](https://github.com/hexojs/awesome-hexo) - A curated list of awesome things related to Hexo
 - [wainshine/Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus) - 公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。
 - [ethereum/wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
@@ -4008,7 +4009,7 @@
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
-- [webgems/webgems](https://github.com/webgems/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
+- [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [SaraVieira/tld.party](https://github.com/SaraVieira/tld.party) - Damn, that's a lot of TLD
 - [sunzongzheng/music](https://github.com/sunzongzheng/music) - electron跨平台音乐播放器；可搜网易云、QQ音乐、虾米音乐；支持QQ、微博、Github登录，云歌单; 支持一键导入音乐平台歌单
 - [putianxi/putianxi.github.io](https://github.com/putianxi/putianxi.github.io) - 滚蛋吧！莆田系
