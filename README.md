@@ -1498,6 +1498,7 @@
 
 ## JavaScript 
 
+- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based, round avatars from any username and color palette.
 - [sezna/nps](https://github.com/sezna/nps) - NPM Package Scripts -- All the benefits of npm scripts without the cost of a bloated package.json and limits of json
 - [75lb/command-line-args](https://github.com/75lb/command-line-args) - A mature, feature-complete library to parse command-line options.
 - [jprichardson/node-jsonfile](https://github.com/jprichardson/node-jsonfile) - Easily read/write JSON files.
@@ -3502,7 +3503,7 @@
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
 - [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook
-- [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
 - [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
