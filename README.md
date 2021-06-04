@@ -716,7 +716,7 @@
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) - Concurrency patterns in Go
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
-- [AliyunContainerService/minikube](https://github.com/AliyunContainerService/minikube) - 普大喜奔，官方Minikube提供了完整对国内用户支持，建议参考 https://yq.aliyun.com/articles/221687 或 https://github.com/AliyunContainerService/minikube/wiki 最新支持minikube v1.18.1
+- [AliyunContainerService/minikube](https://github.com/AliyunContainerService/minikube) - 普大喜奔，官方Minikube提供了完整对国内用户支持，建议参考 https://yq.aliyun.com/articles/221687 或 https://github.com/AliyunContainerService/minikube/wiki 最新支持minikube v1.20.0
 - [brigadecore/brigade](https://github.com/brigadecore/brigade) - Event-driven scripting for Kubernetes
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [vmware-tanzu/octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
@@ -2983,7 +2983,7 @@
 - [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 - [lightningnetwork/lightning-rfc](https://github.com/lightningnetwork/lightning-rfc) - Lightning Network Specifications
-- [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Turn your Python and Javascript code into DOT flowcharts
+- [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
 - [bitcoin/bips](https://github.com/bitcoin/bips) - Bitcoin Improvement Proposals
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 - [holzschu/a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
@@ -3744,6 +3744,7 @@
 
 ## TypeScript 
 
+- [projen/projen](https://github.com/projen/projen) - A new generation of project generators
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 - [typestack/typedi](https://github.com/typestack/typedi) - Simple yet powerful dependency injection tool for JavaScript and TypeScript.
 - [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
