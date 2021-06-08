@@ -970,6 +970,7 @@
 - [go-mgo/mgo](https://github.com/go-mgo/mgo) - The MongoDB driver for Go. UNMAINTAINED - SEE BELOW
 - [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+- [pydio/cells](https://github.com/pydio/cells) - Future-proof content collaboration platform
 - [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
@@ -1828,7 +1829,6 @@
 - [levskaya/jslinux-deobfuscated](https://github.com/levskaya/jslinux-deobfuscated) - An old version of Mr. Bellard's JSLinux rewritten to be human readable, hand deobfuscated and annotated.
 - [aceimnorstuvwxz/openwebmonitor](https://github.com/aceimnorstuvwxz/openwebmonitor) - 万能网页监控器，监控物价、订单、出货、外汇、折扣、彩票...无所不能
 - [Song-Li/cross_browser](https://github.com/Song-Li/cross_browser) - This is a project for a browser fingerprinting technique that can track users not only within a single browser but also across different browsers on the same machine.
-- [pydio/cells](https://github.com/pydio/cells) - Future-proof content collaboration platform
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
 - [b3log/baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) - ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。
 - [YinHangCode/homebridge-mi-aqara](https://github.com/YinHangCode/homebridge-mi-aqara) - a homebridge plugin for XiaoMi Aqara plugin.
