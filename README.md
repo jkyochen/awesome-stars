@@ -1171,6 +1171,7 @@
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [jgthms/html-reference](https://github.com/jgthms/html-reference) - HTML Reference: a free guide to all HTML5 elements and attributes
 - [jlord/git-it-electron](https://github.com/jlord/git-it-electron) - :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub
+- [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 - [ElemeFE/node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
@@ -1840,7 +1841,6 @@
 - [supnate/react-geek-time](https://github.com/supnate/react-geek-time) - 极客时间《React 从入门到精通》视频课程示例代码。
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [GoogleChromeLabs/picture-in-picture-chrome-extension](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension) - 
-- [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 - [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [guoxue-study/tongjian](https://github.com/guoxue-study/tongjian) - 资治通鉴易读版
@@ -2956,6 +2956,7 @@
 
 ## Python 
 
+- [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [sandstorm-io/vagrant-spk](https://github.com/sandstorm-io/vagrant-spk) - Packaging tool for Sandstorm
 - [frappe/erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder
@@ -3110,7 +3111,7 @@
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-- [jarun/buku](https://github.com/jarun/buku) - :bookmark: browser-independent bookmark manager
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [deanishe/zothero](https://github.com/deanishe/zothero) - Rapidly search and cite Zotero entries from Alfred
 - [webpy/webpy](https://github.com/webpy/webpy) - web.py is a web framework for python that is as simple as it is powerful.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
@@ -3486,6 +3487,8 @@
 
 ## Shell 
 
+- [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
+- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
 - [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
@@ -3789,6 +3792,9 @@
 
 ## TypeScript 
 
+- [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
+- [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
+- [steveukx/git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
@@ -3830,7 +3836,6 @@
 - [electron-userland/electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [vmware/clarity](https://github.com/vmware/clarity) - UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences
-- [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [streamich/memfs](https://github.com/streamich/memfs) - In-memory filesystem with Node's API
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
@@ -3925,6 +3930,7 @@
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
+- [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [ahkohd/switch-desktop](https://github.com/ahkohd/switch-desktop) - ⚡️ Keyboard-driven commands to navigate your apps faster
 - [marcobiedermann/html-style-guide](https://github.com/marcobiedermann/html-style-guide) - 😎 A style guide that helps you write better, performant, structured, scalable, and maintainable HTML.
