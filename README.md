@@ -564,7 +564,6 @@
 - [Terminus2049/Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
 - [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code 🌅🕶
 - [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
-- [Underwaternya/underwaternya.github.io](https://github.com/Underwaternya/underwaternya.github.io) - Blog
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [d2-projects/d2-daily](https://github.com/d2-projects/d2-daily) - D2 日报
 - [mobybit/hugo-natrium-theme](https://github.com/mobybit/hugo-natrium-theme) - Natrium - A simple responsive Hugo theme
@@ -3144,7 +3143,7 @@
 - [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [ubuntu/microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
-- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and webapp - powerful open source team chat
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [instillai/deep-learning-roadmap](https://github.com/instillai/deep-learning-roadmap) - :satellite: All You Need to Know About Deep Learning - A kick-starter
 - [fuergaosi233/gitbook2pdf](https://github.com/fuergaosi233/gitbook2pdf) - Grab the contents of the gitbook document and convert it to pdf
 - [nervosnetwork/rfcs](https://github.com/nervosnetwork/rfcs) - This repository contains proposals, standards and documentations related to Nervos Network.
@@ -3250,6 +3249,7 @@
 
 ## Ruby 
 
+- [capistrano/capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
 - [junegunn/redis-stat](https://github.com/junegunn/redis-stat) - (UNMAINTAINED) A real-time Redis monitoring tool
 - [mperham/sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby
 - [travisjeffery/timecop](https://github.com/travisjeffery/timecop) - A gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.
@@ -3487,6 +3487,7 @@
 
 ## Shell 
 
+- [YunoHost/example_ynh](https://github.com/YunoHost/example_ynh) - Example package for YunoHost applications.
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -3663,6 +3664,7 @@
 
 ## Swift 
 
+- [davidwernhart/AlDente](https://github.com/davidwernhart/AlDente) - macOS tool to limit maximum charging percentage
 - [Carthage/Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa
 - [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push customed notifications to your iPhone
 - [waylybaye/Swapman](https://github.com/waylybaye/Swapman) - swapfile monitor for macOS Big Sur
@@ -3792,6 +3794,7 @@
 
 ## TypeScript 
 
+- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [steveukx/git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
