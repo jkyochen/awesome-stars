@@ -700,6 +700,7 @@
 
 ## Go 
 
+- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱!
 - [kubernetes-sigs/kubefed](https://github.com/kubernetes-sigs/kubefed) - Kubernetes Cluster Federation
@@ -1047,8 +1048,8 @@
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for data science
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
-- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods
+- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
+- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [gitlabhq/gitlab-shell](https://github.com/gitlabhq/gitlab-shell) - Replacement for gitolite. This repo is a mirror of https://gitlab.com/gitlab-org/gitlab-shell/
 - [qri-io/qri](https://github.com/qri-io/qri) - you're invited to a data party!
@@ -3381,6 +3382,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 - [DanielKeep/tlborm](https://github.com/DanielKeep/tlborm) - The Little Book of Rust Macros
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
