@@ -4022,7 +4022,7 @@
 - [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
-- [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.org
+- [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.com
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
