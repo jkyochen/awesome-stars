@@ -1158,6 +1158,7 @@
 
 ## HTML 
 
+- [w3c/websub](https://github.com/w3c/websub) - WebSub Spec in Social Web Working Group
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
 - [sandstorm-io/sandstorm-app-market](https://github.com/sandstorm-io/sandstorm-app-market) - Sandstorm app market
@@ -1210,7 +1211,7 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [xiaolai/bitcoin-whitepaper-chinese-translation](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation) - 
 - [bradleyboy/bisectercise](https://github.com/bradleyboy/bisectercise) - Practice your git bisect skills
-- [domchristie/turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
+- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [luin/readability](https://github.com/luin/readability) - 📚 Turn any web page into a clean view
 - [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [ccg2018/ClashA](https://github.com/ccg2018/ClashA) - A Android GUI for Clash
@@ -1522,6 +1523,8 @@
 
 ## JavaScript 
 
+- [futurepress/epub.js](https://github.com/futurepress/epub.js) - Enhanced eBooks in the browser.
+- [aaPanel/aaPanel](https://github.com/aaPanel/aaPanel) - Simple but Powerful web-based Control Panel
 - [postmanlabs/newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
 - [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [ondras/my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
@@ -3900,7 +3903,7 @@
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-- [vuejs/vue-devtools](https://github.com/vuejs/vue-devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+- [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
 - [NarHakobyan/awesome-nest-boilerplate](https://github.com/NarHakobyan/awesome-nest-boilerplate) - Awesome NestJS Boilerplate 😍, Typescript 💪, Postgres 🎉, TypeORM 🥳
