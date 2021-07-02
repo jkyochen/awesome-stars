@@ -1523,6 +1523,7 @@
 
 ## JavaScript 
 
+- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [futurepress/epub.js](https://github.com/futurepress/epub.js) - Enhanced eBooks in the browser.
 - [aaPanel/aaPanel](https://github.com/aaPanel/aaPanel) - Simple but Powerful web-based Control Panel
 - [postmanlabs/newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
@@ -2978,6 +2979,7 @@
 
 ## Python 
 
+- [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing.
@@ -3850,7 +3852,7 @@
 - [dabit3/full-stack-ethereum](https://github.com/dabit3/full-stack-ethereum) - Building full stack apps with Solidity, Ethers.js, Hardhat, and The Graph
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [nomiclabs/hardhat](https://github.com/nomiclabs/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
-- [ant-design/ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
+- [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [Uniswap/uniswap-v3-core](https://github.com/Uniswap/uniswap-v3-core) - 🦄 🦄 🦄 Core smart contracts of Uniswap v3
@@ -3994,7 +3996,7 @@
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
 - [dvx/lofi](https://github.com/dvx/lofi) - 🎵🔉 A mini Spotify player with WebGL visualizations.
-- [Eugeny/terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
 - [fabiospampinato/noty](https://github.com/fabiospampinato/noty) - Autosaving sticky note with support for multiple notes without needing multiple windows.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A interplanetary communication platform 🚀
