@@ -234,6 +234,7 @@
 - [ponylang/ponyc](https://github.com/ponylang/ponyc) - :horse: Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 - [cyd01/KiTTY](https://github.com/cyd01/KiTTY) - :computer: KiTTY, a free telnet/ssh client for Windows
 - [github/cmark-gfm](https://github.com/github/cmark-gfm) - GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C
+- [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
 - [containers/conmon](https://github.com/containers/conmon) - An OCI container runtime monitor.
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [SmartisanTech/SmartisanOS_Kernel_Source](https://github.com/SmartisanTech/SmartisanOS_Kernel_Source) - SmartisanOS kernel opensource contain T1Kernel, T2Kernel, U1Kernel(JianGuo), M1Kernel(M1 and M1L), U2ProKernel(JianGuo Pro)
@@ -451,7 +452,6 @@
 - [ton-blockchain/ton](https://github.com/ton-blockchain/ton) - 
 - [percona/percona-xtrabackup](https://github.com/percona/percona-xtrabackup) - Open source hot backup tool for InnoDB and XtraDB databases
 - [slankdev/stcp](https://github.com/slankdev/stcp) - A High Performance Network Stack using DPDK.
-- [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
@@ -2031,7 +2031,7 @@
 - [klaussinani/ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app
 - [cubedro/eth-netstats](https://github.com/cubedro/eth-netstats) - Ethereum Network Stats
 - [xdan/jodit](https://github.com/xdan/jodit) - Jodit - Best WYSIWYG Editor for You
-- [Alex-D/Trumbowyg](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor - 20kB only (8kB gzip)
+- [Alex-D/Trumbowyg](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor under 10kB
 - [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [summernote/summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
 - [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
@@ -2987,6 +2987,7 @@
 
 ## Python 
 
+- [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
