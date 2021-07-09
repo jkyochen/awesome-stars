@@ -132,6 +132,7 @@
 
 ## C 
 
+- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [h2o/h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
 - [tats/w3m](https://github.com/tats/w3m) - Debian's w3m: WWW browsable pager
@@ -368,6 +369,7 @@
 
 ## C++ 
 
+- [o3de/o3de](https://github.com/o3de/o3de) - Source for fully featured AAA Open 3D Engine
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - UCI chess engine
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
@@ -1284,7 +1286,6 @@
 - [w3c/clreq](https://github.com/w3c/clreq) - Requirements for Chinese Text Layout
 - [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [una/una.github.io](https://github.com/una/una.github.io) - Redesign of my blog to match my new portfolio :) and migrate off of Tumblr
-- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [sckott/cowsay](https://github.com/sckott/cowsay) - cowsay w/ more animals, in R
 - [zhe/hugo-theme-slim](https://github.com/zhe/hugo-theme-slim) - Hugo theme—Slim
 - [rohanchandra/type-theme](https://github.com/rohanchandra/type-theme) - A free and open-source Jekyll theme with responsive design. Great for blogs and easy to customize.
@@ -1337,6 +1338,7 @@
 
 ## Java 
 
+- [donmor/Tiddloid](https://github.com/donmor/Tiddloid) - Tiddloid is an app to work with locally stored TiddlyWikis.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Framework is a flexible lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process extract maximum of information from everyday testing process.
 - [sonatype/nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Manager; Open-source codebase mirror
@@ -2322,7 +2324,6 @@
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [servicemesher/istio-handbook](https://github.com/servicemesher/istio-handbook) - Istio Service Mesh Advanced Practical - Istio服务网格进阶实战 https://www.servicemesher.com/istio-handbook/
 - [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
-- [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [holzschu/python_ios](https://github.com/holzschu/python_ios) - Python-2.7.13, ported to iOS, with partial fork/exec
 - [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
 - [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
@@ -2364,6 +2365,7 @@
 
 - [ocaml/ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
 - [ocaml/dune](https://github.com/ocaml/dune) - A composable build system for OCaml.
+- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 
 ## Objective-C 
 
@@ -3627,6 +3629,7 @@
 - [termux/termux-packages](https://github.com/termux/termux-packages) - Android terminal and Linux environment - packages repository.
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
+- [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [iljaiwas/objc-run](https://github.com/iljaiwas/objc-run) - A shell script that makes it easy to use Objective-C files for shell script-like tasks.
 - [rainglow/vscode](https://github.com/rainglow/vscode) - 320+ color themes for Visual Studio Code.
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
