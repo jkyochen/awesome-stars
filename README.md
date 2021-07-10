@@ -2992,6 +2992,7 @@
 
 ## Python 
 
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, and 3.9.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
 - [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
@@ -3845,6 +3846,7 @@
 
 ## TypeScript 
 
+- [strongloop/loopback-next](https://github.com/strongloop/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 - [lukeautry/tsoa](https://github.com/lukeautry/tsoa) - Build OpenAPI-compliant REST APIs using TypeScript and Node
 - [thiagobustamante/typescript-rest](https://github.com/thiagobustamante/typescript-rest) - This is a lightweight annotation-based expressjs extension for typescript.
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
@@ -4042,7 +4044,7 @@
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [Ovilia/moonight](https://github.com/Ovilia/moonight) - 音频手绘可视化 - 今夜月色真美
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
-- [pedronauck/docz](https://github.com/pedronauck/docz) - ✍ It has never been so easy to document your things!
+- [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [compodoc/compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application
 - [wasdk/WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio) - Learn, Teach, Work and Play in the WebAssembly Studio
 - [lyyourc/blog](https://github.com/lyyourc/blog) - 
