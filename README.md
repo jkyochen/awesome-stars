@@ -1047,7 +1047,7 @@
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
-- [inlets/inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
+- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel
 - [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
 - [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
 - [9seconds/mtg](https://github.com/9seconds/mtg) - Highly opionated MTPROTO proxy for Telegram
@@ -1534,6 +1534,7 @@
 
 ## JavaScript 
 
+- [Kshitij-Banerjee/Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - Game: Create the number 2048. Cubes with same number merge!
 - [mcollina/autocannon](https://github.com/mcollina/autocannon) - fast HTTP/1.1 benchmarking tool written in Node.js
 - [kimmobrunfeldt/concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
@@ -2997,6 +2998,7 @@
 
 ## Python 
 
+- [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, and 3.9.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
 - [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
@@ -3410,7 +3412,7 @@
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [imathis/octopress](https://github.com/imathis/octopress) - Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [tootsuite/mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [erikwiffin/0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
@@ -3420,6 +3422,7 @@
 
 ## Rust 
 
+- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
@@ -3506,7 +3509,7 @@
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [harttle/harttle.github.io](https://github.com/harttle/harttle.github.io) - Harttle Land 的源码和文章
 - [pinggod/hexo-theme-apollo](https://github.com/pinggod/hexo-theme-apollo) - 🌅 a concise hexo theme
-- [tootsuite/documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
+- [mastodon/documentation](https://github.com/mastodon/documentation) - Full documentation repository for Mastodon
 - [tufu9441/maupassant-hexo](https://github.com/tufu9441/maupassant-hexo) - A simple Hexo theme forked from icylogic.
 - [zchen9/zchen9.github.io](https://github.com/zchen9/zchen9.github.io) - Yeah It's nice shot ：）
 
