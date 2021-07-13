@@ -629,7 +629,6 @@
 
 ## CoffeeScript 
 
-- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [fedwiki/wiki](https://github.com/fedwiki/wiki) - Federated Wiki - node server as npm package
 - [mzlogin/chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines) - Chinese Copywriting Guidelines：中文文案排版指北（简体中文版）
 - [yakyak/yakyak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts
@@ -1534,6 +1533,7 @@
 
 ## JavaScript 
 
+- [medialize/URI.js](https://github.com/medialize/URI.js) - Javascript URL mutation library
 - [Kshitij-Banerjee/Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - Game: Create the number 2048. Cubes with same number merge!
 - [mcollina/autocannon](https://github.com/mcollina/autocannon) - fast HTTP/1.1 benchmarking tool written in Node.js
 - [kimmobrunfeldt/concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
@@ -1641,6 +1641,7 @@
 - [z-pattern-matching/z](https://github.com/z-pattern-matching/z) - Pattern Matching for Javascript
 - [NetEase/pomelo](https://github.com/NetEase/pomelo) - A fast,scalable,distributed game server framework for Node.js.
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
+- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [sinonjs/sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
 - [cnodejs/nodeclub](https://github.com/cnodejs/nodeclub) - :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
