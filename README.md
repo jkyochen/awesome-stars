@@ -835,7 +835,7 @@
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [xo/xo](https://github.com/xo/xo) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
 - [micro/micro](https://github.com/micro/micro) - Micro is a cloud platform for API development
-- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a standalone framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 - [bouk/monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
@@ -1339,6 +1339,7 @@
 
 ## Java 
 
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine.
 - [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
 - [donmor/Tiddloid](https://github.com/donmor/Tiddloid) - Tiddloid is an app to work with locally stored TiddlyWikis.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -3856,6 +3857,7 @@
 
 ## TypeScript 
 
+- [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - Open source visualization dashboards for OpenSearch.
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [graphql-nexus/nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction
 - [strongloop/loopback-next](https://github.com/strongloop/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
