@@ -2297,6 +2297,7 @@
 - [nickbutcher/plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design.
 - [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 - [JetBrains/gradle-intellij-plugin](https://github.com/JetBrains/gradle-intellij-plugin) - Gradle plugin for building plugins for IntelliJ-based IDEs
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ## Less 
 
@@ -2879,7 +2880,6 @@
 - [seabornlee/Study-Group](https://github.com/seabornlee/Study-Group) - 让生活更有意思，让生命更有意义
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
 - [ethanfu/Documents](https://github.com/ethanfu/Documents) - 主要包括自己的一些经验总结
 - [ruby-china/the-rails-doctrine](https://github.com/ruby-china/the-rails-doctrine) - The Rails Doctrine 简体中文翻译
