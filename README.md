@@ -414,7 +414,7 @@
 - [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 - [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - 
-- [zhedahht/CodingInterviewChinese2](https://github.com/zhedahht/CodingInterviewChinese2) - 《剑指Offer》第二版源代码
+- [zhedahht/CodingInterviewChinese2](https://github.com/zhedahht/CodingInterviewChinese2) - 《剑指Offer：名企面试官精讲典型编程面试题》第二版源代码
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [libbitcoin/libbitcoin-explorer](https://github.com/libbitcoin/libbitcoin-explorer) - Bitcoin Command Line Tool
@@ -777,7 +777,7 @@
 - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
 - [ethersphere/swarm](https://github.com/ethersphere/swarm) - Swarm: Censorship resistant storage and communication infrastructure for a truly sovereign digital society
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
-- [preslavmihaylov/todocheck](https://github.com/preslavmihaylov/todocheck) - A static code analyzer for annotated TODO comments
+- [preslavmihaylov/todocheck](https://github.com/preslavmihaylov/todocheck) - A static code analyser for annotated TODO comments
 - [stashed/stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
