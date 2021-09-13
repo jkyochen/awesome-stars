@@ -241,7 +241,6 @@
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [isc-projects/bind9](https://github.com/isc-projects/bind9) - Mirror of https://gitlab.isc.org/isc-projects/bind9, please submit issues and PR/MRs in the GitLab. Any issues and PRs opened here will be closed without a comment.
-- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) - OSv, a new operating system for the cloud.
 - [libvirt/libvirt](https://github.com/libvirt/libvirt) - Read-only mirror. Please submit merge requests / issues to https://gitlab.com/libvirt/libvirt
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
@@ -392,7 +391,7 @@
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [nasa/fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
-- [o3de/o3de](https://github.com/o3de/o3de) - Source for O3DE (Open 3D Engine)
+- [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - UCI chess engine
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
@@ -477,6 +476,7 @@
 - [haoel/leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
 - [ton-blockchain/ton](https://github.com/ton-blockchain/ton) - 
 - [percona/percona-xtrabackup](https://github.com/percona/percona-xtrabackup) - Open source hot backup tool for InnoDB and XtraDB databases
+- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [slankdev/stcp](https://github.com/slankdev/stcp) - A High Performance Network Stack using DPDK.
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
@@ -558,7 +558,7 @@
 ## CSS 
 
 - [egoist/hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
-- [austintgriffith/scaffold-eth](https://github.com/austintgriffith/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
+- [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [heroku/12factor](https://github.com/heroku/12factor) - 
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
@@ -728,6 +728,7 @@
 
 ## Go 
 
+- [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [nakabonne/pbgopy](https://github.com/nakabonne/pbgopy) - Copy and paste between devices
 - [karan/joe](https://github.com/karan/joe) - :running: A .gitignore magician in your command line
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
@@ -1309,7 +1310,6 @@
 - [dashdashzako/paperback](https://github.com/dashdashzako/paperback) - Theme for Hugo static website engine
 - [w3c/jlreq](https://github.com/w3c/jlreq) - Text Layout Requirements for Japanese
 - [w3c/clreq](https://github.com/w3c/clreq) - Requirements for Chinese Text Layout
-- [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [una/una.github.io](https://github.com/una/una.github.io) - Redesign of my blog to match my new portfolio :) and migrate off of Tumblr
 - [sckott/cowsay](https://github.com/sckott/cowsay) - cowsay w/ more animals, in R
 - [zhe/hugo-theme-slim](https://github.com/zhe/hugo-theme-slim) - Hugo theme—Slim
@@ -1369,6 +1369,7 @@
 
 ## Java 
 
+- [JodaOrg/joda-time](https://github.com/JodaOrg/joda-time) - Joda-Time is the widely used replacement for the Java date and time classes prior to Java SE 8.
 - [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 - [remkop/picocli](https://github.com/remkop/picocli) - Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more.  In 1 source file so apps can include as source & avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc.
 - [angryip/ipscan](https://github.com/angryip/ipscan) - Angry IP Scanner - fast and friendly network scanner
@@ -1676,7 +1677,7 @@
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [Nuclides/github-highlight-selected](https://github.com/Nuclides/github-highlight-selected) - Chrome extension for highlighting selected word in GitHub source view like Sublime Text.
 - [FrontendMasters/front-end-handbook](https://github.com/FrontendMasters/front-end-handbook) - The resources and tools for learning about the practice of front-end development.
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Tiny local JSON database for small projects (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Local JSON database for small projects (supports Node, Electron and the browser)
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [LasCC/Hack-Tools](https://github.com/LasCC/Hack-Tools) - The all-in-one Red Team extension for Web Pentester 🛠
 - [getify/asynquence](https://github.com/getify/asynquence) - Asynchronous flow control (promises, generators, observables, CSP, etc)
@@ -1805,14 +1806,13 @@
 - [AlloyTeam/eslint-config-alloy](https://github.com/AlloyTeam/eslint-config-alloy) - Progressive ESLint config for your React/Vue/TypeScript projects
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [dcodeIO/bcrypt.js](https://github.com/dcodeIO/bcrypt.js) - Optimized bcrypt in plain JavaScript with zero dependencies.
-- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [rkusa/koa-passport](https://github.com/rkusa/koa-passport) - Passport middleware for Koa
 - [Vincit/objection.js](https://github.com/Vincit/objection.js) - An SQL-friendly ORM for Node.js
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
 - [koajs/examples](https://github.com/koajs/examples) - Example Koa apps
 - [crypto-utils/keygrip](https://github.com/crypto-utils/keygrip) - Key signing and verification for rotated credentials
 - [eggjs/egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
-- [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [restify/node-restify](https://github.com/restify/node-restify) - The future of Node.js REST development
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
@@ -2165,6 +2165,7 @@
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2021)
 - [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
+- [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [yanm1ng/hexo-theme-vexo](https://github.com/yanm1ng/hexo-theme-vexo) - 🍟  Vexo is a Hexo theme inspired by Vue's official website.
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
@@ -2313,6 +2314,7 @@
 - [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
 - [SophonPlus/ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) - 搜集、整理、发布 中文 自然语言处理 语料/数据集，与 有志之士 共同 促进 中文 自然语言处理 的 发展。
 - [DeqianBai/Your-first-machine-learning-Project---End-to-End-in-Python](https://github.com/DeqianBai/Your-first-machine-learning-Project---End-to-End-in-Python) - 这是一个完整的，端到端的机器学习项目，非常适合有一定基础后拿来练习，以提高对完整机器学习项目的认识
+- [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [abruzzi/health-recording](https://github.com/abruzzi/health-recording) - Some funny visualisation for my daughter 心心.
 - [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
@@ -2516,6 +2518,8 @@
 
 ## Others 
 
+- [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) - Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)
+- [the-via/releases](https://github.com/the-via/releases) - 
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
 - [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
@@ -3099,7 +3103,7 @@
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, and tummy time to learn about and predict baby's needs without (as much) guess work.
 - [sandstorm-io/vagrant-spk](https://github.com/sandstorm-io/vagrant-spk) - Packaging tool for Sandstorm
-- [frappe/erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -3723,7 +3727,7 @@
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
 - [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
-- [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
+- [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
 - [gliderlabs/docker-alpine](https://github.com/gliderlabs/docker-alpine) - Alpine Linux Docker image. Win at minimalism!
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [jhillyerd/plugin-git](https://github.com/jhillyerd/plugin-git) - Git plugin for Oh My Fish  (similar to oh-my-zsh git)
@@ -3964,6 +3968,7 @@
 
 ## TypeScript 
 
+- [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [mrmartineau/gatsby-theme-code-notes](https://github.com/mrmartineau/gatsby-theme-code-notes) - A Gatsby theme for publishing code-related notes to your website
 - [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
@@ -4166,7 +4171,6 @@
 - [meowtec/Imagine](https://github.com/meowtec/Imagine) - 🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.
 - [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor —— 轻量级web富文本框
 - [ayu-theme/ayu-colors](https://github.com/ayu-theme/ayu-colors) - The ayu color scheme as a color palette
-- [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 - [felixhao28/JSCPP](https://github.com/felixhao28/JSCPP) - A simple C++ interpreter written in JavaScript
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [Ovilia/moonight](https://github.com/Ovilia/moonight) - 音频手绘可视化 - 今夜月色真美
