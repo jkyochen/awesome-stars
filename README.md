@@ -135,6 +135,7 @@
 
 ## C 
 
+- [Lotlab/nrf52-keyboard](https://github.com/Lotlab/nrf52-keyboard) - A ble keyboard firmware using nrf52810/52832
 - [irssi/irssi](https://github.com/irssi/irssi) - The client of the future
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
@@ -516,11 +517,9 @@
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [dannagle/PacketSender](https://github.com/dannagle/PacketSender) - Network utility for sending / receiving TCP, UDP, SSL
-- [Tencent/mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [EOSIO/eosio.cdt](https://github.com/EOSIO/eosio.cdt) - EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts
 - [EOSIO/eosio.contracts](https://github.com/EOSIO/eosio.contracts) - Smart contracts that provide some of the basic functions of the EOSIO blockchain
-- [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 - [Lexikos/AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
@@ -742,7 +741,7 @@
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱!
 - [kubernetes-sigs/kubefed](https://github.com/kubernetes-sigs/kubefed) - Kubernetes Cluster Federation
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management. Powered by Go and Google TensorFlow! 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow 🌈
 - [makeworld-the-better-one/amfora](https://github.com/makeworld-the-better-one/amfora) - A fancy terminal browser for the Gemini protocol.
 - [Finb/bark-server](https://github.com/Finb/bark-server) - Backend of Bark
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
@@ -865,7 +864,7 @@
 - [Jrohy/trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [xo/xo](https://github.com/xo/xo) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
-- [micro/micro](https://github.com/micro/micro) - Micro is a cloud operating system
+- [micro/micro](https://github.com/micro/micro) - Micro is an operating system for the cloud
 - [asim/go-micro](https://github.com/asim/go-micro) - A Go framework for distributed systems development
 - [bouk/monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
@@ -1315,6 +1314,7 @@
 - [zhe/hugo-theme-slim](https://github.com/zhe/hugo-theme-slim) - Hugo theme—Slim
 - [rohanchandra/type-theme](https://github.com/rohanchandra/type-theme) - A free and open-source Jekyll theme with responsive design. Great for blogs and easy to customize.
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
+- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 - [velveteer/inextinguishable](https://github.com/velveteer/inextinguishable) - Super duper minimal theme for Ghost.
 - [openresty/openresty.org](https://github.com/openresty/openresty.org) - Code and data for the openresty.org site
@@ -1442,7 +1442,7 @@
 - [internetarchive/heritrix3](https://github.com/internetarchive/heritrix3) - Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
 - [PureWriter/desktop](https://github.com/PureWriter/desktop) - Pure Writer Desktop
-- [ffay/lanproxy](https://github.com/ffay/lanproxy) - lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面...）。目前市面上提供类似服务的有花生壳、TeamView、GoToMyCloud等等，但要使用第三方的公网服务器就必须为第三方付费，并且这些服务都有各种各样的限制，此外，由于数据包会流经第三方，因此对数据安全也是一大隐患。技术交流QQ群 1067424330
+- [ffay/lanproxy](https://github.com/ffay/lanproxy) - lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面、http代理、https代理、socks5代理...）。技术交流QQ群 1067424330
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
 - [k9mail/k-9](https://github.com/k9mail/k-9) - K-9 Mail – Open Source Email App for Android
@@ -1567,6 +1567,7 @@
 
 ## JavaScript 
 
+- [Miodec/monkeytype](https://github.com/Miodec/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [afc163/fanyi](https://github.com/afc163/fanyi) - A 🇨🇳 and 🇺🇸 translate tool in your command line.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
@@ -1677,7 +1678,7 @@
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [Nuclides/github-highlight-selected](https://github.com/Nuclides/github-highlight-selected) - Chrome extension for highlighting selected word in GitHub source view like Sublime Text.
 - [FrontendMasters/front-end-handbook](https://github.com/FrontendMasters/front-end-handbook) - The resources and tools for learning about the practice of front-end development.
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Local JSON database for small projects (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [LasCC/Hack-Tools](https://github.com/LasCC/Hack-Tools) - The all-in-one Red Team extension for Web Pentester 🛠
 - [getify/asynquence](https://github.com/getify/asynquence) - Asynchronous flow control (promises, generators, observables, CSP, etc)
@@ -2183,7 +2184,6 @@
 - [hammerjs/hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - jQuery Validation Plugin library sources
 - [xmcp/pakku.js](https://github.com/xmcp/pakku.js) - 拯救B站的弹幕体验！
-- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
@@ -2321,6 +2321,7 @@
 
 ## Kotlin 
 
+- [Jays2Kings/tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) - Free and open source manga reader for Android
 - [ktorio/ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
 - [arrow-kt/arrow](https://github.com/arrow-kt/arrow) - Λrrow - Functional companion to Kotlin's Standard Library
 - [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
@@ -2356,6 +2357,7 @@
 
 ## Lua 
 
+- [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
@@ -2518,6 +2520,7 @@
 
 ## Others 
 
+- [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) - Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)
 - [the-via/releases](https://github.com/the-via/releases) - 
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
@@ -2626,6 +2629,7 @@
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [tianmingyun/MasterBitcoin2CN](https://github.com/tianmingyun/MasterBitcoin2CN) - 《精通比特币》第二版  区块链研习社 云天明联合出品。本书更名《精通区块链编程第二版》已由机械工业出版社出版，京东有售。
 - [planetopendata/awesome-sqlite](https://github.com/planetopendata/awesome-sqlite) - A collection of awesome sqlite tools, scripts, books, etc
+- [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - 🎉 Design patterns for humans 中文版
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [portable-cto/side-project-marketing](https://github.com/portable-cto/side-project-marketing) - A checklist of tactics for marketing your side projects.
@@ -2988,7 +2992,6 @@
 - [laravel/valet](https://github.com/laravel/valet) - 
 - [basicmi/AI-Chip](https://github.com/basicmi/AI-Chip) - A list of ICs and IPs for AI, Machine Learning and Deep Learning.
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
-- [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - 🎉 Design patterns for humans 中文版
 - [leokhoa/laragon](https://github.com/leokhoa/laragon) - Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
@@ -3406,7 +3409,7 @@
 - [Homebrew/homebrew-command-not-found](https://github.com/Homebrew/homebrew-command-not-found) - 🔍 Ubuntu’s command-not-found equivalent for Homebrew on macOS
 - [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services) - 🚀 Manage background services with macOS' launchctl daemon manager
 - [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 🖨 Casks of Drivers
-- [puma/puma](https://github.com/puma/puma) - A Ruby/Rack web server built for concurrency
+- [puma/puma](https://github.com/puma/puma) - A Ruby/Rack web server built for parallelism
 - [Kapeli/cheatsheets](https://github.com/Kapeli/cheatsheets) - Collection of Dash cheat sheets
 - [jeremyevans/sequel](https://github.com/jeremyevans/sequel) - Sequel: The Database Toolkit for Ruby
 - [jeremycole/innodb_ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby
@@ -3592,6 +3595,7 @@
 
 ## SCSS 
 
+- [zutrinken/attila](https://github.com/zutrinken/attila) - Ghost Theme
 - [pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [emilbaehr/automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) - A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
@@ -3834,6 +3838,7 @@
 
 ## Swift 
 
+- [apple/swift-algorithms](https://github.com/apple/swift-algorithms) - Commonly used sequence and collection algorithms for Swift
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [tatsuz0u/EhPanda](https://github.com/tatsuz0u/EhPanda) - An unofficial E-Hentai App for iOS built with SwiftUI.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
@@ -3968,6 +3973,7 @@
 
 ## TypeScript 
 
+- [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [mrmartineau/gatsby-theme-code-notes](https://github.com/mrmartineau/gatsby-theme-code-notes) - A Gatsby theme for publishing code-related notes to your website
 - [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
@@ -4009,7 +4015,7 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
-- [Uniswap/uniswap-v3-core](https://github.com/Uniswap/uniswap-v3-core) - 🦄 🦄 🦄 Core smart contracts of Uniswap v3
+- [Uniswap/v3-core](https://github.com/Uniswap/v3-core) - 🦄 🦄 🦄 Core smart contracts of Uniswap v3
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
@@ -4073,7 +4079,7 @@
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript empowers you to access native api's from JavaScript directly. Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript empowers you to access native platform APIs from JavaScript directly. Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [Brooooooklyn/ts-import-plugin](https://github.com/Brooooooklyn/ts-import-plugin) - babel-import-plugin TypeScript Implement
