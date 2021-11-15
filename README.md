@@ -137,6 +137,8 @@
 
 ## C 
 
+- [waveshare/e-Paper](https://github.com/waveshare/e-Paper) - 
+- [shuveb/zerohttpd](https://github.com/shuveb/zerohttpd) - A simple HTTP server written from scratch as a teaching tool to teach Unix network program architectures
 - [Lotlab/nrf52-keyboard](https://github.com/Lotlab/nrf52-keyboard) - A ble keyboard firmware using nrf52810/52832
 - [irssi/irssi](https://github.com/irssi/irssi) - The client of the future
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
@@ -315,7 +317,7 @@
 - [mackyle/sqlite](https://github.com/mackyle/sqlite) - Unofficial git mirror of SQLite sources (see link for build instructions)
 - [zydeco/minivmac4ios](https://github.com/zydeco/minivmac4ios) - Mini vMac for iOS
 - [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
-- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
 - [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
@@ -770,7 +772,7 @@
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) - Concurrency patterns in Go
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
-- [AliyunContainerService/minikube](https://github.com/AliyunContainerService/minikube) - 普大喜奔，官方Minikube提供了完整对国内用户支持，建议参考 https://yq.aliyun.com/articles/221687 或 https://github.com/AliyunContainerService/minikube/wiki 最新支持minikube v1.23.1
+- [AliyunContainerService/minikube](https://github.com/AliyunContainerService/minikube) - 普大喜奔，官方Minikube提供了完整对国内用户支持，完美支持Addon组件。 建议参考 https://yq.aliyun.com/articles/221687 或 https://github.com/AliyunContainerService/minikube/wiki 最新支持minikube v1.24.0
 - [brigadecore/brigade](https://github.com/brigadecore/brigade) - Event-driven scripting for Kubernetes
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [vmware-tanzu/octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
@@ -874,7 +876,7 @@
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [xo/xo](https://github.com/xo/xo) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
 - [micro/micro](https://github.com/micro/micro) - Micro is a distributed cloud operating system
-- [asim/go-micro](https://github.com/asim/go-micro) - A Go framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - A pluggable Go framework for distributed systems development
 - [bouk/monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
@@ -1137,7 +1139,7 @@
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [syncsynchalt/illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS Connection: Every byte explained
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, Hadoop, WebDAV, encryption, Erasure Coding.
+- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
 - [nikitavoloboev/alfred-learn-anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Alfred workflow to search Learn Anything
 - [nikitavoloboev/small-workflows](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use
@@ -1487,7 +1489,6 @@
 - [Exrick/xpay](https://github.com/Exrick/xpay) - XPay个人免签收款支付系统 完全免费 资金直接到达本人账号 支持 支付宝 微信 QQ 云闪付 无需备案 无需签约 无需挂机监控APP 无需插件 无需第三方支付SDK 无需营业执照身份证 只需收款码 搞定支付流程 现已支持移动端支付
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
-- [urbandroid-team/dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
 - [SplashCodes/JAViewer](https://github.com/SplashCodes/JAViewer) - 更优雅的驾车体验
 - [sofastack/sofa-boot](https://github.com/sofastack/sofa-boot) - SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc.
 - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
@@ -1608,7 +1609,6 @@
 - [documentationjs/documentation](https://github.com/documentationjs/documentation) - :book: documentation for modern JavaScript
 - [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [futurepress/epub.js](https://github.com/futurepress/epub.js) - Enhanced eBooks in the browser.
-- [aaPanel/aaPanel](https://github.com/aaPanel/aaPanel) - Simple but Powerful web-based Control Panel
 - [postmanlabs/newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
 - [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
@@ -2045,6 +2045,7 @@
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [NUKnightLab/juxtapose](https://github.com/NUKnightLab/juxtapose) - JuxtaposeJS is a JavaScript library for making before/after image sliders
 - [rafeca/prettyjson](https://github.com/rafeca/prettyjson) - Package for formatting JSON data in a coloured YAML-style, perfect for CLI output
+- [urbandroid-team/dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
 - [node-ffi-napi/node-ffi-napi](https://github.com/node-ffi-napi/node-ffi-napi) - A foreign function interface (FFI) for Node.js, N-API style
 - [socketio/engine.io](https://github.com/socketio/engine.io) - 
 - [40PK/Chad](https://github.com/40PK/Chad) - Advanced features for publishing in the Telegram channels.
@@ -2106,7 +2107,7 @@
 - [kkga/spacegray](https://github.com/kkga/spacegray) - A Hyperminimal UI Theme for Sublime Text
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [jxnblk/blog](https://github.com/jxnblk/blog) - Personal blog on design & development
-- [mdx-js/mdx](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [ihapp/HyperApps](https://github.com/ihapp/HyperApps) - 
 - [sergeche/emmet-sublime](https://github.com/sergeche/emmet-sublime) - Emmet for Sublime Text
 - [dhanishgajjar/vscode-icons](https://github.com/dhanishgajjar/vscode-icons) - Custom Visual Studio Code Icons
@@ -2469,7 +2470,7 @@
 - [objective-see/DoNotDisturb](https://github.com/objective-see/DoNotDisturb) - Detect Evil Maid Attacks
 - [objective-see/ReiKey](https://github.com/objective-see/ReiKey) - Malware and other applications may install persistent keyboard "event taps" to intercept your keystrokes. ReiKey can scan, detect, and monitor for such taps!
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
-- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [surge-networks/Elpass-Core](https://github.com/surge-networks/Elpass-Core) - The encryption part of Elpass source code
 - [yo-op/sketchcachecleaner](https://github.com/yo-op/sketchcachecleaner) - 💻 Sketch Cache Cleaner - Deletes hidden Sketch history files that can take a lot of space on your hard drive and that you would probably never use.
 - [liquidx/webviewscreensaver](https://github.com/liquidx/webviewscreensaver) - Mac OS X Screen Saver powered by a Web View
@@ -2651,7 +2652,7 @@
 - [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - Design patterns for humans 中文版 - 对设计模式超简单的解释
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
-- [portable-cto/side-project-marketing](https://github.com/portable-cto/side-project-marketing) - A checklist of tactics for marketing your side projects.
+- [draftdev/startup-marketing-checklist](https://github.com/draftdev/startup-marketing-checklist) - A checklist of tactics for marketing your startup.
 - [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design) - 🎨 A curated list of awesome resources for digital designers.
 - [gokulkrishh/awesome-meta-and-manifest](https://github.com/gokulkrishh/awesome-meta-and-manifest) - ⚡ Awesome collection of meta tags & manifest properties.
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by http://sdclabs.com
@@ -3120,6 +3121,7 @@
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, and 3.9.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
 - [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+- [aaPanel/aaPanel](https://github.com/aaPanel/aaPanel) - Simple but Powerful web-based Control Panel
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing.
@@ -3646,6 +3648,7 @@
 
 ## Scala 
 
+- [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 - [scala-js/scala-js](https://github.com/scala-js/scala-js) - Scala.js, the Scala to JavaScript compiler
 - [mesosphere/marathon](https://github.com/mesosphere/marathon) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
@@ -4120,7 +4123,7 @@
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
 - [rbuckton/reflect-metadata](https://github.com/rbuckton/reflect-metadata) - Prototype for a Metadata Reflection API for ECMAScript
 - [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [bitcoinjs/bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - A javascript Bitcoin library for node.js and browsers.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Extensible Build Framework
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
@@ -4298,7 +4301,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js :heart:
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
 - [chaitin/xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [cuiocean/ZY-Player](https://github.com/cuiocean/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
