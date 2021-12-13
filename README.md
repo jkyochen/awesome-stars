@@ -259,7 +259,6 @@
 - [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - [traviscross/mtr](https://github.com/traviscross/mtr) - Official repository for mtr, a network diagnostic tool
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [pwn20wndstuff/Undecimus](https://github.com/pwn20wndstuff/Undecimus) - unc0ver jailbreak for iOS 11.0 - 12.4
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -728,6 +727,7 @@
 
 ## Go 
 
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms Implemented in GoLang
 - [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [linkedin/Burrow](https://github.com/linkedin/Burrow) - Kafka Consumer Lag Checking
@@ -857,7 +857,7 @@
 - [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
 - [census-instrumentation/opencensus-go](https://github.com/census-instrumentation/opencensus-go) - A stats collection and distributed tracing framework
 - [dimfeld/httptreemux](https://github.com/dimfeld/httptreemux) - High-speed, flexible tree-based HTTP router for Go.
-- [openzipkin/zipkin-go](https://github.com/openzipkin/zipkin-go) - Zipkin tracer library for go
+- [openzipkin/zipkin-go](https://github.com/openzipkin/zipkin-go) - Zipkin distributed tracing library for go.
 - [googollee/go-socket.io](https://github.com/googollee/go-socket.io) - socket.io library for golang, a realtime application framework.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [campoy/embedmd](https://github.com/campoy/embedmd) - embedmd: embed code into markdown and keep everything in sync
@@ -1024,6 +1024,7 @@
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 - [pydio/cells](https://github.com/pydio/cells) - Future-proof content collaboration platform
 - [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
+- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
@@ -1718,7 +1719,7 @@
 - [auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
-- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
+- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
 - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 - [forwardemail/free-email-forwarding](https://github.com/forwardemail/free-email-forwarding) - The best free email forwarding for custom domains.  Visit our website to get started (SMTP server)
 - [BoxFactura/pulltorefresh.js](https://github.com/BoxFactura/pulltorefresh.js) - A quick and powerful plugin for your pull-to-refresh needs in your webapp.
@@ -1873,7 +1874,7 @@
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [facebook/flux](https://github.com/facebook/flux) - Application Architecture for Building User Interfaces
 - [chaijs/chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
-- [popperjs/popper-core](https://github.com/popperjs/popper-core) - 🍿Positioning tooltips and popovers is difficult. Popper is here to help!
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - 🍿 JavaScript positioning library for tooltips, popovers, dropdowns, and more
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
@@ -2407,6 +2408,7 @@
 
 ## Markdown 
 
+- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [apple/swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 - [lightning/bolts](https://github.com/lightning/bolts) - BOLT: Basis of Lightning Technology (Lightning Network Specifications)
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
@@ -2602,7 +2604,6 @@
 - [LingCoder/OnJava8](https://github.com/LingCoder/OnJava8) - 《On Java 8》中文版
 - [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [AdguardTeam/AdguardForMac](https://github.com/AdguardTeam/AdguardForMac) - Open bug tracker for Mac version of AdGuard
-- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
 - [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
@@ -3018,7 +3019,7 @@
 - [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
 - [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP
 - [getkirby/starterkit](https://github.com/getkirby/starterkit) - Kirby's sample site – the easiest way to get started with Kirby
-- [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
+- [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [z-song/laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes
 - [vanilla/vanilla](https://github.com/vanilla/vanilla) - Vanilla is a powerfully simple discussion forum you can easily customize to make as unique as your community.
 - [thedevdojo/chatter](https://github.com/thedevdojo/chatter) - Chatter is a Simple Laravel Forum Package
@@ -3095,6 +3096,8 @@
 
 ## Python 
 
+- [Yelp/elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
+- [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
@@ -3121,7 +3124,7 @@
 - [aaPanel/aaPanel](https://github.com/aaPanel/aaPanel) - Simple but Powerful web-based Control Panel
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
-- [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing.
+- [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing, written in Python.
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
 - [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
@@ -4000,6 +4003,8 @@
 
 ## TypeScript 
 
+- [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
+- [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 - [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management to the desktop
 - [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
@@ -4086,7 +4091,7 @@
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
 - [browserless/chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [oct16/TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder & Player 🖥
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [lit/lit-element](https://github.com/lit/lit-element) - LEGACY REPO. This repository is for maintenance of the legacy LitElement library. The LitElement base class is now part of the Lit library, which is developed in the lit monorepo.
@@ -4177,7 +4182,7 @@
 - [cucumber/common](https://github.com/cucumber/common) - A monorepo of common components - building blocks for implementing Cucumber in various languages.
 - [emmetio/emmet](https://github.com/emmetio/emmet) - The essential toolkit for web-developers
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
 - [microsoft/BosqueLanguage](https://github.com/microsoft/BosqueLanguage) - The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
