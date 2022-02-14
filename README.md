@@ -116,7 +116,7 @@
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
-- [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
+- [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 
 ## AutoHotkey 
 
@@ -136,6 +136,7 @@
 
 ## C 
 
+- [Moddable-OpenSource/moddable](https://github.com/Moddable-OpenSource/moddable) - Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers.
 - [maxmind/libmaxminddb](https://github.com/maxmind/libmaxminddb) - C library for the MaxMind DB file format
 - [libbpf/libbpf](https://github.com/libbpf/libbpf) - Automated upstream mirror for libbpf stand-alone build.
 - [PhilipHazel/pcre2](https://github.com/PhilipHazel/pcre2) - PCRE2 development is now based here.
@@ -188,6 +189,7 @@
 - [jerryscript-project/jerryscript](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things.
 - [wiredtiger/wiredtiger](https://github.com/wiredtiger/wiredtiger) - WiredTiger's source tree
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [greenbone/openvas-scanner](https://github.com/greenbone/openvas-scanner) - This repository contains the scanner component for Greenbone Vulnerability Management (GVM). If you are looking for the whole OpenVAS framework please take a look at https://community.greenbone.net/t/frequently-asked-questions-faq/5558.
 - [OISF/suricata](https://github.com/OISF/suricata) - Suricata git repository maintained by the OISF
 - [mcafee/mysql-audit](https://github.com/mcafee/mysql-audit) - AUDIT Plugin for MySQL. See wiki and readme for description. If you find the plugin useful, please star us on GitHub. We love stars and it's a great way to show your feedback.
@@ -281,6 +283,7 @@
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 - [archlinux/linux](https://github.com/archlinux/linux) - Arch Linux kernel sources, with patches (Mirror)
 - [mjolnirapp/mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight automation and productivity app for OS X
+- [cucumber/common](https://github.com/cucumber/common) - A monorepo of common components - building blocks for implementing Cucumber in various languages.
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [the-tcpdump-group/tcpdump](https://github.com/the-tcpdump-group/tcpdump) - the TCPdump network dissector
 - [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) - This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces.
@@ -802,7 +805,7 @@
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [KubeOperator/KubeOperator](https://github.com/KubeOperator/KubeOperator) - KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。
-- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
+- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.
@@ -1221,6 +1224,7 @@
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [hackershare/hackershare](https://github.com/hackershare/hackershare) - Hackershare is a powerful social bookmarking service and a knowledge-sharing community, with advanced search and tag management feature
 - [Veykril/tlborm](https://github.com/Veykril/tlborm) - The Little Book of Rust Macros(Updated)
+- [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 - [shichao-an/notes](https://github.com/shichao-an/notes) - Shichao's Notes
 - [freznicek/awesome-awk](https://github.com/freznicek/awesome-awk) - A curated list of awesome AWK frameworks, libraries, software and resources
@@ -1451,7 +1455,6 @@
 - [weibocom/motan](https://github.com/weibocom/motan) - A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services.
 - [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout) - 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm
-- [android/user-interface-samples](https://github.com/android/user-interface-samples) - Multiple samples showing the best practices in the user interface on Android.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [vipshop/vjtools](https://github.com/vipshop/vjtools) - The vip.com's java coding standard, libraries and tools
 - [OpenTSDB/opentsdb](https://github.com/OpenTSDB/opentsdb) - A scalable, distributed Time Series Database.
@@ -1591,6 +1594,8 @@
 
 ## JavaScript 
 
+- [GoogleChromeLabs/jsvu](https://github.com/GoogleChromeLabs/jsvu) - JavaScript (engine) Version Updater
+- [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 - [nashaofu/dingtalk](https://github.com/nashaofu/dingtalk) - 钉钉桌面版，基于electron和钉钉网页版开发，支持Windows、Linux和macOS
 - [soldair/node-qrcode](https://github.com/soldair/node-qrcode) - qr code generator
 - [nginx/njs-examples](https://github.com/nginx/njs-examples) - NGINX JavaScript examples
@@ -1652,6 +1657,7 @@
 - [youzan/open-sdk-node](https://github.com/youzan/open-sdk-node) - 有赞云网关 SDK for Node
 - [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [newrelic/node-newrelic](https://github.com/newrelic/node-newrelic) - New Relic Node.js agent code base. Developers are welcome to create pull requests here, please see our contributing guidelines. For New Relic technical support, please go to http://support.newrelic.com.
 - [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon and the new Apple M1 Macs
 - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app
@@ -1741,7 +1747,7 @@
 - [nock/nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
 - [withastro/snowpack](https://github.com/withastro/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
-- [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the Webdriver API
+- [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the W3C Webdriver API
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 - [JacksonTian/eventproxy](https://github.com/JacksonTian/eventproxy) - An implementation of task/event based asynchronous pattern.
 - [PacktPublishing/Node.js-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition) - Node.js Design Patterns Third Edition, published by Packt
@@ -2144,7 +2150,7 @@
 - [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
 - [vuejs/v2.vuejs.org](https://github.com/vuejs/v2.vuejs.org) - 📄 Documentation for Vue 2
-- [facebook/prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
+- [facebookarchive/prepack](https://github.com/facebookarchive/prepack) - A JavaScript bundle optimizer.
 - [aui/font-spider](https://github.com/aui/font-spider) - Smart webfont compression and format conversion tool
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -2159,7 +2165,7 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [syt123450/giojs](https://github.com/syt123450/giojs) - 🌏  A Declarative 3D Globe Data Visualization Library built with Three.js
 - [cyanzhong/xTeko](https://github.com/cyanzhong/xTeko) - JSBox demos
-- [cedricblondeau/world-cup-2018-cli-dashboard](https://github.com/cedricblondeau/world-cup-2018-cli-dashboard) - ⚽🏆A World Cup 2018 CLI dashboard – Watch matches in your terminal
+- [cedricblondeau/world-cup-2018-cli-dashboard](https://github.com/cedricblondeau/world-cup-2018-cli-dashboard) - ⚽🏆 World Cup 2018 CLI dashboard: watch matches in your terminal.
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [gtanner/qrcode-terminal](https://github.com/gtanner/qrcode-terminal) - QRCodes in your terminal, cause thats hot.
 - [helloxz/zdir](https://github.com/helloxz/zdir) - 使用PHP开发的目录索引系统
@@ -2351,6 +2357,7 @@
 - [arrow-kt/arrow](https://github.com/arrow-kt/arrow) - Λrrow - Functional companion to Kotlin's Standard Library
 - [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 - [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
+- [android/user-interface-samples](https://github.com/android/user-interface-samples) - Multiple samples showing the best practices in the user interface on Android.
 - [specialprojects-experiments/paperphone](https://github.com/specialprojects-experiments/paperphone) - Paper phone experimental android app
 - [eycorsican/kitsunebi-android](https://github.com/eycorsican/kitsunebi-android) - A fully-featured V2Ray client for Android.
 - [pinterest/ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
@@ -2404,7 +2411,6 @@
 
 ## Makefile 
 
-- [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.
 - [LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) - Just enough OS for KODI
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [luxas/kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring
@@ -2443,7 +2449,7 @@
 ## Nix 
 
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
-- [Trundle/NixOS-WSL](https://github.com/Trundle/NixOS-WSL) - NixOS on WSL(2)
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@Trundle]
 - [ryantm/home-manager-template](https://github.com/ryantm/home-manager-template) - A quick-start template for using home-manager in a more reproducible way.
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
@@ -2491,7 +2497,7 @@
 - [Nyx0uf/qlImageSize](https://github.com/Nyx0uf/qlImageSize) - QuickLook and Spotlight plugins to display the dimensions, size and DPI of an image in the title bar instead of the filename. Also preview some unsupported formats like WebP & bpg.
 - [kevingessner/FunctionFlip](https://github.com/kevingessner/FunctionFlip) - Learn more (and get binaries) at http://kevingessner.com/software/functionflip/
 - [ibireme/YYKit](https://github.com/ibireme/YYKit) - A collection of iOS components.
-- [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript
+- [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [niw/HapticKey](https://github.com/niw/HapticKey) - A simple utility application to trigger haptic feedback when tapping Touch Bar.
@@ -2846,6 +2852,7 @@
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [Runjuu/SongLink](https://github.com/Runjuu/SongLink) - 🎵 Just a tool that makes sharing and finding music more easily.
 - [kenwoodjw/python_interview_question](https://github.com/kenwoodjw/python_interview_question) - 关于python的面试题
+- [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 🇨🇳 老司机 iOS 周报
 - [andsnw/Directory-of-Software-Eng-Resources](https://github.com/andsnw/Directory-of-Software-Eng-Resources) - A curated directory of programming / software engineering resources.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [sorrycc/awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs) - 🎉 整理我平时关注的前端库。
@@ -2928,7 +2935,7 @@
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [wowlusitong/awesome-education](https://github.com/wowlusitong/awesome-education) - 学生福利-收集支持教育优惠的软件与服务
-- [demopark/sequelize-docs-Zh-CN](https://github.com/demopark/sequelize-docs-Zh-CN) - Sequelize 文档的中文版本:  v4.42.0 | v5.21.5 | v6.6.5
+- [demopark/sequelize-docs-Zh-CN](https://github.com/demopark/sequelize-docs-Zh-CN) - Sequelize 文档的中文版本:  v7.1.0 | v6.16.0
 - [MarnoDev/react-native-open-project](https://github.com/MarnoDev/react-native-open-project) - 可能是目前最用心收集的 React Native 优秀开源项目大全，公众号【aMarno】www.marno.cn
 - [reactnativecn/react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
@@ -3198,7 +3205,6 @@
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.
 - [geertj/restful-api-design](https://github.com/geertj/restful-api-design) - 
 - [asciidoc-py/asciidoc-py2](https://github.com/asciidoc-py/asciidoc-py2) - Deprecated python2 implementation of AsciiDoc.py. See asciidoc-py/asciidoc-py for current work.
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [thunlp/OpenAttack](https://github.com/thunlp/OpenAttack) - An Open-Source Package for Textual Adversarial Attack.
@@ -3397,7 +3403,6 @@
 - [gavin66/proxy_list](https://github.com/gavin66/proxy_list) - 爬取免费可用代理，供爬虫等工具使用
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [cn/GB2260](https://github.com/cn/GB2260) - 中华人民共和国国家标准 GB/T 2260 行政区划代码
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [bluedazzle/leetcode_python](https://github.com/bluedazzle/leetcode_python) - leetcode solution by python
@@ -3496,7 +3501,7 @@
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [AdoptOpenJDK/homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk) - AdoptOpenJDK HomeBrew Tap
 - [skycocker/chromebrew](https://github.com/skycocker/chromebrew) - Package manager for Chrome OS
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot Updates
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/github/feedback/discussions/categories/dependabot-feedback
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [kkuchta/css-only-chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend
 - [realm/jazzy](https://github.com/realm/jazzy) - Soulful docs for Swift & Objective-C
@@ -3901,7 +3906,7 @@
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [apple/swift-algorithms](https://github.com/apple/swift-algorithms) - Commonly used sequence and collection algorithms for Swift
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
-- [tatsuz0u/EhPanda](https://github.com/tatsuz0u/EhPanda) - An unofficial E-Hentai App for iOS built with SwiftUI. (Refactoring with TCA)
+- [tatsuz0u/EhPanda](https://github.com/tatsuz0u/EhPanda) - An unofficial E-Hentai App for iOS built with SwiftUI & TCA.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [davidwernhart/AlDente](https://github.com/davidwernhart/AlDente) - macOS tool to limit maximum charging percentage
 - [Carthage/Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa
@@ -3951,7 +3956,6 @@
 - [neilalexander/seaglass](https://github.com/neilalexander/seaglass) - A truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support
 - [dyerc/Doughnut](https://github.com/dyerc/Doughnut) - Podcast client (podcatcher) for Mac
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
-- [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 🇨🇳 老司机 iOS 周报
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [objcio/swift-talk-backend](https://github.com/objcio/swift-talk-backend) - 
 - [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
@@ -4087,7 +4091,6 @@
 - [seanpmaxwell/express-generator-typescript](https://github.com/seanpmaxwell/express-generator-typescript) - Create a new express app similar to express-generator but with TypeScript
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [dabit3/full-stack-ethereum](https://github.com/dabit3/full-stack-ethereum) - Building full stack apps with Solidity, Ethers.js, Hardhat, and The Graph
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [nomiclabs/hardhat](https://github.com/nomiclabs/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
@@ -4222,7 +4225,6 @@
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
-- [cucumber/common](https://github.com/cucumber/common) - A monorepo of common components - building blocks for implementing Cucumber in various languages.
 - [emmetio/emmet](https://github.com/emmetio/emmet) - The essential toolkit for web-developers
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
