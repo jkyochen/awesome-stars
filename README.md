@@ -397,6 +397,7 @@
 
 ## C++ 
 
+- [airbnb/node-memwatch](https://github.com/airbnb/node-memwatch) - A NodeJS library to keep an eye on your memory usage, and discover and isolate leaks.
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [iovisor/bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
@@ -744,6 +745,10 @@
 
 ## Go 
 
+- [megaease/easemesh](https://github.com/megaease/easemesh) - A service mesh implementation for connecting,  control, and observe services in spring-cloud.
+- [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system
+- [pseudomuto/protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [kubecost/cost-model](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for Kubernetes workloads
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
@@ -1396,6 +1401,10 @@
 
 ## Java 
 
+- [raphw/byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine.
+- [megaease/easeagent](https://github.com/megaease/easeagent) - An agent component for the Java system
+- [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
+- [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
 - [apache/commons-beanutils](https://github.com/apache/commons-beanutils) - Apache Commons Beanutils
 - [ouchuangxin/leave-sample](https://github.com/ouchuangxin/leave-sample) - 本代码来源于极客时间《DDD实战》专栏。
 - [powermock/powermock](https://github.com/powermock/powermock) - PowerMock is a Java framework that allows you to unit test code normally regarded as untestable.
@@ -1507,7 +1516,6 @@
 - [killme2008/aviatorscript](https://github.com/killme2008/aviatorscript) - A high performance scripting language hosted on the JVM.
 - [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
-- [jleyba/js-dossier](https://github.com/jleyba/js-dossier) - A JavaScript documentation generation tool.
 - [Exrick/xpay](https://github.com/Exrick/xpay) - XPay个人免签收款支付系统 完全免费 资金直接到达本人账号 支持 支付宝 微信 QQ 云闪付 无需备案 无需签约 无需挂机监控APP 无需插件 无需第三方支付SDK 无需营业执照身份证 只需收款码 搞定支付流程 现已支持移动端支付
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
@@ -1604,6 +1612,12 @@
 
 ## JavaScript 
 
+- [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [google/closure-library](https://github.com/google/closure-library) - Google's common JavaScript library
+- [multiavatar/Multiavatar](https://github.com/multiavatar/Multiavatar) - Multicultural Avatar Generator in JavaScript
+- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [fastify/benchmarks](https://github.com/fastify/benchmarks) - Fast and low overhead web framework fastify benchmarks.
+- [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 - [WPS/domain-story-modeler](https://github.com/WPS/domain-story-modeler) - A tool to visualize Domain Stories in your browser
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [pillarjs/send](https://github.com/pillarjs/send) - Streaming static file server with Range and conditional-GET support
@@ -1619,7 +1633,6 @@
 - [nginx/njs-examples](https://github.com/nginx/njs-examples) - NGINX JavaScript examples
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules
-- [mysticatea/eslint-plugin-node](https://github.com/mysticatea/eslint-plugin-node) - Additional ESLint's rules for Node.js
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [nodejs/abi-stable-node](https://github.com/nodejs/abi-stable-node) - Repository used by the Node-API team to manage work related to Node-API and node-addon-api
 - [chakra-core/ChakraCore](https://github.com/chakra-core/ChakraCore) - ChakraCore is an open source Javascript engine with a C API.
@@ -1792,7 +1805,6 @@
 - [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 - [primus/eventemitter3](https://github.com/primus/eventemitter3) - EventEmitter3 - Because there's also a number 2. And we're faster.
 - [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
-- [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
@@ -2344,6 +2356,7 @@
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  3,000,000+ Unsplash images made available for research and machine learning
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
+- [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [datawhalechina/joyful-pandas](https://github.com/datawhalechina/joyful-pandas) - pandas中文教程
 - [apachecn/Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + 算法题 + 八股文 + 源码分析
@@ -2408,6 +2421,7 @@
 
 - [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
+- [nmattia/homies](https://github.com/nmattia/homies) - linux package management
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 - [luvit/luvit](https://github.com/luvit/luvit) - Lua + libUV + jIT = pure awesomesauce
@@ -2469,7 +2483,6 @@
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@Trundle]
 - [ryantm/home-manager-template](https://github.com/ryantm/home-manager-template) - A quick-start template for using home-manager in a more reproducible way.
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
-- [nmattia/homies](https://github.com/nmattia/homies) - linux package management
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 
@@ -2568,6 +2581,8 @@
 
 ## Others 
 
+- [yjhjstz/deep-into-node](https://github.com/yjhjstz/deep-into-node) - 深入理解Node.js：核心思想与源码分析
+- [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
 - [decrypto-org/blockchain-papers](https://github.com/decrypto-org/blockchain-papers) - A curated list of academic blockchain-related papers
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 - [aimingoo/my-ebooks](https://github.com/aimingoo/my-ebooks) - 下载与收藏一些我已发布的电子书或编目过的文章
@@ -2890,11 +2905,10 @@
 - [izhouping/KPA](https://github.com/izhouping/KPA) - 知识付费套利（Knowledge payment arbitrage）
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
-- [hexojs/awesome-hexo](https://github.com/hexojs/awesome-hexo) - A curated list of awesome things related to Hexo
 - [wainshine/Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus) - 公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。
 - [ethereum/wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
 - [soruly/awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to Anime, Comic and Games
-- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 创刊于 2015 年，坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
 - [VincentSit/ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) - Regular expressions that match the mobile phone number in mainland China. / 一组匹配中国大陆手机号码的正则表达式。
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
 - [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
@@ -3029,6 +3043,7 @@
 
 ## PHP 
 
+- [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM)
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) - Yii 2: The Fast, Secure and Professional PHP Framework
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
 - [charlesabarnes/SPFtoolbox](https://github.com/charlesabarnes/SPFtoolbox) - SPFtoolbox is a Javascript and PHP app to look up DNS records such as SPF, MX, Whois, and more
@@ -3092,7 +3107,7 @@
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕 - we stand with 🇺🇦
 - [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [PrintNow/php-sorry-gif](https://github.com/PrintNow/php-sorry-gif) - [PHP版]在线制作 sorry 为所欲为等其他7种的gif，可能有 N 多 bug，欢迎 Issues
-- [flarum/core](https://github.com/flarum/core) - Simple forum software for building great communities.
+- [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
 - [metowolf/Meting](https://github.com/metowolf/Meting) - :cake: Wow, such a powerful music API framework
 - [kiddyuchina/Beanbun](https://github.com/kiddyuchina/Beanbun) - Beanbun 是用 PHP 编写的多进程网络爬虫框架，具有良好的开放性、高可扩展性，基于 Workerman。
@@ -3138,6 +3153,8 @@
 
 ## Python 
 
+- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+- [alecmuffett/real-world-onion-sites](https://github.com/alecmuffett/real-world-onion-sites) - This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services.
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [FeeiCN/Cobra](https://github.com/FeeiCN/Cobra) - Source Code Security Audit (源代码安全审计)
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -3355,6 +3372,7 @@
 - [instagrambot/instagram-terminal-news-feed](https://github.com/instagrambot/instagram-terminal-news-feed) - Instagram in terminal :alien::alien::fire::fire:
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [RSS-Renaissance/awesome-blogCN-feeds](https://github.com/RSS-Renaissance/awesome-blogCN-feeds) - 优质的「独立中文博客」订阅列表
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [SublimeLinter/SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - The code linting framework for Sublime Text 3
 - [SublimeCodeIntel/SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - 💡 Full-featured code intelligence and smart autocomplete for Sublime Text
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
@@ -3591,6 +3609,7 @@
 
 ## Rust 
 
+- [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -3772,7 +3791,7 @@
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [lmk123/oh-my-wechat](https://github.com/lmk123/oh-my-wechat) - 微信小助手的安装 / 更新工具。
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
@@ -4031,7 +4050,7 @@
 - [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate QR Code in Swift, support iOS, macOS, watchOS and tvOS.
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 - [cyanzhong/TodayMind](https://github.com/cyanzhong/TodayMind) - Make Reminders Great Again
-- [nemesit/SwiftBubble](https://github.com/nemesit/SwiftBubble) - recreation of the soap bubble screen saver from apple's promotional videos for the new MacBook 12"
+- [nemesit/SwiftBubble](https://github.com/nemesit/SwiftBubble) - Recreation of the soap bubble screen saver from apple's promotional videos for the new MacBook 12"
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [toolinbox/iPicUploader](https://github.com/toolinbox/iPicUploader) - Use iPic to upload images on macOS.
 - [zhuhaow/SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy for macOS
@@ -4067,11 +4086,17 @@
 
 ## TypeScript 
 
+- [stemmlerjs/white-label](https://github.com/stemmlerjs/white-label) - A Vinyl-Trading enterprise app built with Node.js + TypeScript using Domain-Driven Design
+- [inversify/inversify-express-example](https://github.com/inversify/inversify-express-example) - The official express + inversify+ inversify-express-utils examples
+- [inversify/inversify-express-utils](https://github.com/inversify/inversify-express-utils) - Some utilities for the development of Express application with InversifyJS
+- [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
+- [eggjs/tegg](https://github.com/eggjs/tegg) - Strong Type framework with eggjs.
+- [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [cnpm/cnpmcore](https://github.com/cnpm/cnpmcore) - Private NPM Registry for Enterprise
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [SonarSource/eslint-plugin-sonarjs](https://github.com/SonarSource/eslint-plugin-sonarjs) - SonarJS rules for ESLint
-- [snyk/snyk](https://github.com/snyk/snyk) - Snyk CLI scans and monitors your projects for security vulnerabilities.
+- [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
 - [NagRock/ts-mockito](https://github.com/NagRock/ts-mockito) - Mocking library for TypeScript
@@ -4082,7 +4107,7 @@
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 - [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management on the desktop
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
 - [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars.
@@ -4268,7 +4293,6 @@
 - [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
-- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
