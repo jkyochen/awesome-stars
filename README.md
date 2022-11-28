@@ -1581,7 +1581,7 @@
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [iReaderAndroid/X2C](https://github.com/iReaderAndroid/X2C) - Increase layout loading speed 200%
 - [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
-- [halo-dev/halo](https://github.com/halo-dev/halo) - 好用又强大的开源站点工具。
+- [halo-dev/halo](https://github.com/halo-dev/halo) - 好用又强大的开源建站工具。
 - [vert-x3/vertx-rx](https://github.com/vert-x3/vertx-rx) - Reactive Extensions for Vert.x
 - [google/data-transfer-project](https://github.com/google/data-transfer-project) - The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direc
 - [zc-zh-001/ShadowSocks-Share](https://github.com/zc-zh-001/ShadowSocks-Share) - 示例站点
@@ -1910,7 +1910,6 @@
 - [ashtuchkin/iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings in pure javascript.
 - [bnoordhuis/node-iconv](https://github.com/bnoordhuis/node-iconv) - node.js iconv bindings - text recoding for fun and profit!
 - [bnoordhuis/node-heapdump](https://github.com/bnoordhuis/node-heapdump) - Make a dump of the V8 heap for later inspection.
-- [ntfstool/ntfstool](https://github.com/ntfstool/ntfstool) - A ntfs tool for mac
 - [balderdashy/waterline](https://github.com/balderdashy/waterline) - An adapter-based ORM for Node.js  with support for mysql, mongo, postgres, mssql (SQL Server), and more
 - [lesshint/lesshint](https://github.com/lesshint/lesshint) - A tool to aid you in writing clean and consistent Less.
 - [htmlhint/HTMLHint](https://github.com/htmlhint/HTMLHint) - ⚙️ The static code analysis tool you need for your HTML
@@ -2516,6 +2515,7 @@
 
 ## Nim 
 
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [oakes/vim_cubed](https://github.com/oakes/vim_cubed) - Vim rendered on a cube for no reason
 
@@ -2902,6 +2902,7 @@
 - [wireapp/wire](https://github.com/wireapp/wire) - :wavy_dash: Overview of the open source code for Wire
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+- [cucumber/common](https://github.com/cucumber/common) - A monorepo of common components - building blocks for implementing Cucumber in various languages.
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -3914,7 +3915,7 @@
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-- [Coding/WebIDE](https://github.com/Coding/WebIDE) - Coding WebIDE Community Edition
+- [coding/WebIDE](https://github.com/coding/WebIDE) - Coding WebIDE Community Edition
 - [matchai/spacefish](https://github.com/matchai/spacefish) - 🚀🐟 The fish shell prompt for astronauts
 - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [xuxiaodong/nextcontainer-example](https://github.com/xuxiaodong/nextcontainer-example) - 《拥抱下一代容器化工具》视频课程所用的安装脚本、配置以及示例文件
@@ -4120,6 +4121,7 @@
 
 ## TypeScript 
 
+- [melink14/rikaikun](https://github.com/melink14/rikaikun) - rikaikun is a Chrome extension that helps you to read Japanese web pages by showing the reading and English definition of Japanese words when you hover over them.
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all!
@@ -4365,7 +4367,6 @@
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
-- [cucumber/common](https://github.com/cucumber/common) - A monorepo of common components - building blocks for implementing Cucumber in various languages.
 - [emmetio/emmet](https://github.com/emmetio/emmet) - The essential toolkit for web-developers
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
