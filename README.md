@@ -352,7 +352,6 @@
 - [arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [nginx/nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to ngi
-- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [madeye/shadowsocks-libev](https://github.com/madeye/shadowsocks-libev) - libev port of shadowsocks
 - [cloudwu/skynet](https://github.com/cloudwu/skynet) - A lightweight online game framework
 - [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
@@ -375,7 +374,8 @@
 
 ## C# # 
 
-- [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 6, Docker Containers and Azure Kubernetes Services. Supports Visual Studi
+- [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
+- [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studi
 - [NuGet/NuGetGallery](https://github.com/NuGet/NuGetGallery) - NuGet Gallery is a package repository that powers https://www.nuget.org. Use this repo for reporting NuGet.org issues.
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
@@ -629,6 +629,7 @@
 - [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [d2-projects/d2-daily](https://github.com/d2-projects/d2-daily) - D2 日报
+- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 - [xhacker/me](https://github.com/xhacker/me) - Personal website.
 - [Windfarer/text](https://github.com/Windfarer/text) - modified text theme for ghost, optimized for Simplified Chinese text display, thanks to the original author imgarylai. demo:
 - [hacker-tools/hacker-tools.github.io](https://github.com/hacker-tools/hacker-tools.github.io) - Hacker Tools class website
@@ -823,7 +824,7 @@
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Visualise Go program runtime metrics in real time in your browser
 - [alibaba/RedisShake](https://github.com/alibaba/RedisShake) - redis-shake is a tool for Redis data migration and data filtering. redis-shake 是一个用于 Redis 数据迁移与过滤的工具。
-- [alibaba/RedisFullCheck](https://github.com/alibaba/RedisFullCheck) - redis-full-check is used to compare whether two redis have the same data. redis-full-check用于比较2个redis数据是否一致，支持单节点、主从、集群版、以及多种proxy，支持同构以及异构对比，redis的版本支持2.x-5.x。
+- [alibaba/RedisFullCheck](https://github.com/alibaba/RedisFullCheck) - redis-full-check is used to compare whether two redis have the same data. Support redis version from 2.x to 7.x (Don't support Redis Modules).
 - [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for Redis Metrics. Supports Redis 2.x, 3.x, 4.x, 5.x, 6.x, and 7.x
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
@@ -949,7 +950,7 @@
 - [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) - Ruby on Rails like test fixtures for Go. Write tests against a real database
 - [matryer/goblueprints](https://github.com/matryer/goblueprints) - Source code for Go Programming Blueprints
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
-- [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from `.env`.)
+- [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [UnnoTed/fileb0x](https://github.com/UnnoTed/fileb0x) - a better customizable tool to embed files in go; also update embedded files remotely without restarting the server
 - [mitchellh/gox](https://github.com/mitchellh/gox) - A dead simple, no frills Go cross compile tool
 - [sergi/go-diff](https://github.com/sergi/go-diff) - Diff, match and patch text in Go
@@ -961,7 +962,7 @@
 - [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [CodisLabs/codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
 - [WhoJave/clash](https://github.com/WhoJave/clash) - A rule-based tunnel in Go.
-- [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Golang library that provides a friendly API to run Docker containers. It is designed to create a runtime testing environment to use during your automatic tests.
+- [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [wxbool/video-srt-windows](https://github.com/wxbool/video-srt-windows) - 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
@@ -1076,7 +1077,7 @@
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) - Translate your Go program into multiple languages.
 - [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries
-- [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
+- [redis/go-redis](https://github.com/redis/go-redis) - Type-safe Redis client for Golang
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 - [pydio/cells](https://github.com/pydio/cells) - Future-proof content collaboration platform
 - [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
@@ -1667,6 +1668,8 @@
 
 ## JavaScript 
 
+- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
+- [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
 - [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [smartcontractkit/hardhat-starter-kit](https://github.com/smartcontractkit/hardhat-starter-kit) - A repo for boilerplate code for testing, deploying, and shipping chainlink solidity code.
@@ -1737,7 +1740,6 @@
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [afc163/fanyi](https://github.com/afc163/fanyi) - A 🇨🇳 and 🇺🇸 translate tool in your command line.
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
-- [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [janl/mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
@@ -1975,7 +1977,6 @@
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
 - [postcss/autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
@@ -2074,7 +2075,6 @@
 - [codewars/codewars-runner-cli](https://github.com/codewars/codewars-runner-cli) - Old CodeRunner project. See https://github.com/codewars/runner instead.
 - [imsun/gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
 - [BafS/Material-Colors-native](https://github.com/BafS/Material-Colors-native) - Material Colors - A React Native App to Select Material Colors for macOS.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [sandoche/Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
 - [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [evgeny-nadymov/telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
@@ -2114,7 +2114,6 @@
 - [vvo/gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
 - [petrovicstefanrs/30_seconds_of_knowledge](https://github.com/petrovicstefanrs/30_seconds_of_knowledge) - Google Chrome Extension that lets you gain new developer skills, every time you open a New Tab.
 - [sciencefair-land/sciencefair](https://github.com/sciencefair-land/sciencefair) - The futuristic, fabulous and free desktop app for working with scientific literature :microscope: :book:
-- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 - [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [VKSRC/Github-Monitor](https://github.com/VKSRC/Github-Monitor) - Github Sensitive Information Leakage Monitor(Github信息泄漏监控系统)
@@ -2394,6 +2393,7 @@
 
 ## Jupyter Notebook 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
@@ -2458,7 +2458,6 @@
 
 ## Less 
 
-- [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 - [mashaal/wild-cherry](https://github.com/mashaal/wild-cherry) - :princess::tulip::japanese_ogre: A fairy-tale inspired theme, with tasteful use of emojis
 - [alehaa/nginx-fancyindex-flat-theme](https://github.com/alehaa/nginx-fancyindex-flat-theme) - Flat theme for nginx's fancyindex plugin
 
@@ -2501,6 +2500,7 @@
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [servicemesher/istio-handbook](https://github.com/servicemesher/istio-handbook) - Istio服务网格进阶实战
 - [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [holzschu/python_ios](https://github.com/holzschu/python_ios) - Python-2.7.13, ported to iOS, with partial fork/exec
 - [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
 - [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
@@ -2513,6 +2513,7 @@
 - [apple/swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 - [lightning/bolts](https://github.com/lightning/bolts) - BOLT: Basis of Lightning Technology (Lightning Network Specifications)
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+- [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
 
@@ -2597,6 +2598,7 @@
 - [jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD) - MBProgressHUD + Customizations
 - [lucasjacks0n/EggShell](https://github.com/lucasjacks0n/EggShell) - iOS/macOS/Linux Remote Administration Tool
 - [MartianZ/fakeThunder](https://github.com/MartianZ/fakeThunder) - fakeThunder is an unofficial Thunder(aka Xunlei) client for OS X.
+- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
 - [Cenmrev/V2RayX](https://github.com/Cenmrev/V2RayX) - GUI for v2ray-core on macOS
 - [jigish/slate](https://github.com/jigish/slate) - A window management application (replacement for Divvy/SizeUp/ShiftIt)
@@ -2723,7 +2725,7 @@
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
-- [simevidas/web-dev-feeds](https://github.com/simevidas/web-dev-feeds) - A collection of exactly 1000 RSS feeds for web developers, updated monthly
+- [simevidas/web-dev-feeds](https://github.com/simevidas/web-dev-feeds) - A collection of over 1000 RSS feeds for web developers, updated monthly
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台翻译和 OCR 软件。
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
@@ -3196,7 +3198,6 @@
 ## Python 
 
 - [KanjiVG/kanjivg](https://github.com/KanjiVG/kanjivg) - Kanji vector graphics
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
@@ -3661,6 +3662,7 @@
 
 ## Rust 
 
+- [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
@@ -3801,7 +3803,7 @@
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 - [twitter/twitter-server](https://github.com/twitter/twitter-server) - Twitter-Server defines a template from which services at Twitter are built
 - [ReactivePlatform/Reactive-Design-Patterns](https://github.com/ReactivePlatform/Reactive-Design-Patterns) - 《反应式设计模式》中文版代码清单      勘误地址=&gt;
-- [firesim/firesim](https://github.com/firesim/firesim) - FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
+- [firesim/firesim](https://github.com/firesim/firesim) - FireSim: Fast and Effortless FPGA-accelerated Hardware Simulation with On-Prem and Cloud Flexibility
 - [ThoughtWorksInc/Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala) - Reactive data-binding for Scala
 - [gtache/intellij-lsp](https://github.com/gtache/intellij-lsp) - Plugin adding Language Server Protocol support for IntelliJ
 - [akka/akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM
@@ -3844,6 +3846,7 @@
 - [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities and useful extra git scripts.
 - [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
 - [shayne/wsl2-hacks](https://github.com/shayne/wsl2-hacks) - Useful snippets / tools for using WSL2 as a development environment
+- [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [YunoHost/example_ynh](https://github.com/YunoHost/example_ynh) - Example package for YunoHost applications.
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
@@ -3899,7 +3902,7 @@
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [rupa/z](https://github.com/rupa/z) - z - jump around
-- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
@@ -3954,7 +3957,6 @@
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [tliron/install-gnome-themes](https://github.com/tliron/install-gnome-themes) - Script to install the latest versions of some fine GNOME 3 themes
 - [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
-- [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
@@ -4042,7 +4044,7 @@
 - [ReSwift/ReSwift](https://github.com/ReSwift/ReSwift) - Unidirectional Data Flow in Swift - Inspired by Redux
 - [BenziAhamed/Menu-Bar-Search](https://github.com/BenziAhamed/Menu-Bar-Search) - Quickly search through menu options of the front-most application - Alfred Workflow
 - [waylybaye/XcodeCleaner-SwiftUI](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Make Xcode Clean Again
-- [rileytestut/AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
+- [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [onmyway133/GifCapture](https://github.com/onmyway133/GifCapture) - 🏇 Gif capture app for macOS
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [Pyroh/Fluor](https://github.com/Pyroh/Fluor) - A handy tool for macOS allowing you to switch Fn keys' mode based on active application.
@@ -4164,6 +4166,7 @@
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [Hedgehog-Computing/hedgehog-lab](https://github.com/Hedgehog-Computing/hedgehog-lab) - Run, compile and execute JavaScript for Scientific Computing and Data Visualization TOTALLY TOTALLY TOTALLY in your BROWSER! An open source scientific computing environment for JavaScript TOTALLY in y
 - [express-validator/express-validator](https://github.com/express-validator/express-validator) - An express.js middleware for validator.js.
@@ -4198,7 +4201,7 @@
 - [inversify/inversify-express-example](https://github.com/inversify/inversify-express-example) - The official express + inversify+ inversify-express-utils examples
 - [inversify/inversify-express-utils](https://github.com/inversify/inversify-express-utils) - Some utilities for the development of Express application with InversifyJS
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [eggjs/tegg](https://github.com/eggjs/tegg) - Strong Type framework with eggjs.
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
@@ -4361,6 +4364,7 @@
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
+- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [expo/expo-cli](https://github.com/expo/expo-cli) - Tools for creating, running, and deploying universal Expo and React Native apps
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
@@ -4528,7 +4532,7 @@
 
 ## Vue 
 
-- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ CCF recommendation conference Deadline Countdowns / Please star this project, thanks~
+- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Track deadlines of conferences recommended by CCF / Please star this project, thanks~
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube is an alternative YouTube frontend.
