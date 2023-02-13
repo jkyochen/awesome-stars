@@ -635,6 +635,7 @@
 - [hacker-tools/hacker-tools.github.io](https://github.com/hacker-tools/hacker-tools.github.io) - Hacker Tools class website
 - [xhacker/xhacker.github.io](https://github.com/xhacker/xhacker.github.io) - Xhacker’s 3rd Base
 - [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
+- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [jasonlong/cayman-theme](https://github.com/jasonlong/cayman-theme) - A responsive theme for GitHub Pages
 - [abbey2023/youzan_yaofan](https://github.com/abbey2023/youzan_yaofan) - 基于有赞开发的要饭系统
 - [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
@@ -1039,7 +1040,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [zaquestion/lab](https://github.com/zaquestion/lab) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunn
 - [shadowsocks/kcptun](https://github.com/shadowsocks/kcptun) - an extremely simple & fast udp tunnel based on kcp protocol
 - [shawn1m/overture](https://github.com/shawn1m/overture) - A customized DNS relay server
 - [shadowsocks/overture](https://github.com/shadowsocks/overture) - A DNS server/dispatcher written in Go.
@@ -1261,6 +1262,7 @@
 - [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
+- [tantaman/Strut](https://github.com/tantaman/Strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [riggraz/no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
 - [w3c/websub](https://github.com/w3c/websub) - WebSub Spec in Social Web Working Group
@@ -1301,7 +1303,6 @@
 - [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书
 - [go101/go101](https://github.com/go101/go101) - An up-to-date (unofficial) knowledge base for Go programming self learning
 - [eddycjy/blog](https://github.com/eddycjy/blog) - 煎鱼的博客，有点忙，传送门：https://eddycjy.com
-- [MehediH/Tweeten](https://github.com/MehediH/Tweeten) - An intuitive and powerful Twitter experience built for those who get real work done.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [xiaolai/bitcoin-whitepaper-chinese-translation](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation) - 
 - [bradleyboy/bisectercise](https://github.com/bradleyboy/bisectercise) - Practice your git bisect skills
@@ -1334,7 +1335,6 @@
 - [mritd/dockerfile](https://github.com/mritd/dockerfile) - some personally made dockerfile
 - [HT524/500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) - 500 line or less 中文翻译计划。
 - [huzidaha/react-naive-book](https://github.com/huzidaha/react-naive-book) - 开源、免费、专业、简单的 React.js 在线教程
-- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [iDogeTeam/doge.me](https://github.com/iDogeTeam/doge.me) - DogeSpeed Official Site Maintain repo
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [GoogleChrome/samples](https://github.com/GoogleChrome/samples) - A repo containing samples tied to new functionality in each release of Google Chrome.
@@ -1590,7 +1590,7 @@
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [iReaderAndroid/X2C](https://github.com/iReaderAndroid/X2C) - Increase layout loading speed 200%
 - [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
-- [halo-dev/halo](https://github.com/halo-dev/halo) - 好用又强大的开源建站工具。
+- [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
 - [vert-x3/vertx-rx](https://github.com/vert-x3/vertx-rx) - Reactive Extensions for Vert.x
 - [google/data-transfer-project](https://github.com/google/data-transfer-project) - The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direc
 - [zc-zh-001/ShadowSocks-Share](https://github.com/zc-zh-001/ShadowSocks-Share) - 示例站点
@@ -1989,7 +1989,7 @@
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
-- [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
+- [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 - [tapio/live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -2981,7 +2981,6 @@
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
 - [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [guardrailsio/awesome-php-security](https://github.com/guardrailsio/awesome-php-security) - Awesome PHP Security Resources 🕶🐘🔐
-- [PharosVip/-public-benefit](https://github.com/PharosVip/-public-benefit) - 由大佬们赞助的公益服务
 - [Haixing-Hu/typesetting-standard](https://github.com/Haixing-Hu/typesetting-standard) - 中文排版所需遵循的标准和规范
 - [garychowcmu/daizhigev20](https://github.com/garychowcmu/daizhigev20) - 殆知阁古代文献
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -3360,7 +3359,7 @@
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [urllib3/urllib3](https://github.com/urllib3/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more.
-- [conda/conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
+- [conda/conda](https://github.com/conda/conda) - A system-level, binary package and environment manager running on all major operating systems and platforms.
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
@@ -3774,6 +3773,7 @@
 - [andrewbanchich/forty-jekyll-theme](https://github.com/andrewbanchich/forty-jekyll-theme) - A Jekyll version of the "Forty" theme by HTML5 UP.
 - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
 - [pages-themes/primer](https://github.com/pages-themes/primer) - Primer is a Jekyll theme for GitHub Pages
+- [MehediH/Tweeten](https://github.com/MehediH/Tweeten) - An intuitive and powerful Twitter experience built for those who get real work done.
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [dessalines/essays](https://github.com/dessalines/essays) - A few essays on communism
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
@@ -4144,6 +4144,7 @@
 
 ## TypeScript 
 
+- [supercharge/promise-pool](https://github.com/supercharge/promise-pool) - Map-like, concurrent promise processing
 - [spruceid/siwe](https://github.com/spruceid/siwe) - Sign-In with Ethereum library
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [turkyden/lizhi](https://github.com/turkyden/lizhi) - 🎸 李志 (B 仔) 音乐作品跨平台播放器，支持 Web / Mac / Windows / Linux
@@ -4230,7 +4231,6 @@
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [mrmartineau/gatsby-theme-code-notes](https://github.com/mrmartineau/gatsby-theme-code-notes) - A Gatsby theme for publishing code-related notes to your website
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [tantaman/Strut](https://github.com/tantaman/Strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [mirrorz-org/mirrorz](https://github.com/mirrorz-org/mirrorz) - Your next MirrorS is not MirrorS, nor MirrorSes, it's MirrorZ.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -4369,7 +4369,7 @@
 - [expo/expo-cli](https://github.com/expo/expo-cli) - Tools for creating, running, and deploying universal Expo and React Native apps
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 - [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter) - A self-hosted event management tool for nonprofits
-- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [hotwired/stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
@@ -4532,7 +4532,7 @@
 
 ## Vue 
 
-- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Track deadlines of conferences recommended by CCF / Please star this project, thanks~
+- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Collaboratively track deadlines of conferences recommended by CCF / Please star this project, thanks~
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube is an alternative YouTube frontend.
