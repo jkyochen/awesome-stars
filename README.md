@@ -1723,7 +1723,7 @@
 - [davidmarkclements/0x](https://github.com/davidmarkclements/0x) - 🔥 single-command flamegraph profiling 🔥
 - [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers.
 - [supercharge/promise-pool](https://github.com/supercharge/promise-pool) - Map-like, concurrent promise processing
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
+- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
 - [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
 - [smartcontractkit/hardhat-starter-kit](https://github.com/smartcontractkit/hardhat-starter-kit) - A repo for boilerplate code for testing, deploying, and shipping chainlink solidity code.
